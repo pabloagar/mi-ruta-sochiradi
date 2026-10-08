@@ -43,3 +43,9 @@ Ver `docs/verification.md` para pruebas ejecutadas y pendientes. La emulación n
 ## Actualización compacta
 
 Por horario ahora muestra una lista móvil; Tabla queda para escritorio. Ahora presenta Lo próximo fuera de horario. Las fichas de conferencistas incluyen otras actividades del programa y, con nombre completo coincidente, foto y extracto breve de su descripción pública en Conf.app. speakers.json conserva procedencia y fecha de consulta. Las fotos se cargan desde su URL original y requieren conexión; la agenda y textos funcionan offline. Ocho participantes se separaron de títulos tras revisión visual del PDF; scripts/refine-participants.mjs reproduce las correcciones y es invocado al final de reconcile.mjs.
+
+## GitHub y Cloudflare Pages
+
+Repositorio: https://github.com/pabloagar/mi-ruta-sochiradi
+
+Para desplegar la versión actual en Cloudflare Pages, conectar GitHub y usar **Framework: None**, **comando: node scripts/validate.mjs**, **salida: dist**, **rama: main**. Instrucciones y consideraciones sobre las rutas guardadas en [docs/cloudflare-pages.md](docs/cloudflare-pages.md).
