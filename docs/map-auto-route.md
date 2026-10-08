@@ -10,3 +10,7 @@ Solicitud: salones primero, recorrido automático al elegir Desde/Hasta, ambas p
 - Se corrigió la lectura de destinos de tipo alias en el adaptador; ahora usa el discriminador real `alias` del mapa original.
 
 Pruebas aprobadas: orden de grupos, selección de destino sin origen, cálculo al modificar cualquiera de los dos selectores, planta baja → alta por escalera izquierda, alta → baja por derecha, misma planta, ambas plantas visibles, borrar/restaurar, tamaños 320/375/441, navegación de vuelta a la ficha, persistencia de Mi Ruta y actualización PWA/offline. Captura revisada a 375 px. Las pruebas de navegador no equivalen a probar teléfonos físicos ni validar recorridos en terreno.
+
+## Actualización 2026.10.08.19 — inicio y destino
+
+Se agregan marcadores «Desde aquí» y «Tu destino» usando las anclas originales de salas/orígenes y, para stands, el extremo del trazado calculado. Los destinos múltiples conservan sus puntos verificados. Si coinciden origen y destino, se muestra una marca combinada. Se indica un origen elegido, no una ubicación detectada. Las etiquetas mantienen su tamaño al ampliar el plano. Prueba auto-map aprobada con actualización, eliminación del origen, restauración, ambas plantas y anchos móviles; captura a 375 px inspeccionada.

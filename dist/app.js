@@ -1,5 +1,5 @@
 const OFFICIAL_MAP='https://congresochilenoradiologia.cl/wp-content/uploads/2026/09/mapa_interactivo_CChR2026.html';
-const APP_VERSION='2026.10.08.18';
+const APP_VERSION='2026.10.08.19';
 import {personalAgenda,searchProgram,routeDates,groupPreview,activityStatus,nextInRoom} from './ux.js';
 import {installNavigation} from './navigation.js';
 import {speakerKey,speakerNames,displayTitle,isPause,upcoming} from './experience.js';
