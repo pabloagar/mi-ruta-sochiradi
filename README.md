@@ -6,7 +6,7 @@ Agenda PWA en español que continúa el HTML aportado por el usuario. Ahora, Pro
 
 Requiere Node.js moderno. Sin dependencias de ejecución ni instalación: `npm run dev`. Abrir http://127.0.0.1:4173. No abrir index.html directamente como archivo: módulos y PWA requieren un servidor.
 
-`npm test` ejecuta 13 pruebas de dominio. `npm run check` revisa sintaxis JavaScript. `npm run validate` verifica datos y archivos necesarios. `npm run build` valida la distribución estática existente en dist; no transpila.
+`npm test` ejecuta 18 pruebas de dominio. `npm run check` revisa sintaxis JavaScript. `npm run validate` verifica datos y archivos necesarios. `npm run build` valida la distribución estática existente en dist; no transpila.
 
 ## Fuentes
 
@@ -20,7 +20,7 @@ Requiere Python con pypdf y pdfplumber. Ejecutar en orden, desde la raíz: `pyth
 
 ## Diseño y evolución
 
-HTML, CSS y módulos JavaScript conservan la base original sin introducir un framework. `dist/domain.js` separa reglas, horarios, conflictos y persistencia; `dist/app.js` presenta la interfaz. Cambiar los estilos y componentes cuando lleguen las visuales, sin alterar las reglas de AGENTS.md ni sustituir los datos auditados.
+HTML, CSS y módulos JavaScript conservan la base original sin introducir un framework. `dist/domain.js` separa reglas, horarios, conflictos y persistencia; `dist/app.js` presenta la interfaz. La dirección Tablero aportada está implementada (docs/design-tablero.md). Evolucionar estilos y componentes, sin alterar las reglas de AGENTS.md ni sustituir los datos auditados.
 
 Verde/naranja inspirados en la referencia del congreso y la portada del PDF; los tonos utilizados no se certifican como códigos oficiales. Niveles: 1 verde, 2 morado y 3 amarillo.
 
@@ -37,3 +37,4 @@ En cada cambio de distribución, incrementar VERSION en dist/sw.js. La nueva cac
 `dist/` es una web estática desplegable por HTTPS. Este proyecto usa Sites, con identidad en `.openai/hosting.json`; reutilizarla al actualizar, sin crear otro sitio. La publicación inicial es privada. Nunca guardar credenciales en el repositorio.
 
 Ver `docs/verification.md` para pruebas ejecutadas y pendientes. La emulación no sustituye la comprobación en Safari/iPhone y Chrome/Android físicos.
+

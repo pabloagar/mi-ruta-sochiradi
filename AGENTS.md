@@ -6,9 +6,13 @@ Instrucciones persistentes para Codex para desarrollar una agenda móvil/PWA del
 
 - Permitir entender rápidamente qué ocurre ahora, en qué sala y con qué nivel, y construir una ruta personal entre actividades simultáneas.
 - Implementar una aplicación funcional en español con exactamente tres pestañas principales: **Ahora**, **Programa** y **Mi Ruta**.
-- Priorizar móvil y uso con una mano; filas compactas y legibles. Evitar una portada extensa, tarjetas enormes y tablas que obliguen a desplazarse horizontalmente en teléfono.
+- Priorizar móvil y uso con una mano; filas compactas y legibles. Evitar una portada extensa, tarjetas enormes y desbordamiento horizontal de la página. La grilla de comparación solicitada tiene desplazamiento interno, acompañada de la vista por salón.
 - Primera versión sin cuentas ni servidor de usuarios: agenda estática versionada y ruta guardada en el dispositivo. No añadir pagos, chat, recomendaciones por IA ni notificaciones push al alcance inicial.
 - No presentar el proyecto como aplicación oficial de SOCHRADI sin confirmación de esa condición.
+
+## Dirección visual vigente
+
+- Aplicar la dirección Tablero del ZIP aportado: consultar docs/design-tablero.md. Los datos de ejemplo y el plano ficticio no son fuentes del programa. Conservar la jerarquía de reglas, sus exclusiones y la trazabilidad.
 
 ## Estado implementado
 
@@ -136,5 +140,6 @@ Instrucciones persistentes para Codex para desarrollar una agenda móvil/PWA del
 - Entregar código, agenda normalizada, fuente y trazabilidad, auditoría, pruebas, README con ejecución/actualización/despliegue y URL HTTPS si se publicó.
 - Comunicar brevemente lo terminado, lo comprobado y los pendientes concretos. Continuar con trabajo independiente cuando falten insumos; preguntar solo por decisiones que no se puedan resolver con evidencia.
 - Mantener este archivo centrado en reglas estables. Registrar decisiones y cambios del proyecto en documentación aparte sin borrar requisitos acordados.
+
 
 
