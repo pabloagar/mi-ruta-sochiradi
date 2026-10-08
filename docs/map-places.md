@@ -1,0 +1,9 @@
+# Lugares compartidos del mapa — 2026.10.08.23
+
+Desde y Hasta comparten un catálogo único de salones, servicios, cuatro baños individuales, puntos de pósters y stands. PB1/PB2/PA1/PA2 son identificadores de interfaz, no nombres oficiales; las etiquetas explican planta y lado del plano. Se utilizan las cuatro coordenadas bathroomTargets originales. Los stands se anclan al final del recorrido de aproximación calculado por el mapa original, sin inventar ubicaciones.
+
+Los cuatro baños también tienen controles WC en el plano. Cambian el último selector enfocado; sus etiquetas accesibles describen la acción. Un trayecto solo se dibuja si hay puntos válidos en todos los tramos. Para ubicaciones sin conexión de escalera verificada no se deduce una escalera: se muestran las ubicaciones y un aviso de recorrido no confirmado.
+
+Se reemplazó la fila genérica de destinos rápidos por dos sugerencias compactas dentro de los campos: Desde sugerido y Hasta sugerido, con hora y salón de la agenda. Cada una cambia únicamente su campo. Se mantiene el área táctil mínima de 44 px y se elimina la tarjeta repetida de agenda encima del mapa. Al no tener un destino explícito o guardado, se sugiere la próxima charla; no se sobrescriben destinos elegidos ni el destino de la ficha abierta. Los orígenes sugeridos se rotulan como supuestos. La selección manual y su procedencia se guardan en sesión.
+
+Pruebas: tests/map-places.cjs (catálogos idénticos, cuatro baños en ambos selectores, marcadores, servicios como origen, sugerencias independientes, persistencia y 320/375/441 px), tests/map-agenda.cjs (agenda→mapa y persistencia de Mi Ruta), tests/map-context.test.mjs. Validación de 387 actividades y 412 filas originales. Edge automatizado; pendiente revisión en teléfono físico. Las pruebas históricas de accesos rápidos de v22 quedan sustituidas por map-places.cjs.
