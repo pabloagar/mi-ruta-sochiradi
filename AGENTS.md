@@ -19,7 +19,7 @@ Instrucciones persistentes para Codex para desarrollar una agenda móvil/PWA del
 
 ## Dirección visual vigente
 
-- Aplicar la dirección Tablero del ZIP aportado: consultar docs/design-tablero.md. Los datos de ejemplo y el plano ficticio no son fuentes del programa. Conservar la jerarquía de reglas, sus exclusiones y la trazabilidad.
+- Dirección visual vigente: estructura de Clara (A) y colores de Recorrido (B), ZIP «Diseño mejorado de Mi Ruta.zip». Consultar docs/clara-recorrido-integration.md. El diseño Tablero anterior queda como referencia histórica. Los datos de ejemplo y el plano ficticio no son fuentes del programa. Conservar la jerarquía de reglas, sus exclusiones y la trazabilidad.
 
 ## Estado implementado
 

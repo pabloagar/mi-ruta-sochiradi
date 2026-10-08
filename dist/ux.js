@@ -26,3 +26,6 @@ export function groupPreview(items,rules,scope,key){
  const included=items.filter(a=>selected(a,proposed)).sort(sortActivities);
  return {included,excluded:items.filter(a=>!selected(a,proposed)),added:included.filter(a=>!selected(a,rules)).length,kept:included.filter(a=>selected(a,rules)).length};
 }
+// Status is relative to the consulted clock, not to the selected activity's start.
+export function activityStatus(a,c){if(!a.start||!a.end)return 'Horario no informado';if(a.date<c.date||a.date===c.date&&a.end<=c.time)return 'Terminó';if(a.date>c.date||a.start>c.time)return 'Próxima';return 'En curso';}
+export function nextInRoom(activities,a){const others=activities.filter(b=>b.id!==a.id&&b.date===a.date&&b.roomId===a.roomId);if(!a.end)return {items:[],uncertain:true};const future=others.filter(b=>b.start&&b.start>=a.end).sort(sortActivities),first=future[0];return {items:first?future.filter(b=>b.start===first.start):[],uncertain:others.some(b=>!b.start||!b.end)};}

@@ -578,7 +578,7 @@ function showRoute(){
   if(kind==='s'){const s=sponsors.find(x=>x.id===id);if(!s||!s.stands||!s.stands.length)return;const stand=s.stands[0];if(origin.floor===1)drawPolyline(routeLayer1,routeToStand(origin,stand));else{const side=origin.stair||'left';drawPolyline(routeLayer2,routeOnFloor(2,origin.coord,secondFloorStairs[side]),'Usar escalera');drawPolyline(routeLayer1,routeToStandFromCoord(firstFloorStairs[side],stand));}document.querySelectorAll(`.stand[data-company-id="${CSS.escape(id)}"]`).forEach(el=>el.classList.add('route-destination-active'));routeStatus.textContent=`${origin.label} → ${s.name} (${s.standSummary}).`;return;}
   if(kind==='r'){const dest=getRoomDestination(id);if(!dest)return;if(origin.floor===dest.floor)drawPolyline(dest.floor===1?routeLayer1:routeLayer2,routeOnFloor(dest.floor,origin.coord,dest.coord));else routeAcrossFloors(origin,dest);routeStatus.textContent=`${origin.label} → ${dest.label}.`;}
 }
-showRouteBtn.addEventListener('click',showRoute);clearRouteBtn.addEventListener('click',()=>{routeDestination.value='';clearRoute();});
+showRouteBtn.addEventListener('click',showRoute);clearRouteBtn.addEventListener('click',()=>{clearRoute();});
 initRouteSelect();
 initFilters(); drawRooms(roomsLayer, roomHotspots); drawRooms(secondFloorRoomsLayer, secondFloorHotspots); drawStands(); renderList(); setZoom(100);
 </script>
