@@ -5,7 +5,7 @@ Instrucciones persistentes para Codex para desarrollar una agenda móvil/PWA del
 ## Objetivo y alcance
 
 - Permitir entender rápidamente qué ocurre ahora, en qué sala y con qué nivel, y construir una ruta personal entre actividades simultáneas.
-- Implementar una aplicación funcional en español con exactamente tres pestañas principales: **Ahora**, **Programa** y **Mi Ruta**.
+- Implementar una aplicación funcional en español con cuatro pestañas principales: **Ahora**, **Programa**, **Mi Ruta** y **Mapa** (solicitud del 8 de octubre de 2026).
 - Priorizar móvil y uso con una mano; filas compactas y legibles. Evitar una portada extensa, tarjetas enormes y desbordamiento horizontal de la página. La grilla de comparación solicitada tiene desplazamiento interno, acompañada de la vista por salón.
 - Primera versión sin cuentas ni servidor de usuarios: agenda estática versionada y ruta guardada en el dispositivo. No añadir pagos, chat, recomendaciones por IA ni notificaciones push al alcance inicial.
 - No presentar el proyecto como aplicación oficial de SOCHRADI sin confirmación de esa condición.
@@ -136,7 +136,7 @@ Instrucciones persistentes para Codex para desarrollar una agenda móvil/PWA del
 - Verificar búsqueda, detalle, botones táctiles, accesibilidad, títulos largos, estado vacío, agenda extensa real y todos los anchos móviles definidos.
 - Ejecutar validación de datos, comprobación de tipos, lint, pruebas y compilación de producción. Documentar comandos reales en README y mantenerlos actualizados aquí cuando existan; no presentar comandos propuestos como ya ejecutados.
 - Registrar resultados y limitaciones en `docs/verification.md`, con entorno/navegador/dispositivo. No afirmar cobertura en iPhone o Android real si solo hubo emulación.
-- Se acepta cuando las tres pestañas funcionan, todas las actividades verificadas son consultables, las reglas de ruta y conflictos pasan pruebas, la ruta persiste y el uso offline funciona tras primera carga.
+- Se acepta cuando las cuatro pestañas funcionan, todas las actividades verificadas son consultables, las reglas de ruta y conflictos pasan pruebas, la ruta persiste y el uso offline funciona tras primera carga.
 - La publicación completa requiere además auditoría del programa cerrada, ausencia de errores críticos y verificación móvil. Lo pendiente debe declararse; no simular una entrega terminada.
 
 ## Despliegue y entrega
