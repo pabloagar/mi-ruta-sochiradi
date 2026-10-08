@@ -1,6 +1,6 @@
 import {normalize,sortActivities,isLive,selected} from './domain.js';
 export const speakerKey=name=>normalize(name).replace(/\b(dr|dra|enf|tm|prof)\.?(?=\s|$)\s*/g,'').replace(/[^a-z0-9 ]/g,'').replace(/\s+/g,' ').trim();
-export const displayTitle=a=>a.title.replace(/coffee\s*break/gi,'Pausa café');
+export const displayTitle=a=>a.title.replace(/coffee\s*break/gi,'Coffee Break');
 export const isPause=a=>a.type==='break'||/^(almuerzo|coffee\s*break|pausa caf[eé])\b/i.test(a.title);
 export const speakerNames=value=>String(value??'').split(/\s+(?:&|y)\s+|,\s*(?=(?:Dr|Dra|Enf)\.)/).map(x=>x.trim()).filter(Boolean);
 export function upcoming(activities,rules,clock){

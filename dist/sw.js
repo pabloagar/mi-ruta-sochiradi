@@ -1,4 +1,4 @@
-const VERSION='congreso-2026-v4-dense',PREFIX='congreso-2026-';
+const VERSION='congreso-2026-v5-credit',PREFIX='congreso-2026-';
 const CORE=['./','./index.html','./styles.css','./app.js','./domain.js','./agenda.json','./manifest.webmanifest','./icon.svg','./icon-192.png','./icon-512.png','./audit.html','./tablero.css','./compact.css','./dense.css','./experience.js','./speakers.json','./timeline.js','./fonts.css','./plano-5.webp','./plano-6.webp','./fonts/barlow-400.woff2','./fonts/barlow-500.woff2','./fonts/barlow-600.woff2','./fonts/barlow-semi-condensed-500.woff2','./fonts/barlow-semi-condensed-600.woff2','./fonts/barlow-semi-condensed-700.woff2'];
 self.addEventListener('install',event=>{event.waitUntil(caches.open(VERSION).then(cache=>cache.addAll(CORE)));});
 self.addEventListener('message',event=>{if(event.data?.type==='ACTIVATE')self.skipWaiting();});
