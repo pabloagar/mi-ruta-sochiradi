@@ -35,7 +35,7 @@ function destinationChanged(){recalculate();}
 function chooseRoom(id){if(![...routeDestination.options].some(o=>o.value==='r:'+id))return;routeDestination.value='r:'+id;destinationChanged();}
 document.querySelectorAll('[data-floor]').forEach(e=>e.addEventListener('click',()=>setFloor(e.dataset.floor)));
 routeDestination.addEventListener('change',destinationChanged);
-routeOrigin.addEventListener('change',recalculate);
+routeOrigin.addEventListener('change',()=>recalculate());
 clearRouteBtn.addEventListener('click',()=>{routeOrigin.value='';recalculate();});
 // Preserve the visual centre while zooming either floor.
 const originalSetZoom=setZoom;setZoom=function(v){const containers=[...document.querySelectorAll('.map-scroll')],ratios=containers.map(e=>[(e.scrollLeft+e.clientWidth/2)/Math.max(1,e.scrollWidth),(e.scrollTop+e.clientHeight/2)/Math.max(1,e.scrollHeight)]);originalSetZoom(v);requestAnimationFrame(()=>{containers.forEach((e,i)=>{e.scrollLeft=ratios[i][0]*e.scrollWidth-e.clientWidth/2;e.scrollTop=ratios[i][1]*e.scrollHeight-e.clientHeight/2;});saveMapView();updateMapHeight();});};
@@ -44,3 +44,4 @@ let saved;try{saved=JSON.parse(sessionStorage.getItem(MAP_STATE_KEY)||'null');}c
 routeOrigin.value='';if(saved){if([...routeOrigin.options].some(o=>o.value===saved.origin)){routeOrigin.value=saved.origin;originChosen=!!saved.origin;}if([...routeDestination.options].some(o=>o.value===saved.destination))routeDestination.value=saved.destination;setZoom(Number(saved.zoom)||100);if(saved.drawn&&originChosen&&routeDestination.value){showRoute();hasRoute=true;}else routeStatus.textContent=routeDestination.value?'Destino: '+routeDestination.selectedOptions[0].textContent:'Selecciona un salón.';highlightRoom(routeDestination.value.slice(2));setFloor(['1','2','both'].includes(saved.floor)?saved.floor:'1');}else{routeStatus.textContent='Selecciona un salón para ubicarlo.';setFloor('1');}
 const requested=new URLSearchParams(location.search).get('room');if(requested&&routeDestination.value!=='r:'+requested)chooseRoom(requested);
 new ResizeObserver(updateMapHeight).observe(document.body);window.addEventListener('load',updateMapHeight);document.querySelectorAll('img,image').forEach(e=>e.addEventListener('load',updateMapHeight));recalculate();document.body.dataset.mapReady='true';
+
