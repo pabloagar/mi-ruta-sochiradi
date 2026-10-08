@@ -20,3 +20,5 @@ dialog{max-width:min(700px,calc(100% - 20px));max-height:90dvh;padding:16px}dial
 
 /* Compact app identity replaces the redundant device clock. */
 body .topbar,body:not([data-view=now]) .topbar{min-height:48px;padding:0 12px;border-bottom-width:2px;gap:4px}.topbar #appName{font:600 1rem/1.25 Barlow,sans-serif;color:#fff;letter-spacing:0}.topbar .live-brand{min-width:0}.topbar .iconbtn{height:44px;min-height:44px}.topbar{--header-height:48px}
+
+.topbar .header-map{min-width:44px;min-height:44px;padding:0 5px;color:white;font-size:.8125rem;text-decoration:underline;text-underline-offset:3px;flex-shrink:0}.topbar #appName{font-family:var(--condensed);overflow-wrap:anywhere}.venue-floor{margin:16px 0 24px}.venue-floor h3{font-size:1rem;color:var(--green)}.venue-floor p,.venue-floor>a{font-size:.875rem;line-height:1.5}.venue-floor img{display:block;width:100%;height:auto;margin:12px 0;border:1px solid var(--line);border-radius:6px}.venue-floor>a{display:block;min-height:44px}

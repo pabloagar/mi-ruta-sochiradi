@@ -77,3 +77,7 @@ Pruebas de navegador: `node tests/ux-browser.cjs`, `node tests/ux-accessibility.
 - Las elecciones del sitio publicado no aparecen automáticamente en localhost, porque son orígenes distintos. Esta separación protege la ruta real durante la revisión.
 
 No publicar esta revisión sin una nueva instrucción del usuario.
+
+## Autorización posterior de publicación
+
+El usuario aprobó aplicar todos los cambios y solicitó el nombre Mi ruta Sochiradi, junto con acceso Mapa en el encabezado. Se prepara la publicación de esta revisión con los dos planos originales, manteniendo el checkpoint v8 y el aviso de app no oficial. La restricción anterior de vista previa correspondía a la fase de revisión y queda sustituida por esta autorización.
