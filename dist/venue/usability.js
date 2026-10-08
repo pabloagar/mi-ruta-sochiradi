@@ -1,4 +1,5 @@
 /* Shared place catalog for both endpoints; coordinates from the official map. */
+const previousSetZoom=setZoom;setZoom=function(value){previousSetZoom(value);document.body.classList.toggle('full-plan',zoom===100);};
 const mapParams=new URLSearchParams(location.search),places=new Map();
 const floorText=f=>f===1?'planta baja':'planta alta';
 function addPlace(value,label,group,loc){if(loc?.coord)places.set(value,{...loc,value,label,group});}
@@ -42,8 +43,8 @@ function frameMap(){const destinations=[...document.querySelectorAll('.map-endpo
 recalculate=function(){clearRoute();guide.replaceChildren();const origin=getOriginLoc(),dest=destinationInfo();originChosen=!!origin;hasRoute=false;highlightRoom(routeDestination.value.startsWith('r:')?routeDestination.value.slice(2):null);
  if(origin&&dest){const same=origin.floor===dest.floor&&origin.coord.every((n,i)=>n===dest.coord[i]);let paths=[];if(!same){if(origin.floor===dest.floor)paths=[{floor:origin.floor,points:routeOnFloor(origin.floor,origin.coord,dest.coord)}];else{const upstairs=origin.floor===2?origin:dest;if(upstairs.stair){const side=upstairs.stair;paths=[{floor:origin.floor,points:routeOnFloor(origin.floor,origin.coord,(origin.floor===1?firstFloorStairs:secondFloorStairs)[side])},{floor:dest.floor,points:routeOnFloor(dest.floor,(dest.floor===1?firstFloorStairs:secondFloorStairs)[side],dest.coord)}];}}}
  const complete=paths.length&&paths.every(p=>p.points?.length>1);if(complete)paths.forEach(p=>drawPolyline(p.floor===1?routeLayer1:routeLayer2,p.points));hasRoute=!!complete;
- if(same)routeStatus.textContent='Origen y destino están en el mismo punto.';else if(!hasRoute)routeStatus.textContent='Ubicaciones marcadas; no hay un recorrido confirmado entre estos puntos. Consulta al personal del congreso.';else if(origin.floor!==dest.floor){const side=(origin.floor===2?origin:dest).stair;routeStatus.textContent=(origin.floor===1?'Sube a planta alta':'Baja a planta baja')+' por la escalera del '+(side==='left'?'lado izquierdo':'lado derecho')+' del plano.';}else routeStatus.textContent='Sigue el trazado en '+floorText(origin.floor)+'.';
- }else routeStatus.textContent=dest?'Destino marcado. Elige desde dónde sales.':'Elige origen y destino en los selectores.';
- renderEndpoints();setFloor();clearRouteBtn.hidden=!origin;refreshOriginNote();frameMap();
+ if(same)routeStatus.textContent='Origen y destino están en el mismo punto.';else if(!hasRoute)routeStatus.textContent='No tenemos un recorrido trazado entre estos puntos. Pregunta al personal del congreso.';else if(origin.floor!==dest.floor){const side=(origin.floor===2?origin:dest).stair;routeStatus.textContent=(origin.floor===1?'Sube a planta alta':'Baja a planta baja')+' por la escalera del '+(side==='left'?'lado izquierdo':'lado derecho')+' del plano.';}else routeStatus.textContent='Sigue el trazado en '+floorText(origin.floor)+'.';
+ }else routeStatus.textContent=dest?'Destino marcado en '+floorText(dest.floor)+'. Elige desde dónde sales.':'Elige origen y destino en los selectores.';
+ renderEndpoints();setFloor();document.querySelectorAll('[data-map-floor]').forEach(card=>card.classList.toggle('destination-floor',Number(card.dataset.mapFloor)===dest?.floor));clearRouteBtn.hidden=!origin;refreshOriginNote();frameMap();
 };
 recalculate();document.body.dataset.usabilityReady='true';
