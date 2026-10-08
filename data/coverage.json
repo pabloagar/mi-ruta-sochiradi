@@ -1,0 +1,6959 @@
+[
+  {
+    "page": 1,
+    "rowCount": 0,
+    "mappedRows": 0,
+    "rows": [],
+    "kind": "información sin agenda horaria"
+  },
+  {
+    "page": 2,
+    "rowCount": 0,
+    "mappedRows": 0,
+    "rows": [],
+    "kind": "información sin agenda horaria"
+  },
+  {
+    "page": 3,
+    "rowCount": 0,
+    "mappedRows": 0,
+    "rows": [],
+    "kind": "información sin agenda horaria"
+  },
+  {
+    "page": 4,
+    "rowCount": 0,
+    "mappedRows": 0,
+    "rows": [],
+    "kind": "cuadro general"
+  },
+  {
+    "page": 5,
+    "rowCount": 0,
+    "mappedRows": 0,
+    "rows": [],
+    "kind": "plano"
+  },
+  {
+    "page": 6,
+    "rowCount": 0,
+    "mappedRows": 0,
+    "rows": [],
+    "kind": "plano"
+  },
+  {
+    "page": 7,
+    "rowCount": 0,
+    "mappedRows": 0,
+    "rows": [],
+    "kind": "información sin agenda horaria"
+  },
+  {
+    "page": 8,
+    "rowCount": 0,
+    "mappedRows": 0,
+    "rows": [],
+    "kind": "información sin agenda horaria"
+  },
+  {
+    "page": 9,
+    "rowCount": 0,
+    "mappedRows": 0,
+    "rows": [],
+    "kind": "información sin agenda horaria"
+  },
+  {
+    "page": 10,
+    "rowCount": 0,
+    "mappedRows": 0,
+    "rows": [],
+    "kind": "información sin agenda horaria"
+  },
+  {
+    "page": 11,
+    "rowCount": 0,
+    "mappedRows": 0,
+    "rows": [],
+    "kind": "información sin agenda horaria"
+  },
+  {
+    "page": 12,
+    "rowCount": 0,
+    "mappedRows": 0,
+    "rows": [],
+    "kind": "información sin agenda horaria"
+  },
+  {
+    "page": 13,
+    "rowCount": 0,
+    "mappedRows": 0,
+    "rows": [],
+    "kind": "leyenda niveles"
+  },
+  {
+    "page": 14,
+    "rowCount": 0,
+    "mappedRows": 0,
+    "rows": [],
+    "kind": "información sin agenda horaria"
+  },
+  {
+    "page": 15,
+    "rowCount": 16,
+    "mappedRows": 16,
+    "rows": [
+      {
+        "start": "08:20",
+        "end": "08:50",
+        "text": "Registration",
+        "levels": [],
+        "bbox": [
+          41.0879,
+          131.077,
+          612,
+          152.08100000000002
+        ],
+        "ids": [
+          "e1"
+        ]
+      },
+      {
+        "start": "08:50",
+        "end": "09:10",
+        "text": "Introduction to symposium. Pr. Bachir Taouli & Pr.Christian Pérez",
+        "levels": [],
+        "bbox": [
+          41.0879,
+          154.08100000000002,
+          612,
+          175.08500000000004
+        ],
+        "ids": [
+          "e2"
+        ]
+      },
+      {
+        "start": "09:10",
+        "end": "09:45",
+        "text": "HCC diagnosis and staging. Pr. Bachir Taouli",
+        "levels": [],
+        "bbox": [
+          41.0879,
+          177.08500000000004,
+          612,
+          198.08900000000006
+        ],
+        "ids": [
+          "e3"
+        ]
+      },
+      {
+        "start": "09:45",
+        "end": "10:20",
+        "text": "Cholangiocarcinoma diagnosis and staging. Pr. Maria Bali",
+        "levels": [],
+        "bbox": [
+          41.0879,
+          200.08900000000006,
+          612,
+          221.09300000000007
+        ],
+        "ids": [
+          "e4"
+        ]
+      },
+      {
+        "start": "10:20",
+        "end": "10:55",
+        "text": "Rectal cancer staging and restaging. Pr. Bachir Taouli",
+        "levels": [],
+        "bbox": [
+          41.0879,
+          223.09300000000007,
+          612,
+          255.59300000000007
+        ],
+        "ids": [
+          "e5"
+        ]
+      },
+      {
+        "start": "10:55",
+        "end": "11:25",
+        "text": "Coffee Break",
+        "levels": [],
+        "bbox": [
+          41.0879,
+          257.5930000000001,
+          612,
+          290.093
+        ],
+        "ids": [
+          "aux-6"
+        ]
+      },
+      {
+        "start": "11:25",
+        "end": "12:00",
+        "text": "Pancreatic cancer staging and restaging. Pr. Maria Antonietta Bali",
+        "levels": [],
+        "bbox": [
+          41.0879,
+          292.093,
+          612,
+          313.09700000000004
+        ],
+        "ids": [
+          "e7"
+        ]
+      },
+      {
+        "start": "12:00",
+        "end": "12:20",
+        "text": "Cancer trials in Chile. Dr. Christian Caglevic",
+        "levels": [],
+        "bbox": [
+          41.0879,
+          315.09700000000004,
+          612,
+          336.10100000000006
+        ],
+        "ids": [
+          "e8"
+        ]
+      },
+      {
+        "start": "12:20",
+        "end": "12:40",
+        "text": "How to establish a cancer imaging core. Pr. Bachir Taouli",
+        "levels": [],
+        "bbox": [
+          41.0879,
+          338.10100000000006,
+          612,
+          359.1050000000001
+        ],
+        "ids": [
+          "e9"
+        ]
+      },
+      {
+        "start": "12:40",
+        "end": "13:00",
+        "text": "Q&A Session.",
+        "levels": [],
+        "bbox": [
+          41.0879,
+          361.1050000000001,
+          612,
+          393.6050000000001
+        ],
+        "ids": [
+          "aux-10"
+        ]
+      },
+      {
+        "start": "13:00",
+        "end": "14:30",
+        "text": "Lunch",
+        "levels": [],
+        "bbox": [
+          41.0879,
+          395.6050000000001,
+          612,
+          428.1050000000001
+        ],
+        "ids": [
+          "aux-11"
+        ]
+      },
+      {
+        "start": "14:30",
+        "end": "15:05",
+        "text": "Renal neoplasms. Pr. Alberto Vargas",
+        "levels": [],
+        "bbox": [
+          41.0879,
+          430.1050000000001,
+          612,
+          451.1090000000001
+        ],
+        "ids": [
+          "e12"
+        ]
+      },
+      {
+        "start": "15:05",
+        "end": "15:40",
+        "text": "Uterine MRI: Myoma vs Sarcoma. Pr.Gigin Lin",
+        "levels": [],
+        "bbox": [
+          41.0879,
+          453.1090000000001,
+          612,
+          474.1130000000001
+        ],
+        "ids": [
+          "e16"
+        ]
+      },
+      {
+        "start": "15:40",
+        "end": "16:15",
+        "text": "Prostate cancer. Pr. Alberto Vargas",
+        "levels": [],
+        "bbox": [
+          41.0879,
+          476.1130000000001,
+          612,
+          497.11700000000013
+        ],
+        "ids": [
+          "e19"
+        ]
+      },
+      {
+        "start": "16:15",
+        "end": "16:50",
+        "text": "O-RADS MRI: Ovarian neoplasms. Pr. Gigin Lin",
+        "levels": [],
+        "bbox": [
+          41.0879,
+          499.11700000000013,
+          612,
+          520.1210000000001
+        ],
+        "ids": [
+          "e22"
+        ]
+      },
+      {
+        "start": "16:50",
+        "end": "17:00",
+        "text": "Closing remarks. Pr. Bachir Taouli & Pr. Christian Pérez",
+        "levels": [],
+        "bbox": [
+          41.0879,
+          522.1210000000001,
+          612,
+          617.1210000000001
+        ],
+        "ids": [
+          "e25"
+        ]
+      }
+    ],
+    "kind": "agenda"
+  },
+  {
+    "page": 16,
+    "rowCount": 16,
+    "mappedRows": 16,
+    "rows": [
+      {
+        "start": "08:20",
+        "end": "08:50",
+        "text": "Acreditación",
+        "levels": [],
+        "bbox": [
+          41.0879,
+          131.077,
+          612,
+          152.08100000000002
+        ],
+        "ids": [
+          "e1"
+        ]
+      },
+      {
+        "start": "08:50",
+        "end": "09:10",
+        "text": "Introducción al simposio. Dr. Bachir Taouli & Dr. Christian Pérez",
+        "levels": [],
+        "bbox": [
+          41.0879,
+          154.08100000000002,
+          612,
+          175.08500000000004
+        ],
+        "ids": [
+          "e2"
+        ]
+      },
+      {
+        "start": "09:10",
+        "end": "09:45",
+        "text": "Diagnóstico y estadificación del carcinoma hepatocelular (CHC). Dr. Bachir Taouli",
+        "levels": [],
+        "bbox": [
+          41.0879,
+          177.08500000000004,
+          612,
+          209.58500000000004
+        ],
+        "ids": [
+          "e3"
+        ]
+      },
+      {
+        "start": "09:45",
+        "end": "10:20",
+        "text": "Diagnóstico y estadificación del colangiocarcinoma. Dra. Maria Bali",
+        "levels": [],
+        "bbox": [
+          41.0879,
+          211.58500000000004,
+          612,
+          232.58900000000006
+        ],
+        "ids": [
+          "e4"
+        ]
+      },
+      {
+        "start": "10:20",
+        "end": "10:55",
+        "text": "Estadificación y reestadificación del cáncer de recto. Dr. Bachir Taouli",
+        "levels": [],
+        "bbox": [
+          41.0879,
+          234.58900000000006,
+          612,
+          267.08900000000006
+        ],
+        "ids": [
+          "e5"
+        ]
+      },
+      {
+        "start": "10:55",
+        "end": "11:25",
+        "text": "Café",
+        "levels": [],
+        "bbox": [
+          41.0879,
+          269.08900000000006,
+          612,
+          301.589
+        ],
+        "ids": [
+          "aux-6"
+        ]
+      },
+      {
+        "start": "11:25",
+        "end": "12:00",
+        "text": "Estadificación y reestadificación del cáncer de páncreas. Dra. Maria Antonietta Bali",
+        "levels": [],
+        "bbox": [
+          41.0879,
+          303.589,
+          612,
+          336.089
+        ],
+        "ids": [
+          "e7"
+        ]
+      },
+      {
+        "start": "12:00",
+        "end": "12:20",
+        "text": "Oncología de precisión y ensayos clínicos: Evaluación de la respuesta mediante imágenes y decisiones de tratamiento.. Dr. Felipe Reyes",
+        "levels": [],
+        "bbox": [
+          41.0879,
+          338.089,
+          612,
+          382.085
+        ],
+        "ids": [
+          "e8"
+        ]
+      },
+      {
+        "start": "12:20",
+        "end": "12:40",
+        "text": "Cómo establecer un centro oncológico de diagnóstico por imagen. Dr. Bachir Taouli",
+        "levels": [],
+        "bbox": [
+          41.0879,
+          384.085,
+          612,
+          416.585
+        ],
+        "ids": [
+          "e9"
+        ]
+      },
+      {
+        "start": "12:40",
+        "end": "13:00",
+        "text": "Preguntas.",
+        "levels": [],
+        "bbox": [
+          41.0879,
+          418.585,
+          612,
+          451.085
+        ],
+        "ids": [
+          "aux-10"
+        ]
+      },
+      {
+        "start": "13:00",
+        "end": "14:30",
+        "text": "Almuerzo",
+        "levels": [],
+        "bbox": [
+          41.0879,
+          453.085,
+          612,
+          485.585
+        ],
+        "ids": [
+          "aux-11"
+        ]
+      },
+      {
+        "start": "14:30",
+        "end": "15:05",
+        "text": "Neoplasias renales. Dr. Alberto Vargas",
+        "levels": [],
+        "bbox": [
+          41.0879,
+          487.585,
+          612,
+          508.589
+        ],
+        "ids": [
+          "e12"
+        ]
+      },
+      {
+        "start": "15:05",
+        "end": "15:40",
+        "text": "Resonancia magnética uterina: Mioma vs. sarcoma. Dr. Gigin Lin",
+        "levels": [],
+        "bbox": [
+          41.0879,
+          510.589,
+          612,
+          531.5930000000001
+        ],
+        "ids": [
+          "e16"
+        ]
+      },
+      {
+        "start": "15:40",
+        "end": "16:15",
+        "text": "Cáncer de próstata. Dr. Alberto Vargas",
+        "levels": [],
+        "bbox": [
+          41.0879,
+          533.5930000000001,
+          612,
+          554.597
+        ],
+        "ids": [
+          "e19"
+        ]
+      },
+      {
+        "start": "16:15",
+        "end": "16:50",
+        "text": "Resonancia magnética O-RADS: Neoplasias ováricas. Dr. Gigin Lin",
+        "levels": [],
+        "bbox": [
+          41.0879,
+          556.597,
+          612,
+          577.601
+        ],
+        "ids": [
+          "e22"
+        ]
+      },
+      {
+        "start": "16:50",
+        "end": "17:00",
+        "text": "Palabras al cierre. Dr. Bachir Taouli & Dr. Christian Pérez",
+        "levels": [],
+        "bbox": [
+          41.0879,
+          579.601,
+          612,
+          674.601
+        ],
+        "ids": [
+          "e25"
+        ]
+      }
+    ],
+    "kind": "agenda"
+  },
+  {
+    "page": 17,
+    "rowCount": 0,
+    "mappedRows": 0,
+    "rows": [],
+    "kind": "información sin agenda horaria"
+  },
+  {
+    "page": 18,
+    "rowCount": 0,
+    "mappedRows": 0,
+    "rows": [],
+    "kind": "información sin agenda horaria"
+  },
+  {
+    "page": 19,
+    "rowCount": 14,
+    "mappedRows": 14,
+    "rows": [
+      {
+        "start": "14:30",
+        "end": "14:45",
+        "text": "Bienvenida. Introducción, presentación de los jueces.",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          224.62799999999993,
+          612,
+          246.62999999999988
+        ],
+        "ids": [
+          "e13"
+        ]
+      },
+      {
+        "start": "14:45",
+        "end": "15:00",
+        "text": "Caso 1",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          248.62999999999988,
+          612,
+          270.63199999999983
+        ],
+        "ids": [
+          "e14"
+        ]
+      },
+      {
+        "start": "15:00",
+        "end": "15:15",
+        "text": "Caso 2",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          272.63199999999983,
+          612,
+          294.6339999999999
+        ],
+        "ids": [
+          "e15"
+        ]
+      },
+      {
+        "start": "15:15",
+        "end": "15:30",
+        "text": "Caso 3",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          296.6339999999999,
+          612,
+          318.6359999999999
+        ],
+        "ids": [
+          "e17"
+        ]
+      },
+      {
+        "start": "15:30",
+        "end": "15:45",
+        "text": "Caso 4",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          320.6359999999999,
+          612,
+          342.6379999999999
+        ],
+        "ids": [
+          "e18"
+        ]
+      },
+      {
+        "start": "15:45",
+        "end": "16:00",
+        "text": "Caso 5",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          344.6379999999999,
+          612,
+          366.63999999999993
+        ],
+        "ids": [
+          "e20"
+        ]
+      },
+      {
+        "start": "16:00",
+        "end": "16:15",
+        "text": "Caso 6",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          368.63999999999993,
+          612,
+          390.64199999999994
+        ],
+        "ids": [
+          "e21"
+        ]
+      },
+      {
+        "start": "16:15",
+        "end": "16:30",
+        "text": "Caso 7",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          392.64199999999994,
+          612,
+          414.64399999999995
+        ],
+        "ids": [
+          "e23"
+        ]
+      },
+      {
+        "start": "16:30",
+        "end": "17:00",
+        "text": "Coffee Break CPrHeAsReLnAta IcNiAónU GdUe RCAaLs CosC CHlRín 2i0c2o6s II Dr. Mario Pelizzari, Dr. Lizbeth Perez , Dr. José lipsich",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          416.64399999999995,
+          612,
+          486.63899999999995
+        ],
+        "ids": [
+          "aux-25"
+        ]
+      },
+      {
+        "start": "17:00",
+        "end": "17:15",
+        "text": "Caso 8",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          488.63899999999995,
+          612,
+          510.64099999999996
+        ],
+        "ids": [
+          "e26"
+        ]
+      },
+      {
+        "start": "17:15",
+        "end": "17:30",
+        "text": "Caso 9",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          512.641,
+          612,
+          534.643
+        ],
+        "ids": [
+          "e27"
+        ]
+      },
+      {
+        "start": "17:30",
+        "end": "17:45",
+        "text": "Caso 10",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          536.643,
+          612,
+          558.645
+        ],
+        "ids": [
+          "e28"
+        ]
+      },
+      {
+        "start": "17:45",
+        "end": "18:00",
+        "text": "Caso 11",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          560.645,
+          612,
+          582.6469999999999
+        ],
+        "ids": [
+          "e29"
+        ]
+      },
+      {
+        "start": "18:00",
+        "end": "18:15",
+        "text": "caso 12",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          584.6469999999999,
+          612,
+          679.6469999999999
+        ],
+        "ids": [
+          "e30"
+        ]
+      }
+    ],
+    "kind": "agenda"
+  },
+  {
+    "page": 20,
+    "rowCount": 13,
+    "mappedRows": 13,
+    "rows": [
+      {
+        "start": "08:30",
+        "end": "08:50",
+        "text": "Aplicaciones de Radiómica en tumores abdominales. Dr. Adrián Negreros Osuna",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          174.03599999999994,
+          612,
+          208.039
+        ],
+        "ids": [
+          "e31"
+        ]
+      },
+      {
+        "start": "08:50",
+        "end": "09:10",
+        "text": "How to interpret an Artificial Intelligence article: The basic guide Dr. Marcelo Strauss",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          210.039,
+          612,
+          244.04200000000003
+        ],
+        "ids": [
+          "e37"
+        ]
+      },
+      {
+        "start": "09:10",
+        "end": "09:30",
+        "text": "Aplicaciones de la impresión 3D en radiología. Dr. Adrián Negreros Osuna",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          246.04200000000003,
+          612,
+          280.0450000000001
+        ],
+        "ids": [
+          "e43"
+        ]
+      },
+      {
+        "start": "09:30",
+        "end": "09:50",
+        "text": "AI tools as a safety net: Impact on patient outcomes. Dra. Sheila Berlin",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          282.0450000000001,
+          612,
+          316.04800000000006
+        ],
+        "ids": [
+          "e49"
+        ]
+      },
+      {
+        "start": "09:50",
+        "end": "10:10",
+        "text": "Aspectos éticos y legales de la IA en Radiología. Dr. Adrián Negreros Osuna",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          318.04800000000006,
+          612,
+          352.05100000000004
+        ],
+        "ids": [
+          "e55"
+        ]
+      },
+      {
+        "start": "10:10",
+        "end": "10:20",
+        "text": "Orquestación de IA: Transformando el diagnóstico por imagen, Idionia. Alberto Alonso",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          354.05100000000004,
+          612,
+          388.05400000000003
+        ],
+        "ids": [
+          "e61"
+        ]
+      },
+      {
+        "start": "10:20",
+        "end": "10:30",
+        "text": "Mesa Redonda y preguntas.",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          390.05400000000003,
+          612,
+          412.05600000000004
+        ],
+        "ids": [
+          "aux-37"
+        ]
+      },
+      {
+        "start": "10:30",
+        "end": "11:00",
+        "text": "Coffee Break",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          414.05600000000004,
+          612,
+          436.52000000000004
+        ],
+        "ids": [
+          "aux-38"
+        ]
+      },
+      {
+        "start": "11:00",
+        "end": "12:00",
+        "text": "CONFERENCIA INAUGURAL CCHR 2026 EN SALÓN 2, VITACURA Módulo Hands-On Modera: Dr. Héctor Henríquez",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          438.52000000000004,
+          612,
+          508.05300000000005
+        ],
+        "ids": [
+          "e74"
+        ]
+      },
+      {
+        "start": "12:10",
+        "end": "12:25",
+        "text": "Gleamer's AI solutions.",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          510.05300000000005,
+          612,
+          532.0550000000001
+        ],
+        "ids": [
+          "e76"
+        ]
+      },
+      {
+        "start": "12:25",
+        "end": "12:50",
+        "text": "Hands-On I: IA Generativa en la práctica radiológica. Dr. Héctor Henríquez",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          534.0550000000001,
+          612,
+          568.058
+        ],
+        "ids": [
+          "e82"
+        ]
+      },
+      {
+        "start": "12:50",
+        "end": "13:30",
+        "text": "Hands-On II: Primeros Pasos en Radiomics. Dr. Héctor Henríquez",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          570.058,
+          612,
+          604.061
+        ],
+        "ids": [
+          "e88"
+        ]
+      },
+      {
+        "start": "13:30",
+        "end": "15:00",
+        "text": "Almuerzo",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          606.061,
+          612,
+          701.061
+        ],
+        "ids": [
+          "aux-79"
+        ]
+      }
+    ],
+    "kind": "agenda"
+  },
+  {
+    "page": 21,
+    "rowCount": 11,
+    "mappedRows": 11,
+    "rows": [
+      {
+        "start": "14:30",
+        "end": "14:50",
+        "text": "Elementos clave para la gestión de una unidad de radiología hospitalaria. Dr. Cristián Rebolledo",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          174.03599999999994,
+          612,
+          208.039
+        ],
+        "ids": [
+          "e105"
+        ]
+      },
+      {
+        "start": "14:50",
+        "end": "15:10",
+        "text": "Catastro nacional de equipos radiológicos. Estudio 2025 de la distribución TC/RM público - privado. Dra. Fernanda Blaskovic",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          210.039,
+          612,
+          256.043
+        ],
+        "ids": [
+          "e106"
+        ]
+      },
+      {
+        "start": "15:10",
+        "end": "15:30",
+        "text": "Listas de espera en radiología y rol en la alerta sanitaria oncológica. Dra. Francisca Crispi",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          258.043,
+          612,
+          292.04600000000005
+        ],
+        "ids": [
+          "e112"
+        ]
+      },
+      {
+        "start": "15:30",
+        "end": "15:50",
+        "text": "Mesa Redonda: Desafíos de gestión en servicios radiológicos. Dr. Cristian Rebolledo, Dra. Fernanda Blaskovic, Dra. Francisca Crispi",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          294.04600000000005,
+          612,
+          328.04900000000004
+        ],
+        "ids": [
+          "e118"
+        ]
+      },
+      {
+        "start": "15:50",
+        "end": "16:20",
+        "text": "Compras públicas y la experiencia del usuario. SSMN TM. Karinna Araya",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          330.04900000000004,
+          612,
+          364.052
+        ],
+        "ids": [
+          "e124"
+        ]
+      },
+      {
+        "start": "16:20",
+        "end": "17:00",
+        "text": "Coffee Break Adquisiciones, Licitaciones y Rol del Ministerio Modera: Dra. Bernardita Aguirre",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          366.052,
+          612,
+          424.057
+        ],
+        "ids": [
+          "aux-110"
+        ]
+      },
+      {
+        "start": "17:00",
+        "end": "17:20",
+        "text": "Compras públicas y adquisición de equipos radiológicos: Experiencia desde el Ministerio. Erick Marchant",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          426.057,
+          612,
+          472.06100000000004
+        ],
+        "ids": [
+          "e141"
+        ]
+      },
+      {
+        "start": "17:20",
+        "end": "17:40",
+        "text": "Perspectiva institucional: rol de DIGERA en el registro y distribución de equipos. Mauricio Farías",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          474.06100000000004,
+          612,
+          508.064
+        ],
+        "ids": [
+          "e147"
+        ]
+      },
+      {
+        "start": "17:40",
+        "end": "18:00",
+        "text": "Licitaciones de servicios de informes radiológicos. Buenas prácticas. TM. Andrés Oval",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          510.064,
+          612,
+          544.067
+        ],
+        "ids": [
+          "e153"
+        ]
+      },
+      {
+        "start": "18:00",
+        "end": "18:20",
+        "text": "Mesa Redonda: Hacia una política pública de equipamiento y gestión radiológica. Erick Marchant, Mauricio Farías, TM. Andrés Oval, Dra. Bernardita Aguirre",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          546.067,
+          612,
+          580.0699999999999
+        ],
+        "ids": [
+          "e159"
+        ]
+      },
+      {
+        "start": "18:20",
+        "end": "18:30",
+        "text": "Preguntas.",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          582.0699999999999,
+          612,
+          677.0699999999999
+        ],
+        "ids": [
+          "aux-145"
+        ]
+      }
+    ],
+    "kind": "agenda"
+  },
+  {
+    "page": 22,
+    "rowCount": 13,
+    "mappedRows": 13,
+    "rows": [
+      {
+        "start": "08:30",
+        "end": "08:50",
+        "text": "Lesiones deportivas de la columna pediátrica y en adolescentes. 3 Dra. Mónica Galeano",
+        "levels": [
+          3
+        ],
+        "bbox": [
+          21.0166,
+          174.03599999999994,
+          612,
+          208.039
+        ],
+        "ids": [
+          "e32"
+        ]
+      },
+      {
+        "start": "08:50",
+        "end": "09:10",
+        "text": "Radiología de la mano en enfermedad sistémica. 3 Dra. María Clara Anoni",
+        "levels": [
+          3
+        ],
+        "bbox": [
+          21.0166,
+          210.039,
+          612,
+          244.04200000000003
+        ],
+        "ids": [
+          "e38"
+        ]
+      },
+      {
+        "start": "09:10",
+        "end": "09:30",
+        "text": "Osteomielitis en pediatría: uso de la ecografía para el diagnóstico y seguimiento 2 Dr. Emilio Inarejos",
+        "levels": [
+          2
+        ],
+        "bbox": [
+          21.0166,
+          246.04200000000003,
+          612,
+          280.0450000000001
+        ],
+        "ids": [
+          "e44"
+        ]
+      },
+      {
+        "start": "09:30",
+        "end": "09:50",
+        "text": "Generalidades de material de osteosíntesis pediátrica. 1 Dr. Jorge Delgado",
+        "levels": [
+          1
+        ],
+        "bbox": [
+          21.0166,
+          282.0450000000001,
+          612,
+          316.04800000000006
+        ],
+        "ids": [
+          "e50"
+        ]
+      },
+      {
+        "start": "09:50",
+        "end": "10:10",
+        "text": "Imaging of the Temporomandibular Joint: From Standards to Clinical Practice. 3 Dra. Andrea Doria",
+        "levels": [
+          3
+        ],
+        "bbox": [
+          21.0166,
+          318.04800000000006,
+          612,
+          352.05100000000004
+        ],
+        "ids": [
+          "e56"
+        ]
+      },
+      {
+        "start": "10:10",
+        "end": "10:30",
+        "text": "Calcificaciones & osificaciones en tejidos blandos y articulaciones pediátricas. 2 Dr. Víctor Ho Fung",
+        "levels": [
+          2
+        ],
+        "bbox": [
+          21.0166,
+          354.05100000000004,
+          612,
+          388.05400000000003
+        ],
+        "ids": [
+          "e62"
+        ]
+      },
+      {
+        "start": "10:30",
+        "end": "11:00",
+        "text": "Coffee Break",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          390.05400000000003,
+          612,
+          412.51800000000003
+        ],
+        "ids": [
+          "aux-45"
+        ]
+      },
+      {
+        "start": "11:00",
+        "end": "12:00",
+        "text": "CEREMONIA & CONFERENCIA INAUGURAL CCHR 2026 Módulo WFPI Moderan: Dra. Tatiana Fazecas y Dra. Joanna Kasznia-Brown",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          414.51800000000003,
+          612,
+          484.05100000000004
+        ],
+        "ids": [
+          "e74"
+        ]
+      },
+      {
+        "start": "12:10",
+        "end": "12:30",
+        "text": "Intro A WFPI. 1 Dr. Andrés García-Bayce y Dra. Joanna Kasznia-Brown",
+        "levels": [
+          1
+        ],
+        "bbox": [
+          21.0166,
+          486.05100000000004,
+          612,
+          520.0540000000001
+        ],
+        "ids": [
+          "e77"
+        ]
+      },
+      {
+        "start": "12:30",
+        "end": "12:50",
+        "text": "Nueva iniciativa ISMRM-WFPI de estandarización de protocolos de resonancia magnética pediátrica de la Red Global de Resonancia Magnética. 2 Dr. Michael Gee",
+        "levels": [
+          2
+        ],
+        "bbox": [
+          21.0166,
+          522.0540000000001,
+          612,
+          568.058
+        ],
+        "ids": [
+          "e83"
+        ]
+      },
+      {
+        "start": "12:50",
+        "end": "13:10",
+        "text": "Campaña Irradiemos conciencia. 1 Dr. Andrés García-Bayce y Dra. Lina Cadavid",
+        "levels": [
+          1
+        ],
+        "bbox": [
+          21.0166,
+          570.058,
+          612,
+          604.061
+        ],
+        "ids": [
+          "e89"
+        ]
+      },
+      {
+        "start": "13:10",
+        "end": "13:30",
+        "text": "Pediatric chest ultrasound in everyday clinical practice. Where do we really stand. 2 Dr. Jovan Lovrenski",
+        "levels": [
+          2
+        ],
+        "bbox": [
+          21.0166,
+          606.061,
+          612,
+          652.065
+        ],
+        "ids": [
+          "e94"
+        ]
+      },
+      {
+        "start": "13:30",
+        "end": "15:00",
+        "text": "Lunch & Learn Canon | Tecnoimagen Ureteropelvic junction obstruction. Pre- and post-operatory evaluation. Dr. Pedro Daltro Multiparametric Hepatosplenic Ultrasound in Pediatrics. Dr. Esteban Dardanelli",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          654.065,
+          612,
+          749.065
+        ],
+        "ids": [
+          "e100"
+        ]
+      }
+    ],
+    "kind": "agenda"
+  },
+  {
+    "page": 23,
+    "rowCount": 10,
+    "mappedRows": 10,
+    "rows": [
+      {
+        "start": "15:00",
+        "end": "15:20",
+        "text": "Enfermedad pulmonar intersticial en niños: Correlación clínico-radiológica. 3 Dr. Pedro Daltro",
+        "levels": [
+          3
+        ],
+        "bbox": [
+          21.0166,
+          174.03599999999994,
+          612,
+          208.039
+        ],
+        "ids": [
+          "e107"
+        ]
+      },
+      {
+        "start": "15:20",
+        "end": "15:40",
+        "text": "Malformaciones y neoplasias del tórax pediátrico. 1 Dr. Henrique Lederman",
+        "levels": [
+          1
+        ],
+        "bbox": [
+          21.0166,
+          210.039,
+          612,
+          244.04200000000003
+        ],
+        "ids": [
+          "e113"
+        ]
+      },
+      {
+        "start": "15:40",
+        "end": "16:00",
+        "text": "Cuando las venas eligen un camino diferente: Evaluación mediante 3 imágenes del retorno venoso anómalo en niños. Dra. Eloa Santos",
+        "levels": [
+          3
+        ],
+        "bbox": [
+          21.0166,
+          246.04200000000003,
+          612,
+          292.0460000000001
+        ],
+        "ids": [
+          "e119"
+        ]
+      },
+      {
+        "start": "16:00",
+        "end": "16:20",
+        "text": "AngioTAC de las arterias coronarias en niños. 3 Dr. Hansel Otero",
+        "levels": [
+          3
+        ],
+        "bbox": [
+          21.0166,
+          294.0460000000001,
+          612,
+          328.0490000000001
+        ],
+        "ids": [
+          "e126"
+        ]
+      },
+      {
+        "start": "16:20",
+        "end": "16:40",
+        "text": "CTA in children: Pearls and Pitfalls. 3 Dr. Rajesh Krishnamurthy",
+        "levels": [
+          3
+        ],
+        "bbox": [
+          21.0166,
+          330.0490000000001,
+          612,
+          364.0520000000001
+        ],
+        "ids": [
+          "e132"
+        ]
+      },
+      {
+        "start": "16:40",
+        "end": "17:00",
+        "text": "Coffee Break Módulo Piel Moderan: Dra. Isabel Schild y Dr. Velimir Skoknic",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          366.0520000000001,
+          612,
+          436.0470000000001
+        ],
+        "ids": [
+          "aux-116"
+        ]
+      },
+      {
+        "start": "17:00",
+        "end": "17:20",
+        "text": "Ecografía & Doppler en la inflamación cutánea. 2 Dr. Mario Pelizzari",
+        "levels": [
+          2
+        ],
+        "bbox": [
+          21.0166,
+          438.0470000000001,
+          612,
+          460.0490000000001
+        ],
+        "ids": [
+          "e142"
+        ]
+      },
+      {
+        "start": "17:20",
+        "end": "17:40",
+        "text": "Simuladores de anomalías vasculares: No todo es malformación AV ni hemangioma. 2 Dr. Darío Teplisky",
+        "levels": [
+          2
+        ],
+        "bbox": [
+          21.0166,
+          462.0490000000001,
+          612,
+          520.0540000000001
+        ],
+        "ids": [
+          "e148"
+        ]
+      },
+      {
+        "start": "17:40",
+        "end": "18:00",
+        "text": "Challenging cases of lumps and bumps. 2 Dr. Óscar Navarro",
+        "levels": [
+          2
+        ],
+        "bbox": [
+          21.0166,
+          522.0540000000001,
+          612,
+          556.057
+        ],
+        "ids": [
+          "e154"
+        ]
+      },
+      {
+        "start": "18:00",
+        "end": "18:30",
+        "text": "Asamblea SLARP",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          558.057,
+          612,
+          653.057
+        ],
+        "ids": [
+          "e160"
+        ]
+      }
+    ],
+    "kind": "agenda"
+  },
+  {
+    "page": 24,
+    "rowCount": 13,
+    "mappedRows": 13,
+    "rows": [
+      {
+        "start": "08:30",
+        "end": "08:50",
+        "text": "Imágenes del surco pancreático duodenal: Pancreatitis del surco y diagnósticos diferenciales. 2 Dr. Juan Carlos Spina",
+        "levels": [
+          2
+        ],
+        "bbox": [
+          21.0166,
+          174.03599999999994,
+          612,
+          220.03999999999996
+        ],
+        "ids": [
+          "e33"
+        ]
+      },
+      {
+        "start": "08:50",
+        "end": "09:10",
+        "text": "Pancreatic cystic lesions: State of the art and current challenges. 2 Dr. Regis Otaviano França Bezerra",
+        "levels": [
+          2
+        ],
+        "bbox": [
+          21.0166,
+          222.03999999999996,
+          612,
+          256.043
+        ],
+        "ids": [
+          "e39"
+        ]
+      },
+      {
+        "start": "09:10",
+        "end": "09:30",
+        "text": "Tumores neuroendocrinos de páncreas típicos y atípicos: Tips para su diagnóstico. 2 Dr. Juan Carlos Spina",
+        "levels": [
+          2
+        ],
+        "bbox": [
+          21.0166,
+          258.043,
+          612,
+          292.04600000000005
+        ],
+        "ids": [
+          "e45"
+        ]
+      },
+      {
+        "start": "09:30",
+        "end": "09:50",
+        "text": "Approach to diagnosis of focal liver lesions. 2 Dr. Bachir Taouli",
+        "levels": [
+          2
+        ],
+        "bbox": [
+          21.0166,
+          294.04600000000005,
+          612,
+          328.04900000000004
+        ],
+        "ids": [
+          "e51"
+        ]
+      },
+      {
+        "start": "09:50",
+        "end": "10:10",
+        "text": "LI-RADS M: Diagnosis and clinical impact. 2 Dr. Regis Otaviano França Bezerra",
+        "levels": [
+          2
+        ],
+        "bbox": [
+          21.0166,
+          330.04900000000004,
+          612,
+          364.052
+        ],
+        "ids": [
+          "e57"
+        ]
+      },
+      {
+        "start": "10:10",
+        "end": "10:30",
+        "text": "Imaging of MALD/MASH. 2 Dr. Bachir Taouli",
+        "levels": [
+          2
+        ],
+        "bbox": [
+          21.0166,
+          366.052,
+          612,
+          400.055
+        ],
+        "ids": [
+          "e63"
+        ]
+      },
+      {
+        "start": "10:30",
+        "end": "11:00",
+        "text": "Coffee Break",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          402.055,
+          612,
+          424.498
+        ],
+        "ids": [
+          "aux-52"
+        ]
+      },
+      {
+        "start": "11:00",
+        "end": "12:00",
+        "text": "CONFERENCIA INAUGURAL CCHR 2026 EN SALÓN 2, VITACURA Módulo Inteligencia Artificial y Tecnologías Emergentes en Imágenes Médicas Modera: Dr. Giancarlo Schiappacasse",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          426.498,
+          612,
+          496.036
+        ],
+        "ids": [
+          "e74"
+        ]
+      },
+      {
+        "start": "12:10",
+        "end": "12:30",
+        "text": "AI in early cancer detection. 3 Dr. Gigin Lin",
+        "levels": [
+          3
+        ],
+        "bbox": [
+          21.0166,
+          498.036,
+          612,
+          532.039
+        ],
+        "ids": [
+          "e78"
+        ]
+      },
+      {
+        "start": "12:30",
+        "end": "12:50",
+        "text": "Simposio Dedalus. Dr. Francisco Avendaño 3",
+        "levels": [
+          3
+        ],
+        "bbox": [
+          21.0166,
+          534.039,
+          612,
+          568.0419999999999
+        ],
+        "ids": [
+          "e84"
+        ]
+      },
+      {
+        "start": "12:50",
+        "end": "13:10",
+        "text": "Hyperpolarized Carbon-13 MRI: Clinical Applications. Dr. Gigin Lin 3",
+        "levels": [
+          3
+        ],
+        "bbox": [
+          21.0166,
+          570.0419999999999,
+          612,
+          604.045
+        ],
+        "ids": [
+          "e90"
+        ]
+      },
+      {
+        "start": "13:10",
+        "end": "13:30",
+        "text": "Radiomics and AI in liver imaging. Dr. Bachir Taouli",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          606.045,
+          612,
+          640.048
+        ],
+        "ids": [
+          "e95"
+        ]
+      },
+      {
+        "start": "13:30",
+        "end": "15:00",
+        "text": "Lunch & Learn United-Cresciendo Experiencia clínica con los MR de 5T. Dr. Antonio Luna de España, KOL de United.",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          642.048,
+          612,
+          737.048
+        ],
+        "ids": [
+          "e101"
+        ]
+      }
+    ],
+    "kind": "agenda"
+  },
+  {
+    "page": 25,
+    "rowCount": 11,
+    "mappedRows": 11,
+    "rows": [
+      {
+        "start": "15:00",
+        "end": "15:20",
+        "text": "Conceptos de anatomía patológica. 1 Dr. Gonzalo Carrasco",
+        "levels": [
+          1
+        ],
+        "bbox": [
+          21.0166,
+          174.03599999999994,
+          612,
+          208.039
+        ],
+        "ids": [
+          "e108"
+        ]
+      },
+      {
+        "start": "15:20",
+        "end": "15:40",
+        "text": "Necesidades del cirujano coloproctólogo. 1 Dr. Leonardo Espíndola",
+        "levels": [
+          1
+        ],
+        "bbox": [
+          21.0166,
+          210.039,
+          612,
+          244.04200000000003
+        ],
+        "ids": [
+          "e114"
+        ]
+      },
+      {
+        "start": "15:40",
+        "end": "16:00",
+        "text": "Radiología. Dr. Fernando González",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          246.04200000000003,
+          612,
+          280.0450000000001
+        ],
+        "ids": [
+          "e120"
+        ]
+      },
+      {
+        "start": "16:00",
+        "end": "16:20",
+        "text": "PET CT: Cuándo aporta, cuándo confunde. 2 Dra. Daniela Gutiérrez",
+        "levels": [
+          2
+        ],
+        "bbox": [
+          21.0166,
+          282.0450000000001,
+          612,
+          316.04800000000006
+        ],
+        "ids": [
+          "e127"
+        ]
+      },
+      {
+        "start": "16:20",
+        "end": "16:30",
+        "text": "Preguntas.",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          318.04800000000006,
+          612,
+          340.05000000000007
+        ],
+        "ids": [
+          "aux-121"
+        ]
+      },
+      {
+        "start": "16:30",
+        "end": "17:00",
+        "text": "Coffee Break Módulo Misceláneo Imágenes Abdomen Pelvis Modera: Dr. Andrés O'Brien",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          342.05000000000007,
+          612,
+          400.05500000000006
+        ],
+        "ids": [
+          "aux-122"
+        ]
+      },
+      {
+        "start": "17:00",
+        "end": "17:20",
+        "text": "Colangio RM. 2 Dr. Andrés Rojas",
+        "levels": [
+          2
+        ],
+        "bbox": [
+          21.0166,
+          402.05500000000006,
+          612,
+          436.05800000000005
+        ],
+        "ids": [
+          "e143"
+        ]
+      },
+      {
+        "start": "17:20",
+        "end": "17:40",
+        "text": "Dolor abdominal en el embarazo. 1 Dr. Álvaro Sanhueza",
+        "levels": [
+          1
+        ],
+        "bbox": [
+          21.0166,
+          438.05800000000005,
+          612,
+          472.06100000000004
+        ],
+        "ids": [
+          "e149"
+        ]
+      },
+      {
+        "start": "17:40",
+        "end": "18:00",
+        "text": "Fístula perianal. 2 Dr. Gonzalo Cárdenas",
+        "levels": [
+          2
+        ],
+        "bbox": [
+          21.0166,
+          474.06100000000004,
+          612,
+          508.064
+        ],
+        "ids": [
+          "e155"
+        ]
+      },
+      {
+        "start": "18:00",
+        "end": "18:20",
+        "text": "Urgencias oncológicas. 1 Dr. Jorge Contardo",
+        "levels": [
+          1
+        ],
+        "bbox": [
+          21.0166,
+          510.064,
+          612,
+          544.067
+        ],
+        "ids": [
+          "e161"
+        ]
+      },
+      {
+        "start": "18:20",
+        "end": "18:40",
+        "text": "Lesiones targetoides hepáticas en RM: 2 Hallazgos clave para un enfoque práctico. Dr. Ignacio Maldonado",
+        "levels": [
+          2
+        ],
+        "bbox": [
+          21.0166,
+          546.067,
+          612,
+          641.067
+        ],
+        "ids": [
+          "e166"
+        ]
+      }
+    ],
+    "kind": "agenda"
+  },
+  {
+    "page": 26,
+    "rowCount": 13,
+    "mappedRows": 13,
+    "rows": [
+      {
+        "start": "08:30",
+        "end": "08:50",
+        "text": "Hemorragia intracraneal fetal: mirando más allá de lo evidente. 3 Dra. Elka Miller",
+        "levels": [
+          3
+        ],
+        "bbox": [
+          21.0166,
+          174.03599999999994,
+          612,
+          208.039
+        ],
+        "ids": [
+          "e34"
+        ]
+      },
+      {
+        "start": "08:50",
+        "end": "09:10",
+        "text": "Malformaciones vasculares del cerebro fetal. 3 Dr. Camilo Jaimes",
+        "levels": [
+          3
+        ],
+        "bbox": [
+          21.0166,
+          210.039,
+          612,
+          244.04200000000003
+        ],
+        "ids": [
+          "e40"
+        ]
+      },
+      {
+        "start": "09:10",
+        "end": "09:30",
+        "text": "Lesión hipóxico-isquémica neonatal: Patrones y claves para el informe. 3 Dr. Camilo Jaimes",
+        "levels": [
+          3
+        ],
+        "bbox": [
+          21.0166,
+          246.04200000000003,
+          612,
+          280.0450000000001
+        ],
+        "ids": [
+          "e46"
+        ]
+      },
+      {
+        "start": "09:30",
+        "end": "09:50",
+        "text": "Moyamoya y arteriopatías esteno-oclusivas crónicas: Qué buscar y qué informar. 3 Dr. Ranliang Hu",
+        "levels": [
+          3
+        ],
+        "bbox": [
+          21.0166,
+          282.0450000000001,
+          612,
+          316.04800000000006
+        ],
+        "ids": [
+          "e52"
+        ]
+      },
+      {
+        "start": "09:50",
+        "end": "10:10",
+        "text": "Leucodistrofias y errores innatos del metabolismo: Enfoque por patrones. 3 Dra. Feliza Restrepo",
+        "levels": [
+          3
+        ],
+        "bbox": [
+          21.0166,
+          318.04800000000006,
+          612,
+          352.05100000000004
+        ],
+        "ids": [
+          "e58"
+        ]
+      },
+      {
+        "start": "10:10",
+        "end": "10:30",
+        "text": "Mesa redonda, preguntas.",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          354.05100000000004,
+          612,
+          376.05300000000005
+        ],
+        "ids": [
+          "aux-58"
+        ]
+      },
+      {
+        "start": "10:30",
+        "end": "11:00",
+        "text": "Coffee Break",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          378.05300000000005,
+          612,
+          400.498
+        ],
+        "ids": [
+          "aux-59"
+        ]
+      },
+      {
+        "start": "11:00",
+        "end": "12:00",
+        "text": "INAUGURAL CCHR 2026 EN SALÓN 2, VITACURA Módulo Malformaciones y patología del SNC pediátrico: lo imprescindible Modera: Dra. Ximena Stecher",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          402.498,
+          612,
+          472.036
+        ],
+        "ids": [
+          "e74"
+        ]
+      },
+      {
+        "start": "12:10",
+        "end": "12:30",
+        "text": "Imágenes en epilepsia: Malformaciones del desarrollo cortical, qué no pasar por alto. 3 Dr. Ranliang Hu",
+        "levels": [
+          3
+        ],
+        "bbox": [
+          21.0166,
+          474.036,
+          612,
+          520.04
+        ],
+        "ids": [
+          "e79"
+        ]
+      },
+      {
+        "start": "12:30",
+        "end": "12:50",
+        "text": "Pérdida auditiva neurosensorial. 3 Dr. Camilo Jaimes",
+        "levels": [
+          3
+        ],
+        "bbox": [
+          21.0166,
+          522.04,
+          612,
+          556.043
+        ],
+        "ids": [
+          "e85"
+        ]
+      },
+      {
+        "start": "12:50",
+        "end": "13:10",
+        "text": "Malformaciones genético-estructurales del tronco encefálico pediátrico. 3 Dr. Carlos Robles",
+        "levels": [
+          3
+        ],
+        "bbox": [
+          21.0166,
+          558.043,
+          612,
+          592.046
+        ],
+        "ids": [
+          "e91"
+        ]
+      },
+      {
+        "start": "13:10",
+        "end": "13:30",
+        "text": "Síndromes neurocutáneos: hallazgos imagenológicos y seguimiento. 3 Dra. Feliza Restrepo",
+        "levels": [
+          3
+        ],
+        "bbox": [
+          21.0166,
+          594.046,
+          612,
+          628.049
+        ],
+        "ids": [
+          "e96"
+        ]
+      },
+      {
+        "start": "13:30",
+        "end": "15:00",
+        "text": "Lunch & Learn GE Healthcare. Neuroimagen contemporánea: Deep Learning ARDL & Sonic DL3D, una sinergia tecnológica necesaria Dr. Cristián Allard",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          630.049,
+          612,
+          725.049
+        ],
+        "ids": [
+          "e102"
+        ]
+      }
+    ],
+    "kind": "agenda"
+  },
+  {
+    "page": 27,
+    "rowCount": 11,
+    "mappedRows": 11,
+    "rows": [
+      {
+        "start": "15:00",
+        "end": "15:20",
+        "text": "Perdiéndole el miedo a la TC cerebral neonatal. 1 Dra. Ximena Stecher",
+        "levels": [
+          1
+        ],
+        "bbox": [
+          21.0166,
+          174.03599999999994,
+          612,
+          208.039
+        ],
+        "ids": [
+          "e109"
+        ]
+      },
+      {
+        "start": "15:20",
+        "end": "15:40",
+        "text": "El ABC de las malformaciones encefálicas: guía de supervivencia. 1 Dr. Carlos Robles",
+        "levels": [
+          1
+        ],
+        "bbox": [
+          21.0166,
+          210.039,
+          612,
+          244.04200000000003
+        ],
+        "ids": [
+          "e115"
+        ]
+      },
+      {
+        "start": "15:40",
+        "end": "16:00",
+        "text": "Simposio Empresa.",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          246.04200000000003,
+          612,
+          268.044
+        ],
+        "ids": [
+          "e121"
+        ]
+      },
+      {
+        "start": "16:00",
+        "end": "16:20",
+        "text": "Calota pediátrica: Claves diagnósticas y pitfalls. 1 Dr. Guido González",
+        "levels": [
+          1
+        ],
+        "bbox": [
+          21.0166,
+          270.044,
+          612,
+          304.047
+        ],
+        "ids": [
+          "e128"
+        ]
+      },
+      {
+        "start": "16:20",
+        "end": "16:30",
+        "text": "Mesa redonda, preguntas.",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          306.047,
+          612,
+          328.04900000000004
+        ],
+        "ids": [
+          "aux-127"
+        ]
+      },
+      {
+        "start": "16:30",
+        "end": "17:00",
+        "text": "Coffee Break Módulo Aproximación práctica a la neurorradiología pediátrica II Modera: Dra. Valeria Schonstedt",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          330.04900000000004,
+          612,
+          400.04400000000004
+        ],
+        "ids": [
+          "aux-128"
+        ]
+      },
+      {
+        "start": "17:00",
+        "end": "17:20",
+        "text": "Infecciones del SNC: Claves diagnósticas según la edad. 1 Dr. Daniel Hasson",
+        "levels": [
+          1
+        ],
+        "bbox": [
+          21.0166,
+          402.04400000000004,
+          612,
+          436.047
+        ],
+        "ids": [
+          "e144"
+        ]
+      },
+      {
+        "start": "17:20",
+        "end": "17:40",
+        "text": "Trauma de columna pediátrico: ¿Qué buscar y cuándo pedir RM? 1 Dra. Ignacia Vacarezza",
+        "levels": [
+          1
+        ],
+        "bbox": [
+          21.0166,
+          438.047,
+          612,
+          472.05
+        ],
+        "ids": [
+          "e150"
+        ]
+      },
+      {
+        "start": "17:40",
+        "end": "18:00",
+        "text": "Tumores encefálicos pediátricos más frecuentes: Lo que todo radiólogo debe saber. 1 Dr. Luis Canales",
+        "levels": [
+          1
+        ],
+        "bbox": [
+          21.0166,
+          474.05,
+          612,
+          520.0540000000001
+        ],
+        "ids": [
+          "e156"
+        ]
+      },
+      {
+        "start": "18:00",
+        "end": "18:20",
+        "text": "Casos interactivos 1 Dr. Francisco Sepúlveda",
+        "levels": [
+          1
+        ],
+        "bbox": [
+          21.0166,
+          522.0540000000001,
+          612,
+          556.057
+        ],
+        "ids": [
+          "e162"
+        ]
+      },
+      {
+        "start": "18:20",
+        "end": "18:30",
+        "text": "Mesa redonda, preguntas.",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          558.057,
+          612,
+          653.057
+        ],
+        "ids": [
+          "aux-159"
+        ]
+      }
+    ],
+    "kind": "agenda"
+  },
+  {
+    "page": 28,
+    "rowCount": 12,
+    "mappedRows": 12,
+    "rows": [
+      {
+        "start": "08:30",
+        "end": "09:00",
+        "text": "Citologias percutaneas: ¿Cuándo y dónde? Dr. Pablo Gómez y Dr. Telmo Fernandes",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          174.03599999999994,
+          612,
+          208.039
+        ],
+        "ids": [
+          "e35"
+        ]
+      },
+      {
+        "start": "09:00",
+        "end": "09:20",
+        "text": "Técnica de biopsias . Dr. Pablo Gómez y Dr. Telmo Fernandes",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          210.039,
+          612,
+          244.04200000000003
+        ],
+        "ids": [
+          "e42"
+        ]
+      },
+      {
+        "start": "09:20",
+        "end": "09:40",
+        "text": "Biopsias en humanos, embolizaciones. Dr. Walther Ziegler",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          246.04200000000003,
+          612,
+          280.0450000000001
+        ],
+        "ids": [
+          "e48"
+        ]
+      },
+      {
+        "start": "09:40",
+        "end": "10:00",
+        "text": "Técnicas toma de muestras Pielocentesis/colecistocentesis. Dr. Pablo Gómez y Dr. Telmo Fernandes",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          282.0450000000001,
+          612,
+          316.04800000000006
+        ],
+        "ids": [
+          "e54"
+        ]
+      },
+      {
+        "start": "10:00",
+        "end": "10:30",
+        "text": "Gestión del error en diagnóstico ecográfico y citológico. Casos clínicos reales. Dr. Pablo Gómez y Dr. Telmo Fernandes",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          318.04800000000006,
+          612,
+          352.05100000000004
+        ],
+        "ids": [
+          "e60"
+        ]
+      },
+      {
+        "start": "10:30",
+        "end": "11:00",
+        "text": "Coffee Break",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          354.05100000000004,
+          612,
+          376.498
+        ],
+        "ids": [
+          "aux-66"
+        ]
+      },
+      {
+        "start": "11:00",
+        "end": "12:00",
+        "text": "CONFERENCIA INAUGURAL CCHR 2026 EN SALÓN 2, VITACURA Módulo Técnicas avanzadas de imagen: elastografía y contraste con microburbujas Modera: Carolina Ugalde",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          378.498,
+          612,
+          448.036
+        ],
+        "ids": [
+          "e74"
+        ]
+      },
+      {
+        "start": "12:10",
+        "end": "12:30",
+        "text": "Elastografía. Dr. Daniel Sáez",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          450.036,
+          612,
+          484.039
+        ],
+        "ids": [
+          "e80"
+        ]
+      },
+      {
+        "start": "12:30",
+        "end": "12:50",
+        "text": "Contraste microburbujas. Dr. Pablo Gómez y Dr. Telmo Fernandes",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          486.039,
+          612,
+          520.0419999999999
+        ],
+        "ids": [
+          "e86"
+        ]
+      },
+      {
+        "start": "12:50",
+        "end": "13:10",
+        "text": "Simposio Philips Imágenes Veterinarias por resonancia magnética de alto campo. Juan Guevara, Líder de Diagnóstico por Imágenes de Philips Chile",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          522.0419999999999,
+          612,
+          568.0459999999999
+        ],
+        "ids": [
+          "e92"
+        ]
+      },
+      {
+        "start": "13:10",
+        "end": "13:30",
+        "text": "Elastografia hepática ¿Qué es, para qué y a quién? Dr. Carlos Riquelme",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          570.0459999999999,
+          612,
+          604.049
+        ],
+        "ids": [
+          "e97"
+        ]
+      },
+      {
+        "start": "13:30",
+        "end": "15:00",
+        "text": "Almuerzo",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          606.049,
+          612,
+          701.049
+        ],
+        "ids": [
+          "aux-99"
+        ]
+      }
+    ],
+    "kind": "agenda"
+  },
+  {
+    "page": 29,
+    "rowCount": 12,
+    "mappedRows": 12,
+    "rows": [
+      {
+        "start": "15:00",
+        "end": "15:20",
+        "text": "Radiofrecuencia tiroides y cavidad nasal. Dr. Pablo Gómez y Dr. Telmo Fernandes",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          174.03599999999994,
+          612,
+          208.039
+        ],
+        "ids": [
+          "e110"
+        ]
+      },
+      {
+        "start": "15:20",
+        "end": "15:40",
+        "text": "Radiofrecuencia de tiroides en humanos. Dr. Francisco Cruz Olivos",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          210.039,
+          612,
+          244.04200000000003
+        ],
+        "ids": [
+          "e116"
+        ]
+      },
+      {
+        "start": "15:40",
+        "end": "15:55",
+        "text": "Simposio Siemens Healthineers. Ingeniero Geimar Bermeo",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          246.04200000000003,
+          612,
+          280.0450000000001
+        ],
+        "ids": [
+          "e122"
+        ]
+      },
+      {
+        "start": "15:55",
+        "end": "16:15",
+        "text": "Radiofrecuencia de páncreas. Dr. Pablo Gómez y Dr. Telmo Fernandes",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          282.0450000000001,
+          612,
+          316.04800000000006
+        ],
+        "ids": [
+          "e125"
+        ]
+      },
+      {
+        "start": "16:15",
+        "end": "16:30",
+        "text": "Radiofrecuencia de adrenales. Dr. Pablo Gómez y Dr. Telmo Fernandes",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          318.04800000000006,
+          612,
+          352.05100000000004
+        ],
+        "ids": [
+          "e130"
+        ]
+      },
+      {
+        "start": "16:30",
+        "end": "17:00",
+        "text": "Coffee Break Módulo Innovación Modera: Carolina Arancibia",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          354.05100000000004,
+          612,
+          424.04600000000005
+        ],
+        "ids": [
+          "aux-134"
+        ]
+      },
+      {
+        "start": "17:00",
+        "end": "17:30",
+        "text": "Presentación pósters científicos.",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          426.04600000000005,
+          612,
+          448.04800000000006
+        ],
+        "ids": [
+          "e145"
+        ]
+      },
+      {
+        "start": "17:30",
+        "end": "17:50",
+        "text": "Planificación de adrenalectomías laparoscópicas por medio de TC. Dr. Felipe Lillo",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          450.04800000000006,
+          612,
+          484.05100000000004
+        ],
+        "ids": [
+          "e152"
+        ]
+      },
+      {
+        "start": "17:50",
+        "end": "18:10",
+        "text": "Tratamiento mínimamenteinvasivo para shunt portosistémicos. Dr. Felipe Lillo",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          486.05100000000004,
+          612,
+          520.0540000000001
+        ],
+        "ids": [
+          "e158"
+        ]
+      },
+      {
+        "start": "18:10",
+        "end": "18:30",
+        "text": "Evaluación endoscópica de neoplasias de vías urinarias. Dr. Felipe Díaz",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          522.0540000000001,
+          612,
+          556.057
+        ],
+        "ids": [
+          "e164"
+        ]
+      },
+      {
+        "start": "18:30",
+        "end": "18:50",
+        "text": "Ultrasonido cutáneo. Lo básico para empezar y lesiones más frecuentes. Dr. Carlos Riquelme",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          558.057,
+          612,
+          592.06
+        ],
+        "ids": [
+          "e168"
+        ]
+      },
+      {
+        "start": "18:50",
+        "end": "19:00",
+        "text": "Premiación pósters científicos.",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          594.06,
+          612,
+          689.06
+        ],
+        "ids": [
+          "e169"
+        ]
+      }
+    ],
+    "kind": "agenda"
+  },
+  {
+    "page": 30,
+    "rowCount": 13,
+    "mappedRows": 13,
+    "rows": [
+      {
+        "start": "08:30",
+        "end": "08:50",
+        "text": "Lo nuevo del BI-RADS en mamografía. 1 2 3 Dra. Patricia Arancibia",
+        "levels": [
+          1,
+          2,
+          3
+        ],
+        "bbox": [
+          21.0166,
+          174.03599999999994,
+          612,
+          208.039
+        ],
+        "ids": [
+          "e36"
+        ]
+      },
+      {
+        "start": "08:50",
+        "end": "09:10",
+        "text": "Lo nuevo del BI-RADS en ecografía. 1 2 3 Dra. Paula Jimenez",
+        "levels": [
+          1,
+          2,
+          3
+        ],
+        "bbox": [
+          21.0166,
+          210.039,
+          612,
+          244.04200000000003
+        ],
+        "ids": [
+          "e41"
+        ]
+      },
+      {
+        "start": "09:10",
+        "end": "09:30",
+        "text": "Lo nuevo del BI-RADS en RM. 1 2 3 Dra. María Verónica González",
+        "levels": [
+          1,
+          2,
+          3
+        ],
+        "bbox": [
+          21.0166,
+          246.04200000000003,
+          612,
+          280.0450000000001
+        ],
+        "ids": [
+          "e47"
+        ]
+      },
+      {
+        "start": "09:30",
+        "end": "09:50",
+        "text": "Lo nuevo del BI-RADS en mamografía con contraste. 1 2 3 Dr. Rodrigo Herrmann",
+        "levels": [
+          1,
+          2,
+          3
+        ],
+        "bbox": [
+          21.0166,
+          282.0450000000001,
+          612,
+          316.04800000000006
+        ],
+        "ids": [
+          "e53"
+        ]
+      },
+      {
+        "start": "09:50",
+        "end": "10:10",
+        "text": "BI-RADS 3 en pacientes con cáncer de mama. 1 2 3 Dra. Paula de Camargo Moraes",
+        "levels": [
+          1,
+          2,
+          3
+        ],
+        "bbox": [
+          21.0166,
+          318.04800000000006,
+          612,
+          352.05100000000004
+        ],
+        "ids": [
+          "e59"
+        ]
+      },
+      {
+        "start": "10:10",
+        "end": "10:30",
+        "text": "Mesa Redonda y preguntas.",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          354.05100000000004,
+          612,
+          376.05300000000005
+        ],
+        "ids": [
+          "aux-72"
+        ]
+      },
+      {
+        "start": "10:30",
+        "end": "11:00",
+        "text": "Coffee Break",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          378.05300000000005,
+          612,
+          400.498
+        ],
+        "ids": [
+          "aux-73"
+        ]
+      },
+      {
+        "start": "11:00",
+        "end": "12:00",
+        "text": "CONFERENCIA INAUGURAL CCHR 2026 EN SALÓN 2, VITACURA Módulo Actualización Modera: Dra. Marcela Jacard",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          402.498,
+          612,
+          472.036
+        ],
+        "ids": [
+          "e74"
+        ]
+      },
+      {
+        "start": "12:10",
+        "end": "12:30",
+        "text": "Papel de la mamografía con contraste en la práctica clínica. 2 3 Dr. Luis Pina",
+        "levels": [
+          2,
+          3
+        ],
+        "bbox": [
+          21.0166,
+          474.036,
+          612,
+          508.039
+        ],
+        "ids": [
+          "e81"
+        ]
+      },
+      {
+        "start": "12:30",
+        "end": "12:50",
+        "text": "Manejo de lesiones de alto riesgo: A propósito de las nuevas guías. 2 3 Dr. Andrés Vicentela",
+        "levels": [
+          2,
+          3
+        ],
+        "bbox": [
+          21.0166,
+          510.039,
+          612,
+          556.043
+        ],
+        "ids": [
+          "e87"
+        ]
+      },
+      {
+        "start": "12:50",
+        "end": "13:10",
+        "text": "Papel de la Inteligencia Artificial aplicada a mamografía 2 3 en cribado y en la práctica clínica. Dr. Luis Pina",
+        "levels": [
+          2,
+          3
+        ],
+        "bbox": [
+          21.0166,
+          558.043,
+          612,
+          604.047
+        ],
+        "ids": [
+          "e93"
+        ]
+      },
+      {
+        "start": "13:10",
+        "end": "13:30",
+        "text": "Manejo actual de la axila: Lo que el radiólogo debe saber. 2 3 Dra. Carolina Barriga",
+        "levels": [
+          2,
+          3
+        ],
+        "bbox": [
+          21.0166,
+          606.047,
+          612,
+          640.05
+        ],
+        "ids": [
+          "e98"
+        ]
+      },
+      {
+        "start": "13:30",
+        "end": "15:00",
+        "text": "Almuerzo Hands on Hologic - Tecnoimagen Biopsia guiada por contraste.",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          642.05,
+          612,
+          737.05
+        ],
+        "ids": [
+          "aux-104"
+        ]
+      }
+    ],
+    "kind": "agenda"
+  },
+  {
+    "page": 31,
+    "rowCount": 10,
+    "mappedRows": 10,
+    "rows": [
+      {
+        "start": "15:00",
+        "end": "15:20",
+        "text": "Evaluación por imagen de la respuesta a la quimioterapia neoadyuvante. 2 3 Dra. Paula de Camargo Moraes",
+        "levels": [
+          2,
+          3
+        ],
+        "bbox": [
+          21.0166,
+          174.03599999999994,
+          612,
+          208.039
+        ],
+        "ids": [
+          "e111"
+        ]
+      },
+      {
+        "start": "15:20",
+        "end": "15:40",
+        "text": "Tratamientos mínimamente invasivos en el servicio público. Experiencia. 2 3 Dra. María José Diez",
+        "levels": [
+          2,
+          3
+        ],
+        "bbox": [
+          21.0166,
+          210.039,
+          612,
+          244.04200000000003
+        ],
+        "ids": [
+          "e117"
+        ]
+      },
+      {
+        "start": "15:40",
+        "end": "16:00",
+        "text": "Cómo minimizar errores en la evaluación mamográfica: Revisión de casos. 2 3 Dra. Paula de Camargo Moraes",
+        "levels": [
+          2,
+          3
+        ],
+        "bbox": [
+          21.0166,
+          246.04200000000003,
+          612,
+          280.0450000000001
+        ],
+        "ids": [
+          "e123"
+        ]
+      },
+      {
+        "start": "16:00",
+        "end": "16:20",
+        "text": "Intervencionismo mamario. 2 3 Dr. Luis Pina",
+        "levels": [
+          2,
+          3
+        ],
+        "bbox": [
+          21.0166,
+          282.0450000000001,
+          612,
+          316.04800000000006
+        ],
+        "ids": [
+          "e129"
+        ]
+      },
+      {
+        "start": "16:20",
+        "end": "16:30",
+        "text": "Preguntas.",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          318.04800000000006,
+          612,
+          340.05000000000007
+        ],
+        "ids": [
+          "aux-139"
+        ]
+      },
+      {
+        "start": "16:30",
+        "end": "17:00",
+        "text": "Coffee Break Módulo Actualización Modera: Dra. Marcela Jacard",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          342.05000000000007,
+          612,
+          412.0450000000001
+        ],
+        "ids": [
+          "aux-140"
+        ]
+      },
+      {
+        "start": "17:00",
+        "end": "17:20",
+        "text": "Sesión interactiva de casos. Dra. Carla Darras",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          414.0450000000001,
+          612,
+          448.04800000000006
+        ],
+        "ids": [
+          "e146"
+        ]
+      },
+      {
+        "start": "17:20",
+        "end": "17:40",
+        "text": "Correlación radio-patológica. 1 Dra. Marcela Gallegos, Dra. Marcela Jacard y Dr. Miguel Ángel Pinochet",
+        "levels": [
+          1
+        ],
+        "bbox": [
+          21.0166,
+          450.04800000000006,
+          612,
+          484.05100000000004
+        ],
+        "ids": [
+          "e151"
+        ]
+      },
+      {
+        "start": "17:40",
+        "end": "18:00",
+        "text": "Correlación radio-patológica. 2 Dra. Marcela Gallegos, Dra. Marcela Jacard y Dr. Miguel Ángel Pinochet",
+        "levels": [
+          2
+        ],
+        "bbox": [
+          21.0166,
+          486.05100000000004,
+          612,
+          520.0540000000001
+        ],
+        "ids": [
+          "e157"
+        ]
+      },
+      {
+        "start": "18:00",
+        "end": "18:30",
+        "text": "Correlación radio-patológica 3 Dra. Marcela Gallegos, Dra. Marcela Jacard y Dr. Miguel Ángel Pinochet",
+        "levels": [
+          3
+        ],
+        "bbox": [
+          21.0166,
+          522.0540000000001,
+          612,
+          617.0540000000001
+        ],
+        "ids": [
+          "e163"
+        ]
+      }
+    ],
+    "kind": "agenda"
+  },
+  {
+    "page": 32,
+    "rowCount": 13,
+    "mappedRows": 13,
+    "rows": [
+      {
+        "start": "08:30",
+        "end": "08:50",
+        "text": "Cómo aprender radiología de la forma más eficiente: Estrategias para residentes y médicos jóvenes. Dra. Cecilia Ferrario",
+        "levels": [],
+        "bbox": [
+          21.015,
+          174.03599999999994,
+          612,
+          220.03999999999996
+        ],
+        "ids": [
+          "e172"
+        ]
+      },
+      {
+        "start": "08:50",
+        "end": "09:10",
+        "text": "Uso de IA en educación. Dr. Carlos Corredor",
+        "levels": [],
+        "bbox": [
+          21.015,
+          222.03999999999996,
+          612,
+          256.043
+        ],
+        "ids": [
+          "e178"
+        ]
+      },
+      {
+        "start": "09:10",
+        "end": "09:30",
+        "text": "Enseñar radiología en la era digital. ¿Se puede combinar contenido, comunidad y buenas prácticas médicas? Dra. Cecilia Ferrario",
+        "levels": [],
+        "bbox": [
+          21.015,
+          258.043,
+          612,
+          304.0470000000001
+        ],
+        "ids": [
+          "e184"
+        ]
+      },
+      {
+        "start": "09:30",
+        "end": "09:50",
+        "text": "Innovación en educación superior. Dr. Ignacio Villagrán",
+        "levels": [],
+        "bbox": [
+          21.015,
+          306.0470000000001,
+          612,
+          340.05000000000007
+        ],
+        "ids": [
+          "e190"
+        ]
+      },
+      {
+        "start": "09:50",
+        "end": "10:10",
+        "text": "Acreditación de especialidades: Desafíos para los programas de radiología. TM. Sandra Araya",
+        "levels": [],
+        "bbox": [
+          21.015,
+          342.05000000000007,
+          612,
+          376.05300000000005
+        ],
+        "ids": [
+          "e196"
+        ]
+      },
+      {
+        "start": "10:10",
+        "end": "10:30",
+        "text": "Preguntas.",
+        "levels": [],
+        "bbox": [
+          21.015,
+          378.05300000000005,
+          612,
+          400.05500000000006
+        ],
+        "ids": [
+          "aux-185"
+        ]
+      },
+      {
+        "start": "10:30",
+        "end": "11:00",
+        "text": "Coffee Break Módulo II Modera: Dra. Erika Morales",
+        "levels": [],
+        "bbox": [
+          21.015,
+          402.05500000000006,
+          612,
+          472.05000000000007
+        ],
+        "ids": [
+          "aux-186"
+        ]
+      },
+      {
+        "start": "11:00",
+        "end": "11:20",
+        "text": "Currículo y evaluación por competencias. Dr. Carlos Corredor",
+        "levels": [],
+        "bbox": [
+          21.015,
+          474.05000000000007,
+          612,
+          508.05300000000005
+        ],
+        "ids": [
+          "e217"
+        ]
+      },
+      {
+        "start": "11:20",
+        "end": "11:40",
+        "text": "Evaluación en radiología. Cómo lo estamos haciendo. Dr. Jorge Llanos",
+        "levels": [],
+        "bbox": [
+          21.015,
+          510.05300000000005,
+          612,
+          544.056
+        ],
+        "ids": [
+          "e220"
+        ]
+      },
+      {
+        "start": "11:40",
+        "end": "12:00",
+        "text": "Evaluación de competencias no interpretativas. Dr. Carlos Riquelme",
+        "levels": [],
+        "bbox": [
+          21.015,
+          546.056,
+          612,
+          580.059
+        ],
+        "ids": [
+          "e226"
+        ]
+      },
+      {
+        "start": "12:00",
+        "end": "12:40",
+        "text": "Panel de discusión - evaluación.",
+        "levels": [],
+        "bbox": [
+          21.015,
+          582.059,
+          612,
+          604.061
+        ],
+        "ids": [
+          "e232"
+        ]
+      },
+      {
+        "start": "12:40",
+        "end": "13:00",
+        "text": "Preguntas.",
+        "levels": [],
+        "bbox": [
+          21.015,
+          606.061,
+          612,
+          628.0630000000001
+        ],
+        "ids": [
+          "aux-222"
+        ]
+      },
+      {
+        "start": "13:00",
+        "end": "14:30",
+        "text": "Almuerzo",
+        "levels": [],
+        "bbox": [
+          21.015,
+          630.0630000000001,
+          612,
+          725.0630000000001
+        ],
+        "ids": [
+          "aux-223"
+        ]
+      }
+    ],
+    "kind": "agenda"
+  },
+  {
+    "page": 33,
+    "rowCount": 14,
+    "mappedRows": 14,
+    "rows": [
+      {
+        "start": "08:30",
+        "end": "08:50",
+        "text": "Dolor abdominal crónico en niños. 1 Dra. Claudia Lazarte",
+        "levels": [
+          1
+        ],
+        "bbox": [
+          21.0166,
+          174.03599999999994,
+          612,
+          208.039
+        ],
+        "ids": [
+          "e173"
+        ]
+      },
+      {
+        "start": "08:50",
+        "end": "09:10",
+        "text": "La cara biliar de la hipertensión portal: biliopatía portal en pediatría. 3 Dr. José Lipsich",
+        "levels": [
+          3
+        ],
+        "bbox": [
+          21.0166,
+          210.039,
+          612,
+          244.04200000000003
+        ],
+        "ids": [
+          "e179"
+        ]
+      },
+      {
+        "start": "09:10",
+        "end": "09:30",
+        "text": "Role of Interventional Radiology in Pediatric Portal Hypertension. 3 Dr. Dimitri Parra",
+        "levels": [
+          3
+        ],
+        "bbox": [
+          21.0166,
+          246.04200000000003,
+          612,
+          280.0450000000001
+        ],
+        "ids": [
+          "e185"
+        ]
+      },
+      {
+        "start": "09:30",
+        "end": "09:50",
+        "text": "Update in Pediatric Pancreatitis. 2 Dr. Andrew Trout",
+        "levels": [
+          2
+        ],
+        "bbox": [
+          21.0166,
+          282.0450000000001,
+          612,
+          316.04800000000006
+        ],
+        "ids": [
+          "e191"
+        ]
+      },
+      {
+        "start": "09:50",
+        "end": "10:10",
+        "text": "Presentaciones por imagen del tumor de Wilms. 2 Dra. Fernanda del Campo",
+        "levels": [
+          2
+        ],
+        "bbox": [
+          21.0166,
+          318.04800000000006,
+          612,
+          352.05100000000004
+        ],
+        "ids": [
+          "e197"
+        ]
+      },
+      {
+        "start": "10:10",
+        "end": "10:30",
+        "text": "Diagnóstico por imágenes en endometriosis en adolescentes. 3 Dra. Tamara Kreindel",
+        "levels": [
+          3
+        ],
+        "bbox": [
+          21.0166,
+          354.05100000000004,
+          612,
+          388.05400000000003
+        ],
+        "ids": [
+          "e203"
+        ]
+      },
+      {
+        "start": "10:30",
+        "end": "10:50",
+        "text": "Tumores pediátricos inusuales y tips que salvan diagnósticos. 3 Dra. Lina Cadavid",
+        "levels": [
+          3
+        ],
+        "bbox": [
+          21.0166,
+          390.05400000000003,
+          612,
+          424.057
+        ],
+        "ids": [
+          "e209"
+        ]
+      },
+      {
+        "start": "10:50",
+        "end": "11:20",
+        "text": "Coffee Break Módulo Fetal y Neonatología Moderan: Dra. Lizbet Pérez y Dra. Meiling Chiang",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          426.057,
+          612,
+          496.052
+        ],
+        "ids": [
+          "aux-194"
+        ]
+      },
+      {
+        "start": "11:20",
+        "end": "11:40",
+        "text": "Ecografía transperineal, su aporte en las patologías del RN. 3 Dra. Tatiana Fazecas",
+        "levels": [
+          3
+        ],
+        "bbox": [
+          21.0166,
+          498.052,
+          612,
+          532.0550000000001
+        ],
+        "ids": [
+          "e221"
+        ]
+      },
+      {
+        "start": "11:40",
+        "end": "12:00",
+        "text": "Importancia del diagnóstico precoz de la hernia diafragmática. 3 Dra. Renata Nogueira",
+        "levels": [
+          3
+        ],
+        "bbox": [
+          21.0166,
+          534.0550000000001,
+          612,
+          568.058
+        ],
+        "ids": [
+          "e227"
+        ]
+      },
+      {
+        "start": "12:00",
+        "end": "12:20",
+        "text": "Imaging of the Neonatal Abdomen. 2 Dr. Ricardo Faingold",
+        "levels": [
+          2
+        ],
+        "bbox": [
+          21.0166,
+          570.058,
+          612,
+          604.0609999999999
+        ],
+        "ids": [
+          "e233"
+        ]
+      },
+      {
+        "start": "12:20",
+        "end": "12:40",
+        "text": "RM fetal, casos interesantes. 3 Dra. Teresa Victoria",
+        "levels": [
+          3
+        ],
+        "bbox": [
+          21.0166,
+          606.0609999999999,
+          612,
+          640.064
+        ],
+        "ids": [
+          "e238"
+        ]
+      },
+      {
+        "start": "12:40",
+        "end": "13:00",
+        "text": "Ceremonia SLARP",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          642.064,
+          612,
+          664.0659999999999
+        ],
+        "ids": [
+          "e244"
+        ]
+      },
+      {
+        "start": "13:00",
+        "end": "14:30",
+        "text": "Almuerzo",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          666.0659999999999,
+          612,
+          752
+        ],
+        "ids": [
+          "aux-243"
+        ]
+      }
+    ],
+    "kind": "agenda"
+  },
+  {
+    "page": 34,
+    "rowCount": 11,
+    "mappedRows": 11,
+    "rows": [
+      {
+        "start": "14:30",
+        "end": "14:50",
+        "text": "How to perform imaging studies in children without sedation or medication. 1 Dr. Philipe Petit",
+        "levels": [
+          1
+        ],
+        "bbox": [
+          21.0166,
+          174.03599999999994,
+          612,
+          208.039
+        ],
+        "ids": [
+          "e257"
+        ]
+      },
+      {
+        "start": "14:50",
+        "end": "15:10",
+        "text": "Can Photon Counting CT change current practice in Pediatric Radiology? 2 Dr. Pedro Albuquerque",
+        "levels": [
+          2
+        ],
+        "bbox": [
+          21.0166,
+          210.039,
+          612,
+          244.04200000000003
+        ],
+        "ids": [
+          "e264"
+        ]
+      },
+      {
+        "start": "15:10",
+        "end": "15:30",
+        "text": "Avances en imagen cardiaca: Photon-counting CT, evaluación valvular y 4D-Flow. Dr. Carlos Ugas",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          246.04200000000003,
+          612,
+          280.0450000000001
+        ],
+        "ids": [
+          "e269"
+        ]
+      },
+      {
+        "start": "15:30",
+        "end": "15:50",
+        "text": "Rapid MRI of Pediatric MSK Infections: No Contrast, No Sedation. 2 Dra. Alejandra Bedoya",
+        "levels": [
+          2
+        ],
+        "bbox": [
+          21.0166,
+          282.0450000000001,
+          612,
+          316.04800000000006
+        ],
+        "ids": [
+          "e274"
+        ]
+      },
+      {
+        "start": "15:50",
+        "end": "16:10",
+        "text": "¿Tiene flujo? Utilidad del Doppler microvascular (MVI). 2 Dr. Esteban Dardanelli",
+        "levels": [
+          2
+        ],
+        "bbox": [
+          21.0166,
+          318.04800000000006,
+          612,
+          352.05100000000004
+        ],
+        "ids": [
+          "e280"
+        ]
+      },
+      {
+        "start": "16:10",
+        "end": "16:30",
+        "text": "Casos interesantes interactivos. 1 Dra. Mónica Epelman y Dra. Leticia Schaefer-AbuHana",
+        "levels": [
+          1
+        ],
+        "bbox": [
+          21.0166,
+          354.05100000000004,
+          612,
+          388.05400000000003
+        ],
+        "ids": [
+          "e285"
+        ]
+      },
+      {
+        "start": "16:30",
+        "end": "17:00",
+        "text": "Coffee Break Módulo IA Moderan: Dra. Andrea Pichott y Dra. Carolina Ortiz",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          390.05400000000003,
+          612,
+          460.04900000000004
+        ],
+        "ids": [
+          "aux-263"
+        ]
+      },
+      {
+        "start": "17:00",
+        "end": "17:20",
+        "text": "Pediatric IA. 2 Dra. Sheila Berlin",
+        "levels": [
+          2
+        ],
+        "bbox": [
+          21.0166,
+          462.04900000000004,
+          612,
+          496.052
+        ],
+        "ids": [
+          "e294"
+        ]
+      },
+      {
+        "start": "17:20",
+        "end": "17:40",
+        "text": "Current state of Artificial Intelligence in pediatric radiology 1 Dr. Marcelo Strauss",
+        "levels": [
+          1
+        ],
+        "bbox": [
+          21.0166,
+          498.052,
+          612,
+          532.0550000000001
+        ],
+        "ids": [
+          "e299"
+        ]
+      },
+      {
+        "start": "17:40",
+        "end": "18:00",
+        "text": "Biomodelos 3D en cirugía pediátrica: Del estudio de la imagen a la planificación del tratamiento. 2 Dra. Silvina Zabala",
+        "levels": [
+          2
+        ],
+        "bbox": [
+          21.0166,
+          534.0550000000001,
+          612,
+          580.059
+        ],
+        "ids": [
+          "e303"
+        ]
+      },
+      {
+        "start": "18:00",
+        "end": "18:30",
+        "text": "Gymkhana 1 Dr. Mario Montaño, Dr. Cristián García, Dr. Mario Pelizzari, Dra, Tatiana Fazecas & Dr. José Domingo Arce",
+        "levels": [
+          1
+        ],
+        "bbox": [
+          21.0166,
+          582.059,
+          612,
+          677.059
+        ],
+        "ids": [
+          "e306"
+        ]
+      }
+    ],
+    "kind": "agenda"
+  },
+  {
+    "page": 35,
+    "rowCount": 14,
+    "mappedRows": 14,
+    "rows": [
+      {
+        "start": "08:30",
+        "end": "08:50",
+        "text": "Lesiones inflamatorias de cavidad oral y faringe. 3 Dr. Juan Ignacio Errázuriz",
+        "levels": [
+          3
+        ],
+        "bbox": [
+          21.015,
+          174.03599999999994,
+          612,
+          208.039
+        ],
+        "ids": [
+          "e174"
+        ]
+      },
+      {
+        "start": "08:50",
+        "end": "09:10",
+        "text": "Neoplasias frecuentes de cavidad oral y faringe. 3 Dr. Álvaro Salas",
+        "levels": [
+          3
+        ],
+        "bbox": [
+          21.015,
+          210.039,
+          612,
+          244.04200000000003
+        ],
+        "ids": [
+          "e180"
+        ]
+      },
+      {
+        "start": "09:10",
+        "end": "09:30",
+        "text": "Lesiones de la laringe, neoplasias y otras. 3 Dr. Rodrigo Araya",
+        "levels": [
+          3
+        ],
+        "bbox": [
+          21.015,
+          246.04200000000003,
+          612,
+          280.0450000000001
+        ],
+        "ids": [
+          "e186"
+        ]
+      },
+      {
+        "start": "09:30",
+        "end": "09:50",
+        "text": "Diseminación perineural. 3 Dr. Marcelo López",
+        "levels": [
+          3
+        ],
+        "bbox": [
+          21.015,
+          282.0450000000001,
+          612,
+          316.04800000000006
+        ],
+        "ids": [
+          "e192"
+        ]
+      },
+      {
+        "start": "09:50",
+        "end": "10:10",
+        "text": "Head and neck lymphoma. 3 Dr. Murilo Bicudo",
+        "levels": [
+          3
+        ],
+        "bbox": [
+          21.015,
+          318.04800000000006,
+          612,
+          352.05100000000004
+        ],
+        "ids": [
+          "e198"
+        ]
+      },
+      {
+        "start": "10:10",
+        "end": "10:30",
+        "text": "Base de cráneo posterior: Evaluación sistemática basada en casos. 3 Dr. Manuel Pérez",
+        "levels": [
+          3
+        ],
+        "bbox": [
+          21.015,
+          354.05100000000004,
+          612,
+          388.05400000000003
+        ],
+        "ids": [
+          "e204"
+        ]
+      },
+      {
+        "start": "10:30",
+        "end": "10:50",
+        "text": "Mesa redonda, preguntas.",
+        "levels": [],
+        "bbox": [
+          21.015,
+          390.05400000000003,
+          612,
+          412.05600000000004
+        ],
+        "ids": [
+          "aux-201"
+        ]
+      },
+      {
+        "start": "10:50",
+        "end": "11:20",
+        "text": "Coffee Break Módulo Patología del oído y peñasco Modera: Dr. Rodrigo Araya",
+        "levels": [],
+        "bbox": [
+          21.015,
+          414.05600000000004,
+          612,
+          484.05100000000004
+        ],
+        "ids": [
+          "aux-202"
+        ]
+      },
+      {
+        "start": "11:20",
+        "end": "11:40",
+        "text": "Otomastoiditis crónica. 3 Dr. Gonzalo Miranda",
+        "levels": [
+          3
+        ],
+        "bbox": [
+          21.015,
+          486.05100000000004,
+          612,
+          520.0540000000001
+        ],
+        "ids": [
+          "e222"
+        ]
+      },
+      {
+        "start": "11:40",
+        "end": "12:00",
+        "text": "Lesiones del ápex petroso. 3 Dr. Adolfo Aliaga",
+        "levels": [
+          3
+        ],
+        "bbox": [
+          21.015,
+          522.0540000000001,
+          612,
+          556.057
+        ],
+        "ids": [
+          "e228"
+        ]
+      },
+      {
+        "start": "12:00",
+        "end": "12:20",
+        "text": "Hipoacusia. 3 Dr. Fernando Carreño",
+        "levels": [
+          3
+        ],
+        "bbox": [
+          21.015,
+          558.057,
+          612,
+          592.06
+        ],
+        "ids": [
+          "e234"
+        ]
+      },
+      {
+        "start": "12:20",
+        "end": "12:40",
+        "text": "RM de oídos en enfermedad de Ménière: Protocolo, hallazgos e interpretación. 3 Dr. Manuel Pérez",
+        "levels": [
+          3
+        ],
+        "bbox": [
+          21.015,
+          594.06,
+          612,
+          640.064
+        ],
+        "ids": [
+          "e239"
+        ]
+      },
+      {
+        "start": "12:40",
+        "end": "13:00",
+        "text": "Preguntas.",
+        "levels": [],
+        "bbox": [
+          21.015,
+          642.064,
+          612,
+          664.066
+        ],
+        "ids": [
+          "aux-248"
+        ]
+      },
+      {
+        "start": "13:00",
+        "end": "14:30",
+        "text": "Lunch & Learn MedizinTechnik Una nueva generación de Rayos X Móviles. Tecnología de emisión de rayos X mediante nanotubos de carbono (CNT) Dr. Brian Gonzales",
+        "levels": [],
+        "bbox": [
+          21.015,
+          666.066,
+          612,
+          752
+        ],
+        "ids": [
+          "e251"
+        ]
+      }
+    ],
+    "kind": "agenda"
+  },
+  {
+    "page": 36,
+    "rowCount": 12,
+    "mappedRows": 12,
+    "rows": [
+      {
+        "start": "14:30",
+        "end": "14:50",
+        "text": "Mesenchymal tumors of the mandible and maxilla. 3 Dr. Murilo Bicudo",
+        "levels": [
+          3
+        ],
+        "bbox": [
+          21.015,
+          183.95800000000008,
+          612,
+          217.96100000000013
+        ],
+        "ids": [
+          "e258"
+        ]
+      },
+      {
+        "start": "14:50",
+        "end": "15:10",
+        "text": "Hallazgos radiológicos en osteonecrosis mandibular. 3 Dr. Manuel Pérez 2",
+        "levels": [
+          2,
+          3
+        ],
+        "bbox": [
+          21.015,
+          219.96100000000013,
+          612,
+          253.96400000000017
+        ],
+        "ids": [
+          "e265"
+        ]
+      },
+      {
+        "start": "15:10",
+        "end": "15:30",
+        "text": "Lesiones de aspecto tumoral de las cavidades paranasales. 2 Dr. Sebastián Bravo 2",
+        "levels": [
+          2
+        ],
+        "bbox": [
+          21.015,
+          255.96400000000017,
+          612,
+          289.9670000000002
+        ],
+        "ids": [
+          "e270"
+        ]
+      },
+      {
+        "start": "15:30",
+        "end": "15:50",
+        "text": "Lesiones tumorales de las órbitas. Dr. Sergio Correa 3",
+        "levels": [
+          3
+        ],
+        "bbox": [
+          21.015,
+          291.9670000000002,
+          612,
+          325.9700000000002
+        ],
+        "ids": [
+          "e275"
+        ]
+      },
+      {
+        "start": "15:50",
+        "end": "16:10",
+        "text": "Pitfalls in Head and Neck ncologic Radiology. Dr. Murilo Bicudo",
+        "levels": [],
+        "bbox": [
+          21.015,
+          327.9700000000002,
+          612,
+          361.9730000000002
+        ],
+        "ids": [
+          "e281"
+        ]
+      },
+      {
+        "start": "16:10",
+        "end": "16:30",
+        "text": "Preguntas.",
+        "levels": [],
+        "bbox": [
+          21.015,
+          363.9730000000002,
+          612,
+          385.9750000000002
+        ],
+        "ids": [
+          "aux-269"
+        ]
+      },
+      {
+        "start": "16:30",
+        "end": "17:00",
+        "text": "Coffee Break Módulo Anomalías vasculares y casos de urgencia Modera: Dr. Álvaro Salas",
+        "levels": [],
+        "bbox": [
+          21.015,
+          387.9750000000002,
+          612,
+          457.9700000000002
+        ],
+        "ids": [
+          "aux-270"
+        ]
+      },
+      {
+        "start": "17:00",
+        "end": "17:20",
+        "text": "Cáncer de tiroides: imagenología más allá del TI-RADS. 1 Dr. Luis Canales 2",
+        "levels": [
+          1,
+          2
+        ],
+        "bbox": [
+          21.015,
+          459.9700000000002,
+          612,
+          493.9730000000002
+        ],
+        "ids": [
+          "e295"
+        ]
+      },
+      {
+        "start": "17:20",
+        "end": "17:40",
+        "text": "Infectious emergencies of the face. Dr. Murilo Bicudo 2",
+        "levels": [
+          2
+        ],
+        "bbox": [
+          21.015,
+          495.9730000000002,
+          612,
+          529.9760000000001
+        ],
+        "ids": [
+          "e300"
+        ]
+      },
+      {
+        "start": "17:40",
+        "end": "18:00",
+        "text": "Lesiones traumáticas vasculares en cabeza y cuello. Dr. Manuel Pérez 2",
+        "levels": [
+          2
+        ],
+        "bbox": [
+          21.015,
+          531.9760000000001,
+          612,
+          565.9790000000002
+        ],
+        "ids": [
+          "e304"
+        ]
+      },
+      {
+        "start": "18:00",
+        "end": "18:20",
+        "text": "Casos interactivos en urgencias de cabeza y cuello. Dr. Manuel Pérez",
+        "levels": [],
+        "bbox": [
+          21.015,
+          567.9790000000002,
+          612,
+          601.9820000000002
+        ],
+        "ids": [
+          "e307"
+        ]
+      },
+      {
+        "start": "18:20",
+        "end": "18:30",
+        "text": "Preguntas.",
+        "levels": [],
+        "bbox": [
+          21.015,
+          603.9820000000002,
+          612,
+          698.9820000000002
+        ],
+        "ids": [
+          "aux-303"
+        ]
+      }
+    ],
+    "kind": "agenda"
+  },
+  {
+    "page": 37,
+    "rowCount": 9,
+    "mappedRows": 9,
+    "rows": [
+      {
+        "start": "07:45",
+        "end": "08:30",
+        "text": "Asamblea / Desayuno Socios Titulares Sochradi",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          174.03499999999997,
+          612,
+          208.038
+        ],
+        "ids": [
+          "e170"
+        ]
+      },
+      {
+        "start": "13:00",
+        "end": "14:30",
+        "text": "1er Encuentro de Liderazgo para Mujeres Radiólogas Modera: Comité de Ética",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          210.038,
+          612,
+          280.0330000000001
+        ],
+        "ids": [
+          "e252"
+        ]
+      },
+      {
+        "start": "14:30",
+        "end": "14:35",
+        "text": "Apertura e Introducción.",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          282.0330000000001,
+          612,
+          304.0350000000001
+        ],
+        "ids": [
+          "e259"
+        ]
+      },
+      {
+        "start": "14:35",
+        "end": "15:00",
+        "text": "Charla inaugural: El Radiólogo frente al retiro. Sobre el marco ético y humano de esta etapa de transición. Dr. Iván Pérez",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          306.0350000000001,
+          612,
+          352.0390000000001
+        ],
+        "ids": [
+          "e263"
+        ]
+      },
+      {
+        "start": "15:00",
+        "end": "15:15",
+        "text": "Testimonio 1: \"De cómo he mantenido mi vínculo total con la actividad clínica, en un Servicio Público y en un Hospital de Provincia.” Dra. Solange Chia",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          354.0390000000001,
+          612,
+          400.0430000000001
+        ],
+        "ids": [
+          "e268"
+        ]
+      },
+      {
+        "start": "15:15",
+        "end": "15:30",
+        "text": "Testimonio 2: \"De cómo programé mi retiro progresivo de la actividad clínica, combinándola con trabajo en la agricultura.” Dr. José Domingo Arce",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          402.0430000000001,
+          612,
+          448.04700000000014
+        ],
+        "ids": [
+          "e273"
+        ]
+      },
+      {
+        "start": "15:30",
+        "end": "15:45",
+        "text": "Testimonio 3. \"De cómo programé mi retiro progresivo de la actividad clínica pública y privada, combinándola con deporte y turismo.” Dr. Francisco Albarracín",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          450.04700000000014,
+          612,
+          496.05100000000016
+        ],
+        "ids": [
+          "e276"
+        ]
+      },
+      {
+        "start": "15:45",
+        "end": "16:00",
+        "text": "Testimonio 4. \"De cómo programé mi retiro total de la actividad clínica después de los 65 años, comenzando un periplo por Latinoamérica en mi camper.” Dr. Aníbal Espinoza",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          498.05100000000016,
+          612,
+          544.0550000000002
+        ],
+        "ids": [
+          "e279"
+        ]
+      },
+      {
+        "start": "16:00",
+        "end": "16:30",
+        "text": "Mesa Redonda",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          546.0550000000002,
+          612,
+          641.0550000000002
+        ],
+        "ids": [
+          "aux-277"
+        ]
+      }
+    ],
+    "kind": "agenda"
+  },
+  {
+    "page": 38,
+    "rowCount": 14,
+    "mappedRows": 14,
+    "rows": [
+      {
+        "start": "08:30",
+        "end": "08:50",
+        "text": "Chondral lesions of the knee: Imaging evaluation and new perspectives. 3 Dr. Paulo Moraes Agnollito",
+        "levels": [
+          3
+        ],
+        "bbox": [
+          21.015,
+          174.03599999999994,
+          612,
+          208.039
+        ],
+        "ids": [
+          "e175"
+        ]
+      },
+      {
+        "start": "08:50",
+        "end": "09:10",
+        "text": "Los \"nuevos\" deportes y sus lesiones. 2 Dra. Yasna Sapunar",
+        "levels": [
+          2
+        ],
+        "bbox": [
+          21.015,
+          210.039,
+          612,
+          244.04200000000003
+        ],
+        "ids": [
+          "e181"
+        ]
+      },
+      {
+        "start": "09:10",
+        "end": "09:30",
+        "text": "RM en osteomielitis del pie diabético: Del pre-test al post-test. 3 Dr. Rubén Silva",
+        "levels": [
+          3
+        ],
+        "bbox": [
+          21.015,
+          246.04200000000003,
+          612,
+          280.0450000000001
+        ],
+        "ids": [
+          "e187"
+        ]
+      },
+      {
+        "start": "09:30",
+        "end": "09:50",
+        "text": "Imaging diagnosis of peripheral arthropathies. 2 Dr. Paulo Moraes Agnollito",
+        "levels": [
+          2
+        ],
+        "bbox": [
+          21.015,
+          282.0450000000001,
+          612,
+          316.04800000000006
+        ],
+        "ids": [
+          "e193"
+        ]
+      },
+      {
+        "start": "09:50",
+        "end": "10:10",
+        "text": "Sacroileítis: Lo que el reumatólogo quiere saber. 2 Dr. Miguel Valdés",
+        "levels": [
+          2
+        ],
+        "bbox": [
+          21.015,
+          318.04800000000006,
+          612,
+          352.05100000000004
+        ],
+        "ids": [
+          "e199"
+        ]
+      },
+      {
+        "start": "10:10",
+        "end": "10:30",
+        "text": "Patología sinovial: Más allá de lo inflamatorio. 3 Dr. Daniel Ríos",
+        "levels": [
+          3
+        ],
+        "bbox": [
+          21.015,
+          354.05100000000004,
+          612,
+          388.05400000000003
+        ],
+        "ids": [
+          "e205"
+        ]
+      },
+      {
+        "start": "10:30",
+        "end": "10:50",
+        "text": "Mesa Redonda.",
+        "levels": [],
+        "bbox": [
+          21.015,
+          390.05400000000003,
+          612,
+          412.05600000000004
+        ],
+        "ids": [
+          "aux-209"
+        ]
+      },
+      {
+        "start": "10:50",
+        "end": "11:20",
+        "text": "Coffee Break Módulo Tumores Modera: Dra. Claudia Astudillo",
+        "levels": [],
+        "bbox": [
+          21.015,
+          414.05600000000004,
+          612,
+          484.05100000000004
+        ],
+        "ids": [
+          "aux-210"
+        ]
+      },
+      {
+        "start": "11:20",
+        "end": "11:40",
+        "text": "Masas de partes blandas ¿Cómo enfrentarlas? Algoritmo de estudio por imágenes. 1 Dr. Freddy Escobar",
+        "levels": [
+          1
+        ],
+        "bbox": [
+          21.015,
+          486.05100000000004,
+          612,
+          532.0550000000001
+        ],
+        "ids": [
+          "e223"
+        ]
+      },
+      {
+        "start": "11:40",
+        "end": "12:00",
+        "text": "Malignant bone tumors: A case-based review. 2 Dr. Paulo Moraes Agnollito",
+        "levels": [
+          2
+        ],
+        "bbox": [
+          21.015,
+          534.0550000000001,
+          612,
+          568.058
+        ],
+        "ids": [
+          "e229"
+        ]
+      },
+      {
+        "start": "12:00",
+        "end": "12:20",
+        "text": "Síndromes paraneoplásicos MSK. 3 Dr. Jorge Díaz",
+        "levels": [
+          3
+        ],
+        "bbox": [
+          21.015,
+          570.058,
+          612,
+          604.061
+        ],
+        "ids": [
+          "e235"
+        ]
+      },
+      {
+        "start": "12:20",
+        "end": "12:40",
+        "text": "Preguntas.",
+        "levels": [],
+        "bbox": [
+          21.015,
+          606.061,
+          612,
+          628.0630000000001
+        ],
+        "ids": [
+          "aux-253"
+        ]
+      },
+      {
+        "start": "12:40",
+        "end": "13:00",
+        "text": "Lanzamiento Tecnoimagen.",
+        "levels": [],
+        "bbox": [
+          21.015,
+          630.0630000000001,
+          612,
+          652.065
+        ],
+        "ids": [
+          "e246"
+        ]
+      },
+      {
+        "start": "13:00",
+        "end": "14:30",
+        "text": "Almuerzo",
+        "levels": [],
+        "bbox": [
+          21.015,
+          654.065,
+          612,
+          749.065
+        ],
+        "ids": [
+          "aux-255"
+        ]
+      }
+    ],
+    "kind": "agenda"
+  },
+  {
+    "page": 39,
+    "rowCount": 10,
+    "mappedRows": 10,
+    "rows": [
+      {
+        "start": "14:30",
+        "end": "14:50",
+        "text": "Enfermedades metabólicas del hueso: De la biología a la imagen. 1 Dr. Carlos Corredor",
+        "levels": [
+          1
+        ],
+        "bbox": [
+          21.015,
+          174.03600000000006,
+          612,
+          208.0390000000001
+        ],
+        "ids": [
+          "e260"
+        ]
+      },
+      {
+        "start": "14:50",
+        "end": "15:10",
+        "text": "Imaging diagnosis of osteomyelitis. 1 Dr. Paulo Moraes Agnollito",
+        "levels": [
+          1
+        ],
+        "bbox": [
+          21.015,
+          210.0390000000001,
+          612,
+          244.04200000000014
+        ],
+        "ids": [
+          "e266"
+        ]
+      },
+      {
+        "start": "15:10",
+        "end": "15:30",
+        "text": "IA generativa aplicada al informe radiológico MSK. 2 Dr. Luis Emilio Muse",
+        "levels": [
+          2
+        ],
+        "bbox": [
+          21.015,
+          246.04200000000014,
+          612,
+          280.0450000000002
+        ],
+        "ids": [
+          "e271"
+        ]
+      },
+      {
+        "start": "15:30",
+        "end": "15:50",
+        "text": "IA en patología ósea ¿Es realmente útil? 3 Dr. Carlos Corredor",
+        "levels": [
+          3
+        ],
+        "bbox": [
+          21.015,
+          282.0450000000002,
+          612,
+          316.0480000000002
+        ],
+        "ids": [
+          "e277"
+        ]
+      },
+      {
+        "start": "15:50",
+        "end": "16:10",
+        "text": "Técnicas avanzadas en radiología MSK. 3 Dr. René Riquelme",
+        "levels": [
+          3
+        ],
+        "bbox": [
+          21.015,
+          318.0480000000002,
+          612,
+          352.05100000000016
+        ],
+        "ids": [
+          "e282"
+        ]
+      },
+      {
+        "start": "16:10",
+        "end": "16:30",
+        "text": "Preguntas",
+        "levels": [],
+        "bbox": [
+          21.015,
+          354.05100000000016,
+          612,
+          376.05300000000017
+        ],
+        "ids": [
+          "aux-283"
+        ]
+      },
+      {
+        "start": "16:30",
+        "end": "17:00",
+        "text": "Coffee Break Módulo Aprendamos en vivo Modera: Dr. Daniel Ríos",
+        "levels": [],
+        "bbox": [
+          21.015,
+          378.05300000000017,
+          612,
+          448.0480000000002
+        ],
+        "ids": [
+          "aux-284"
+        ]
+      },
+      {
+        "start": "17:00",
+        "end": "17:30",
+        "text": "Demostración US: Dedos. 2 Dr. Mario Mora",
+        "levels": [
+          2
+        ],
+        "bbox": [
+          21.015,
+          450.0480000000002,
+          612,
+          484.05100000000016
+        ],
+        "ids": [
+          "e296"
+        ]
+      },
+      {
+        "start": "17:30",
+        "end": "18:00",
+        "text": "Demostración US: Nervios periféricos EESS. 2 Dr. Gonzalo Serrano",
+        "levels": [
+          2
+        ],
+        "bbox": [
+          21.015,
+          486.05100000000016,
+          612,
+          520.0540000000001
+        ],
+        "ids": [
+          "e302"
+        ]
+      },
+      {
+        "start": "18:00",
+        "end": "18:30",
+        "text": "Preguntas.",
+        "levels": [],
+        "bbox": [
+          21.015,
+          522.0540000000001,
+          612,
+          617.0540000000001
+        ],
+        "ids": [
+          "aux-306"
+        ]
+      }
+    ],
+    "kind": "agenda"
+  },
+  {
+    "page": 40,
+    "rowCount": 15,
+    "mappedRows": 15,
+    "rows": [
+      {
+        "start": "08:20",
+        "end": "08:30",
+        "text": "Bienvenida y descripción del módulo.",
+        "levels": [],
+        "bbox": [
+          21.015,
+          174.03599999999994,
+          612,
+          196.0379999999999
+        ],
+        "ids": [
+          "e171"
+        ]
+      },
+      {
+        "start": "08:30",
+        "end": "08:50",
+        "text": "Radiología Vascular Intervencionista en Chile: ¿Dónde estamos y a dónde queremos llegar? 1 Dr. Marcos Tapia",
+        "levels": [
+          1
+        ],
+        "bbox": [
+          21.015,
+          198.0379999999999,
+          612,
+          244.04199999999992
+        ],
+        "ids": [
+          "e176"
+        ]
+      },
+      {
+        "start": "08:50",
+        "end": "09:10",
+        "text": "Formación en Chile en Radiología Vascular Intervencionista 1 Dr. Walther Ziegler",
+        "levels": [
+          1
+        ],
+        "bbox": [
+          21.015,
+          246.04199999999992,
+          612,
+          280.04499999999996
+        ],
+        "ids": [
+          "e182"
+        ]
+      },
+      {
+        "start": "09:10",
+        "end": "09:30",
+        "text": "Radiología Intervencionista en sistema genitourinario. 1 Dr. Diego Ramírez",
+        "levels": [
+          1
+        ],
+        "bbox": [
+          21.015,
+          282.04499999999996,
+          612,
+          316.04799999999994
+        ],
+        "ids": [
+          "e188"
+        ]
+      },
+      {
+        "start": "09:30",
+        "end": "09:50",
+        "text": "Biopsia prostática por fusión. Nuestra experiencia. 2 Dr. Gustavo Muñiz",
+        "levels": [
+          2
+        ],
+        "bbox": [
+          21.015,
+          318.04799999999994,
+          612,
+          352.05099999999993
+        ],
+        "ids": [
+          "e194"
+        ]
+      },
+      {
+        "start": "09:50",
+        "end": "10:10",
+        "text": "Procedimientos percutáneos con sistemas coaxiales guiados por TC. 2 Dr. Gustavo Muñiz",
+        "levels": [
+          2
+        ],
+        "bbox": [
+          21.015,
+          354.05099999999993,
+          612,
+          388.0539999999999
+        ],
+        "ids": [
+          "e200"
+        ]
+      },
+      {
+        "start": "10:10",
+        "end": "10:30",
+        "text": "Mesa redonda: Radiología Vascular Intervencionista 2030. Dr. Gian Paolo Zamboni y Dr. Marcos Tapia",
+        "levels": [],
+        "bbox": [
+          21.015,
+          390.0539999999999,
+          612,
+          424.0569999999999
+        ],
+        "ids": [
+          "e206"
+        ]
+      },
+      {
+        "start": "10:30",
+        "end": "11:00",
+        "text": "Coffee Break Módulo II Moderan: Dr. Marcos Tapia y Dr. Walter Ziegler",
+        "levels": [],
+        "bbox": [
+          21.015,
+          426.0569999999999,
+          612,
+          496.0519999999999
+        ],
+        "ids": [
+          "aux-179"
+        ]
+      },
+      {
+        "start": "11:00",
+        "end": "11:20",
+        "text": "Patología de urgencia ¿Cuál es nuestro rol? 2 Dr. Nicolás Zugbe",
+        "levels": [
+          2
+        ],
+        "bbox": [
+          21.015,
+          498.0519999999999,
+          612,
+          532.0549999999998
+        ],
+        "ids": [
+          "e218"
+        ]
+      },
+      {
+        "start": "11:20",
+        "end": "11:40",
+        "text": "Estado del arte en ablación percutánea. 2 Dr. David Clemo",
+        "levels": [
+          2
+        ],
+        "bbox": [
+          21.015,
+          534.0549999999998,
+          612,
+          568.0579999999999
+        ],
+        "ids": [
+          "e224"
+        ]
+      },
+      {
+        "start": "11:40",
+        "end": "12:00",
+        "text": "Neurorradiología intervencional: Del diagnóstico al tratamiento. 2 Dr. Juan Pablo Cruz",
+        "levels": [
+          2
+        ],
+        "bbox": [
+          21.015,
+          570.0579999999999,
+          612,
+          604.0609999999999
+        ],
+        "ids": [
+          "e230"
+        ]
+      },
+      {
+        "start": "12:00",
+        "end": "12:20",
+        "text": "Intervencionismo músculo-esquelético. 2 Dr. Freddy Jalil",
+        "levels": [
+          2
+        ],
+        "bbox": [
+          21.015,
+          606.0609999999999,
+          612,
+          640.0639999999999
+        ],
+        "ids": [
+          "e236"
+        ]
+      },
+      {
+        "start": "12:20",
+        "end": "12:40",
+        "text": "Procedimientos para manejo del dolor. 2 Dra. Catalina Rodríguez",
+        "levels": [
+          2
+        ],
+        "bbox": [
+          21.015,
+          642.0639999999999,
+          612,
+          676.0669999999998
+        ],
+        "ids": [
+          "e241"
+        ]
+      },
+      {
+        "start": "12:40",
+        "end": "13:00",
+        "text": "Charla Magistral: Intervencionismo pediátrico. 1 Dr. Eduardo Bravo",
+        "levels": [
+          1
+        ],
+        "bbox": [
+          21.015,
+          678.0669999999998,
+          612,
+          712.0699999999998
+        ],
+        "ids": [
+          "e247"
+        ]
+      },
+      {
+        "start": "13:00",
+        "end": "14:30",
+        "text": "Almuerzo",
+        "levels": [],
+        "bbox": [
+          21.015,
+          714.0699999999998,
+          612,
+          752
+        ],
+        "ids": [
+          "aux-230"
+        ]
+      }
+    ],
+    "kind": "agenda"
+  },
+  {
+    "page": 41,
+    "rowCount": 3,
+    "mappedRows": 3,
+    "rows": [
+      {
+        "start": "14:30",
+        "end": "16:30",
+        "text": "Bloque Hands-On I",
+        "levels": [],
+        "bbox": [
+          21.01599999999999,
+          284.141,
+          612,
+          306.14300000000003
+        ],
+        "ids": [
+          "e261"
+        ]
+      },
+      {
+        "start": "16:30",
+        "end": "17:00",
+        "text": "Coffee Break",
+        "levels": [],
+        "bbox": [
+          21.01599999999999,
+          308.14300000000003,
+          612,
+          330.14500000000004
+        ],
+        "ids": [
+          "aux-286"
+        ]
+      },
+      {
+        "start": "17:00",
+        "end": "18:30",
+        "text": "Bloque Hands-On II Empresas Auspiciadoras",
+        "levels": [],
+        "bbox": [
+          21.01599999999999,
+          332.14500000000004,
+          612,
+          427.14500000000004
+        ],
+        "ids": [
+          "e297"
+        ]
+      }
+    ],
+    "kind": "agenda"
+  },
+  {
+    "page": 42,
+    "rowCount": 14,
+    "mappedRows": 14,
+    "rows": [
+      {
+        "start": "08:30",
+        "end": "08:50",
+        "text": "Nueva guía TEP. 1 Dr. Gonzalo Kehr",
+        "levels": [
+          1
+        ],
+        "bbox": [
+          21.015,
+          174.03599999999994,
+          612,
+          208.039
+        ],
+        "ids": [
+          "e177"
+        ]
+      },
+      {
+        "start": "08:50",
+        "end": "09:10",
+        "text": "Malformaciones congénitas en adultos. 2 Dra. Patricia Bitar",
+        "levels": [
+          2
+        ],
+        "bbox": [
+          21.015,
+          210.039,
+          612,
+          244.04200000000003
+        ],
+        "ids": [
+          "e183"
+        ]
+      },
+      {
+        "start": "09:10",
+        "end": "09:30",
+        "text": "Actualización en síndrome aórtico agudo. 2 Dr. Felipe Sánchez",
+        "levels": [
+          2
+        ],
+        "bbox": [
+          21.015,
+          246.04200000000003,
+          612,
+          280.0450000000001
+        ],
+        "ids": [
+          "e189"
+        ]
+      },
+      {
+        "start": "09:30",
+        "end": "09:50",
+        "text": "Dispositivos de soporte cardiovascular. 2 Dr. Felipe Sánchez",
+        "levels": [
+          2
+        ],
+        "bbox": [
+          21.015,
+          282.0450000000001,
+          612,
+          316.04800000000006
+        ],
+        "ids": [
+          "e195"
+        ]
+      },
+      {
+        "start": "09:50",
+        "end": "10:10",
+        "text": "Hipertensión pulmonar. 2 Dr. Jesús Urbina",
+        "levels": [
+          2
+        ],
+        "bbox": [
+          21.015,
+          318.04800000000006,
+          612,
+          352.05100000000004
+        ],
+        "ids": [
+          "e201"
+        ]
+      },
+      {
+        "start": "10:10",
+        "end": "10:30",
+        "text": "Preguntas.",
+        "levels": [],
+        "bbox": [
+          21.015,
+          354.05100000000004,
+          612,
+          376.05300000000005
+        ],
+        "ids": [
+          "aux-216"
+        ]
+      },
+      {
+        "start": "10:30",
+        "end": "11:00",
+        "text": "Coffee Break Módulo Patología tórax no pulmón Modera: Dra. Constanza Domínguez",
+        "levels": [],
+        "bbox": [
+          21.015,
+          378.05300000000005,
+          612,
+          448.04800000000006
+        ],
+        "ids": [
+          "aux-217"
+        ]
+      },
+      {
+        "start": "11:00",
+        "end": "11:20",
+        "text": "Utilidad de la RM en patología del timo. 3 Dr. Joaquín Hevia",
+        "levels": [
+          3
+        ],
+        "bbox": [
+          21.015,
+          450.04800000000006,
+          612,
+          484.05100000000004
+        ],
+        "ids": [
+          "e219"
+        ]
+      },
+      {
+        "start": "11:20",
+        "end": "11:40",
+        "text": "Aproximación general de la patología pleural. 2 Dr. Héctor Sotomayor",
+        "levels": [
+          2
+        ],
+        "bbox": [
+          21.015,
+          486.05100000000004,
+          612,
+          520.0540000000001
+        ],
+        "ids": [
+          "e225"
+        ]
+      },
+      {
+        "start": "11:40",
+        "end": "12:00",
+        "text": "Optimización de estudios de tórax mediante 3 filtros de plata y machine learning. TM Ignacio Silva Tobar",
+        "levels": [
+          3
+        ],
+        "bbox": [
+          21.015,
+          522.0540000000001,
+          612,
+          556.057
+        ],
+        "ids": [
+          "e231"
+        ]
+      },
+      {
+        "start": "12:00",
+        "end": "12:20",
+        "text": "Patología difusa de vía aérea. 2 Dra. Javiera Araya",
+        "levels": [
+          2
+        ],
+        "bbox": [
+          21.015,
+          558.057,
+          612,
+          592.06
+        ],
+        "ids": [
+          "e237"
+        ]
+      },
+      {
+        "start": "12:20",
+        "end": "12:40",
+        "text": "Lesiones benignas del esófago. 2 Dr. Joel Fuentes",
+        "levels": [
+          2
+        ],
+        "bbox": [
+          21.015,
+          594.06,
+          612,
+          628.063
+        ],
+        "ids": [
+          "e242"
+        ]
+      },
+      {
+        "start": "12:40",
+        "end": "13:00",
+        "text": "Preguntas.",
+        "levels": [],
+        "bbox": [
+          21.015,
+          630.063,
+          612,
+          652.065
+        ],
+        "ids": [
+          "aux-236"
+        ]
+      },
+      {
+        "start": "13:00",
+        "end": "14:30",
+        "text": "Almuerzo",
+        "levels": [],
+        "bbox": [
+          21.015,
+          654.065,
+          612,
+          749.065
+        ],
+        "ids": [
+          "aux-237"
+        ]
+      }
+    ],
+    "kind": "agenda"
+  },
+  {
+    "page": 43,
+    "rowCount": 12,
+    "mappedRows": 12,
+    "rows": [
+      {
+        "start": "14:30",
+        "end": "14:50",
+        "text": "Anormalidades Intersticiales Pulmonares (ILAS). 2 Dra. Liliana Arias",
+        "levels": [
+          2
+        ],
+        "bbox": [
+          21.015,
+          174.03599999999994,
+          612,
+          208.039
+        ],
+        "ids": [
+          "e262"
+        ]
+      },
+      {
+        "start": "14:50",
+        "end": "15:10",
+        "text": "Infecciones pulmonares por parásitos. 2 Dra. Liliana Arias",
+        "levels": [
+          2
+        ],
+        "bbox": [
+          21.015,
+          210.039,
+          612,
+          244.04200000000003
+        ],
+        "ids": [
+          "e267"
+        ]
+      },
+      {
+        "start": "15:10",
+        "end": "15:30",
+        "text": "Evaluación imagenológica de hemoptisis ¿Qué buscar en estos casos? 2 Dra. María Cecilia Ferrario",
+        "levels": [
+          2
+        ],
+        "bbox": [
+          21.015,
+          246.04200000000003,
+          612,
+          280.0450000000001
+        ],
+        "ids": [
+          "e272"
+        ]
+      },
+      {
+        "start": "15:30",
+        "end": "15:50",
+        "text": "Nódulo pulmonar: ¿Qué información en TC es realmente útil para el médico tratante? 2 Dra. María Cecilia Ferrario",
+        "levels": [
+          2
+        ],
+        "bbox": [
+          21.015,
+          282.0450000000001,
+          612,
+          328.0490000000001
+        ],
+        "ids": [
+          "e278"
+        ]
+      },
+      {
+        "start": "15:50",
+        "end": "16:10",
+        "text": "Complicaciones en trasplante pulmonar. 3 Dr. Felipe Sánchez",
+        "levels": [
+          3
+        ],
+        "bbox": [
+          21.015,
+          330.0490000000001,
+          612,
+          364.0520000000001
+        ],
+        "ids": [
+          "e283"
+        ]
+      },
+      {
+        "start": "16:10",
+        "end": "16:30",
+        "text": "Preguntas.",
+        "levels": [],
+        "bbox": [
+          21.015,
+          366.0520000000001,
+          612,
+          388.0540000000001
+        ],
+        "ids": [
+          "aux-293"
+        ]
+      },
+      {
+        "start": "16:30",
+        "end": "17:00",
+        "text": "Coffee Break Módulo Vascular Modera: Dr. José Manuel Arrosamena",
+        "levels": [],
+        "bbox": [
+          21.015,
+          390.0540000000001,
+          612,
+          460.0490000000001
+        ],
+        "ids": [
+          "aux-294"
+        ]
+      },
+      {
+        "start": "17:00",
+        "end": "17:20",
+        "text": "Vasculitis y PET. 2 Dr. David Ladrón de Guevara",
+        "levels": [
+          2
+        ],
+        "bbox": [
+          21.015,
+          462.0490000000001,
+          612,
+          496.0520000000001
+        ],
+        "ids": [
+          "e298"
+        ]
+      },
+      {
+        "start": "17:20",
+        "end": "17:40",
+        "text": "variantes anatómicas y anomalías venosas del mediastino. 1 Dra. Francisca Furnaro",
+        "levels": [
+          1
+        ],
+        "bbox": [
+          21.015,
+          498.0520000000001,
+          612,
+          532.0550000000001
+        ],
+        "ids": [
+          "e301"
+        ]
+      },
+      {
+        "start": "17:40",
+        "end": "18:00",
+        "text": "Mapas paramétricos en RM cardíaca. 3 Dr. Renato Alarcón",
+        "levels": [
+          3
+        ],
+        "bbox": [
+          21.015,
+          534.0550000000001,
+          612,
+          568.058
+        ],
+        "ids": [
+          "e305"
+        ]
+      },
+      {
+        "start": "18:00",
+        "end": "18:20",
+        "text": "Trauma de aorta. 1 Dr. Andrés Yoma",
+        "levels": [
+          1
+        ],
+        "bbox": [
+          21.015,
+          570.058,
+          612,
+          604.061
+        ],
+        "ids": [
+          "e309"
+        ]
+      },
+      {
+        "start": "18:20",
+        "end": "18:30",
+        "text": "Preguntas.",
+        "levels": [],
+        "bbox": [
+          21.015,
+          606.061,
+          612,
+          701.061
+        ],
+        "ids": [
+          "aux-311"
+        ]
+      }
+    ],
+    "kind": "agenda"
+  },
+  {
+    "page": 44,
+    "rowCount": 15,
+    "mappedRows": 15,
+    "rows": [
+      {
+        "start": "08:30",
+        "end": "08:50",
+        "text": "Evaluación por imagen de la respuesta terapéutica en oncología. 2 Dr. Marcelo Araújo Queiroz",
+        "levels": [
+          2
+        ],
+        "bbox": [
+          21.0166,
+          184.94799999999998,
+          612,
+          218.95100000000002
+        ],
+        "ids": [
+          "e312"
+        ]
+      },
+      {
+        "start": "08:50",
+        "end": "09:10",
+        "text": "Complicaciones agudas del tratamiento sistémico en oncología. 2 Dra. Daniela Barahona",
+        "levels": [
+          2
+        ],
+        "bbox": [
+          21.0166,
+          220.95100000000002,
+          612,
+          254.95400000000006
+        ],
+        "ids": [
+          "e318"
+        ]
+      },
+      {
+        "start": "09:10",
+        "end": "09:25",
+        "text": "Urgencias oncológicas cardiotorácicas: Lo que no puede esperar. 1 Dr. Marcelo Araújo Queiroz",
+        "levels": [
+          1
+        ],
+        "bbox": [
+          21.0166,
+          256.95400000000006,
+          612,
+          290.9570000000001
+        ],
+        "ids": [
+          "e324"
+        ]
+      },
+      {
+        "start": "09:25",
+        "end": "09:40",
+        "text": "Urgencias oncológicas en abdomen y pelvis: Identificar para priorizar. 1 Dr. Ignacio Maldonado",
+        "levels": [
+          1
+        ],
+        "bbox": [
+          21.0166,
+          292.9570000000001,
+          612,
+          326.9600000000001
+        ],
+        "ids": [
+          "e330"
+        ]
+      },
+      {
+        "start": "09:40",
+        "end": "10:00",
+        "text": "Rol de la radioterapia en urgencias oncológicas. 3 Dra. Francisca Barahona",
+        "levels": [
+          3
+        ],
+        "bbox": [
+          21.0166,
+          328.9600000000001,
+          612,
+          362.9630000000001
+        ],
+        "ids": [
+          "e336"
+        ]
+      },
+      {
+        "start": "10:00",
+        "end": "10:20",
+        "text": "Intervencionismo en urgencias oncológicas: Alternativas terapéuticas guiadas por la imagen. 3 Dr. Benjamín Pereira",
+        "levels": [
+          3
+        ],
+        "bbox": [
+          21.0166,
+          364.9630000000001,
+          612,
+          410.9670000000001
+        ],
+        "ids": [
+          "e341"
+        ]
+      },
+      {
+        "start": "10:20",
+        "end": "10:30",
+        "text": "Preguntas.",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          412.9670000000001,
+          612,
+          434.9690000000001
+        ],
+        "ids": [
+          "aux-318"
+        ]
+      },
+      {
+        "start": "10:30",
+        "end": "11:00",
+        "text": "Coffee Break Módulo Columna Metastásica: cuando la imagen cambia el destino del paciente Modera: Dr. Marcelo López",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          436.9690000000001,
+          612,
+          494.9740000000001
+        ],
+        "ids": [
+          "aux-319"
+        ]
+      },
+      {
+        "start": "11:00",
+        "end": "11:20",
+        "text": "Fisiopatología del daño neurológico en la columna metastásica: Comprender para interpretar mejor. 1 Dr. Cristián Matus",
+        "levels": [
+          1
+        ],
+        "bbox": [
+          21.0166,
+          496.9740000000001,
+          612,
+          542.9780000000001
+        ],
+        "ids": [
+          "e353"
+        ]
+      },
+      {
+        "start": "11:20",
+        "end": "11:40",
+        "text": "Comité de Columna Metastásica: Impacto funcional y toma de decisiones interdisciplinarias. 2 Dra. Penny Yen Lee",
+        "levels": [
+          2
+        ],
+        "bbox": [
+          21.0166,
+          544.9780000000001,
+          612,
+          590.9820000000001
+        ],
+        "ids": [
+          "e359"
+        ]
+      },
+      {
+        "start": "11:40",
+        "end": "12:00",
+        "text": "Inestabilidad vertebral en metástasis: Criterios quirúrgicos y experiencia local. 3 Dr. Marcos Ganga",
+        "levels": [
+          3
+        ],
+        "bbox": [
+          21.0166,
+          592.9820000000001,
+          612,
+          626.9850000000001
+        ],
+        "ids": [
+          "e365"
+        ]
+      },
+      {
+        "start": "12:00",
+        "end": "12:15",
+        "text": "Radioterapia en columna metastásica: Urgencia, indicaciones y SBRT. 3 Dra. Natalia Jara",
+        "levels": [
+          3
+        ],
+        "bbox": [
+          21.0166,
+          628.9850000000001,
+          612,
+          662.988
+        ],
+        "ids": [
+          "e371"
+        ]
+      },
+      {
+        "start": "12:15",
+        "end": "12:30",
+        "text": "PET-CT en enfermedad vertebral metastásica: Utilidad y limitaciones. 3 Dr. David Ladrón de Guevara",
+        "levels": [
+          3
+        ],
+        "bbox": [
+          21.0166,
+          664.988,
+          612,
+          698.9910000000001
+        ],
+        "ids": [
+          "e376"
+        ]
+      },
+      {
+        "start": "12:30",
+        "end": "12:50",
+        "text": "Interpretar no es describir: Comprender la imagen para cambiar la conducta. 2 Dr. Marcelo López",
+        "levels": [
+          2
+        ],
+        "bbox": [
+          21.0166,
+          700.9910000000001,
+          612,
+          735.192
+        ],
+        "ids": [
+          "e379"
+        ]
+      },
+      {
+        "start": "12:40",
+        "end": "13:30",
+        "text": "PREMIACIÓN & CEREMONIA DE CLAUSURA EN SALÓN 2, VITACURA",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          737.192,
+          612,
+          752
+        ],
+        "ids": [
+          "e382"
+        ]
+      }
+    ],
+    "kind": "agenda"
+  },
+  {
+    "page": 45,
+    "rowCount": 13,
+    "mappedRows": 13,
+    "rows": [
+      {
+        "start": "08:30",
+        "end": "08:50",
+        "text": "Craneosinostosis: Del ultrasonido al 3D-CT. 1 Dra. Leticia Gadea",
+        "levels": [
+          1
+        ],
+        "bbox": [
+          21.0166,
+          174.03599999999994,
+          612,
+          208.039
+        ],
+        "ids": [
+          "e313"
+        ]
+      },
+      {
+        "start": "08:50",
+        "end": "09:10",
+        "text": "Imágenes cerebrales, una mirada multiparamétrica de la obesidad infantil. 1 Dr. Ricardo Pérez",
+        "levels": [
+          1
+        ],
+        "bbox": [
+          21.0166,
+          210.039,
+          612,
+          244.04200000000003
+        ],
+        "ids": [
+          "e319"
+        ]
+      },
+      {
+        "start": "09:10",
+        "end": "09:30",
+        "text": "Patología ocular incidental en RM pediátrica. 3 Dra. Judith Almanza",
+        "levels": [
+          3
+        ],
+        "bbox": [
+          21.0166,
+          246.04200000000003,
+          612,
+          280.0450000000001
+        ],
+        "ids": [
+          "e325"
+        ]
+      },
+      {
+        "start": "09:30",
+        "end": "09:50",
+        "text": "Ultrasonido transfontanelar y vaina del nervio óptico en HIC neonatal/pediátrica. 2 Dra. Yoshino Tamaki Sameshima (Ruth)",
+        "levels": [
+          2
+        ],
+        "bbox": [
+          21.0166,
+          282.0450000000001,
+          612,
+          316.04800000000006
+        ],
+        "ids": [
+          "e332"
+        ]
+      },
+      {
+        "start": "09:50",
+        "end": "10:10",
+        "text": "Resonancia magnética cerebral fetal. 3 Dr. Camilo Jaimes",
+        "levels": [
+          3
+        ],
+        "bbox": [
+          21.0166,
+          318.04800000000006,
+          612,
+          352.05100000000004
+        ],
+        "ids": [
+          "e338"
+        ]
+      },
+      {
+        "start": "10:10",
+        "end": "10:30",
+        "text": "Casos interesantes de ecografía encefálica. 2 Dra. Lavinia Wesley",
+        "levels": [
+          2
+        ],
+        "bbox": [
+          21.0166,
+          354.05100000000004,
+          612,
+          388.05400000000003
+        ],
+        "ids": [
+          "e343"
+        ]
+      },
+      {
+        "start": "10:30",
+        "end": "11:00",
+        "text": "Coffee Break Módulo Misceláneas Moderan: Dr. Luis Ziehe y Dra. Camila Yañez",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          390.05400000000003,
+          612,
+          460.04900000000004
+        ],
+        "ids": [
+          "aux-326"
+        ]
+      },
+      {
+        "start": "11:00",
+        "end": "11:20",
+        "text": "Sífilis congénita a la luz del aumento de la incidencia mundial. Dra. María Carolina Castagnaro",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          462.04900000000004,
+          612,
+          496.052
+        ],
+        "ids": [
+          "e354"
+        ]
+      },
+      {
+        "start": "11:20",
+        "end": "11:40",
+        "text": "Radiografía dinámica digital, alternativa a videofluoroscopia. Dr. Samuel Espinoza",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          498.052,
+          612,
+          532.0550000000001
+        ],
+        "ids": [
+          "e360"
+        ]
+      },
+      {
+        "start": "11:40",
+        "end": "12:00",
+        "text": "Fibrosis quística en pediatría: Actualización en imágenes y experiencia en un hospital de alta complejidad. Dra. Juliana Lostra",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          534.0550000000001,
+          612,
+          580.059
+        ],
+        "ids": [
+          "e366"
+        ]
+      },
+      {
+        "start": "12:00",
+        "end": "12:20",
+        "text": "Imaging in paediatric rheumatology. Dra. Joanna Kasznia-Brown",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          582.059,
+          612,
+          616.062
+        ],
+        "ids": [
+          "e372"
+        ]
+      },
+      {
+        "start": "12:20",
+        "end": "12:40",
+        "text": "Cierre Congreso SLARP",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          618.062,
+          612,
+          640.262
+        ],
+        "ids": [
+          "e377"
+        ]
+      },
+      {
+        "start": "12:40",
+        "end": "13:30",
+        "text": "CEREMONIA DE CLAUSURA & PREMIACIÓN CCHR 2026",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          642.262,
+          612,
+          737.262
+        ],
+        "ids": [
+          "e382"
+        ]
+      }
+    ],
+    "kind": "agenda"
+  },
+  {
+    "page": 46,
+    "rowCount": 14,
+    "mappedRows": 14,
+    "rows": [
+      {
+        "start": "08:30",
+        "end": "08:50",
+        "text": "Formar en imagenología: El impacto del entorno de aprendizaje en la experiencia formativa. TM Gabriel Gómez",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          174.03499999999997,
+          612,
+          220.039
+        ],
+        "ids": [
+          "e314"
+        ]
+      },
+      {
+        "start": "08:50",
+        "end": "09:10",
+        "text": "Transformación del rol del tecnólogo médico: De ejecutor a gestor estratégico. TM Fabián Sepúlveda",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          222.039,
+          612,
+          256.04200000000003
+        ],
+        "ids": [
+          "e320"
+        ]
+      },
+      {
+        "start": "09:10",
+        "end": "09:25",
+        "text": "Construyendo profesionales integrales: La importancia de las habilidades blandas, rol de liderazgo y comunicación efectiva en la formación profesional de TM. TM Lorena Jara",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          258.04200000000003,
+          612,
+          304.0460000000001
+        ],
+        "ids": [
+          "e326"
+        ]
+      },
+      {
+        "start": "09:25",
+        "end": "09:40",
+        "text": "Impacto de la implementación de tomografía computada en la resolutividad clínica y flujo de pacientes del Hospital San José de Melipilla. TM Daniel Pizarro",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          306.0460000000001,
+          612,
+          352.0500000000001
+        ],
+        "ids": [
+          "e331"
+        ]
+      },
+      {
+        "start": "09:40",
+        "end": "10:00",
+        "text": "Creación de unidades de imagenología en APS: Rol de la/el TM en la gestión, regulación y flujos de trabajo. TM Nathalia Sepúlveda",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          354.0500000000001,
+          612,
+          388.0530000000001
+        ],
+        "ids": [
+          "e337"
+        ]
+      },
+      {
+        "start": "10:00",
+        "end": "10:30",
+        "text": "Preguntas.",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          390.0530000000001,
+          612,
+          424.0560000000001
+        ],
+        "ids": [
+          "aux-332"
+        ]
+      },
+      {
+        "start": "10:30",
+        "end": "11:00",
+        "text": "Coffee Break Módulo Modalidades Avanzadas en imagenología clínica Modera:",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          426.0560000000001,
+          612,
+          484.0610000000001
+        ],
+        "ids": [
+          "aux-333"
+        ]
+      },
+      {
+        "start": "11:00",
+        "end": "11:20",
+        "text": "Evaluación de la dinámica del flujo de LCR mediante RM 4D flow en patologías neurodegenerativas. TM Cristián Olivares",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          486.0610000000001,
+          612,
+          532.065
+        ],
+        "ids": [
+          "e355"
+        ]
+      },
+      {
+        "start": "11:20",
+        "end": "11:40",
+        "text": "PET-CT: Generalidades y desafíos para su integración en la práctica clínica chilena. TM Daniel Olave",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          534.065,
+          612,
+          568.0680000000001
+        ],
+        "ids": [
+          "e361"
+        ]
+      },
+      {
+        "start": "11:40",
+        "end": "12:00",
+        "text": "Medios de contraste basados en gadolinio 2026: Actualización de la ACR y derribando mitos en la práctica clínica. TM Renato Pizarro",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          570.0680000000001,
+          612,
+          616.0720000000001
+        ],
+        "ids": [
+          "e367"
+        ]
+      },
+      {
+        "start": "12:00",
+        "end": "12:30",
+        "text": "Dominando el flujo en TC: Más allá de inyectar y disparar. TM David Puyo",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          618.0720000000001,
+          612,
+          652.075
+        ],
+        "ids": [
+          "e373"
+        ]
+      },
+      {
+        "start": "12:30",
+        "end": "12:40",
+        "text": "Optimizando la resonancia con Elucirem – Casos del mundo rea. Dr. Thorsten Bley",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          654.075,
+          612,
+          688.2760000000001
+        ],
+        "ids": [
+          "e380"
+        ]
+      },
+      {
+        "start": "12:40",
+        "end": "13:30",
+        "text": "PREMIACIÓN & CEREMONIA DE CLAUSURA EN SALÓN 2, VITACURA",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          690.2760000000001,
+          612,
+          712.0800000000002
+        ],
+        "ids": [
+          "e382"
+        ]
+      },
+      {
+        "start": "13:30",
+        "end": "14:30",
+        "text": "Almuerzo",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          714.0800000000002,
+          612,
+          752
+        ],
+        "ids": [
+          "aux-369"
+        ]
+      }
+    ],
+    "kind": "agenda"
+  },
+  {
+    "page": 47,
+    "rowCount": 12,
+    "mappedRows": 12,
+    "rows": [
+      {
+        "start": "08:30",
+        "end": "08:50",
+        "text": "Modelo de gestión del pabellón de angiografía: Profesionalizando el cuidado. Mónica González y Sofía Infante",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          174.03499999999997,
+          612,
+          208.038
+        ],
+        "ids": [
+          "e315"
+        ]
+      },
+      {
+        "start": "08:50",
+        "end": "09:10",
+        "text": "La calidad y seguridad de la atención imagenológica con enfoque en acreditación institucional del HGGB. Fernanda Sandoval",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          210.038,
+          612,
+          256.04200000000003
+        ],
+        "ids": [
+          "e321"
+        ]
+      },
+      {
+        "start": "09:10",
+        "end": "09:30",
+        "text": "Preguntas.",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          258.04200000000003,
+          612,
+          280.0440000000001
+        ],
+        "ids": [
+          "aux-336"
+        ]
+      },
+      {
+        "start": "09:30",
+        "end": "09:50",
+        "text": "Transformando la imagenología cardiovascular: Enfermería y la administración de adenosina en estrés farmacológico. Grupo UC",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          282.0440000000001,
+          612,
+          328.0480000000001
+        ],
+        "ids": [
+          "e333"
+        ]
+      },
+      {
+        "start": "09:50",
+        "end": "10:10",
+        "text": "Marcación preoperatoria de nódulos pulmonares guiada por TAC en Hospital de Puerto Montt. Heidi Wundderlich",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          330.0480000000001,
+          612,
+          376.05200000000013
+        ],
+        "ids": [
+          "e339"
+        ]
+      },
+      {
+        "start": "10:10",
+        "end": "10:30",
+        "text": "Preguntas.",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          378.05200000000013,
+          612,
+          400.05400000000014
+        ],
+        "ids": [
+          "aux-339"
+        ]
+      },
+      {
+        "start": "10:30",
+        "end": "11:00",
+        "text": "Coffee Break Módulo Prácticas de administración segura de medios de contraste",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          402.05400000000014,
+          612,
+          448.05800000000016
+        ],
+        "ids": [
+          "aux-340"
+        ]
+      },
+      {
+        "start": "11:00",
+        "end": "11:20",
+        "text": "Extravasación de medio de contraste endovenoso en TAC y su correlación con variables clínicas y técnicas de accesos vasculares. Natalia Pincheira",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          450.05800000000016,
+          612,
+          496.0620000000002
+        ],
+        "ids": [
+          "e356"
+        ]
+      },
+      {
+        "start": "11:20",
+        "end": "11:40",
+        "text": "Preguntas.",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          498.0620000000002,
+          612,
+          520.0640000000002
+        ],
+        "ids": [
+          "aux-371"
+        ]
+      },
+      {
+        "start": "11:40",
+        "end": "12:00",
+        "text": "Acceso venoso difícil. Uso de vías venosas de alto flujo: Experiencia local. Enf. Camila Rivera, Enf. Rocío Contreras",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          522.0640000000002,
+          612,
+          556.0670000000002
+        ],
+        "ids": [
+          "e368"
+        ]
+      },
+      {
+        "start": "12:00",
+        "end": "12:20",
+        "text": "Conociendo vías de alto flujo. Grupo UC",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          558.0670000000002,
+          612,
+          592.2680000000001
+        ],
+        "ids": [
+          "e374"
+        ]
+      },
+      {
+        "start": "12:40",
+        "end": "13:30",
+        "text": "PREMIACIÓN & CEREMONIA DE CLAUSURA EN SALÓN 2, VITACURA .",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          594.2680000000001,
+          612,
+          689.2680000000001
+        ],
+        "ids": [
+          "e382"
+        ]
+      }
+    ],
+    "kind": "agenda"
+  },
+  {
+    "page": 48,
+    "rowCount": 9,
+    "mappedRows": 9,
+    "rows": [
+      {
+        "start": "08:30",
+        "end": "08:50",
+        "text": "Radiación en radiología. 1 Dra. Florencia De Barbieri",
+        "levels": [
+          1
+        ],
+        "bbox": [
+          21.0166,
+          174.03499999999997,
+          612,
+          208.038
+        ],
+        "ids": [
+          "e316"
+        ]
+      },
+      {
+        "start": "08:50",
+        "end": "09:10",
+        "text": "Medios de contraste en Radiología: Todo lo que un médico debe conocer. 1 Dr. Cristian Varela",
+        "levels": [
+          1
+        ],
+        "bbox": [
+          21.0166,
+          210.038,
+          612,
+          244.04100000000005
+        ],
+        "ids": [
+          "e322"
+        ]
+      },
+      {
+        "start": "09:10",
+        "end": "09:30",
+        "text": "Radiología: La especialidad que no sabías que estabas buscando (y por qué puede ser tu mejor decisión). 1 Dra. María Cecilia Ferrario",
+        "levels": [
+          1
+        ],
+        "bbox": [
+          21.0166,
+          246.04100000000005,
+          612,
+          292.04500000000013
+        ],
+        "ids": [
+          "e328"
+        ]
+      },
+      {
+        "start": "09:30",
+        "end": "10:30",
+        "text": "Presentación de trabajos científicos. Modera Dr. Juan Pablo Cruz",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          294.04500000000013,
+          612,
+          328.0480000000001
+        ],
+        "ids": [
+          "e334"
+        ]
+      },
+      {
+        "start": "10:30",
+        "end": "11:00",
+        "text": "Coffee Break Módulo II Modera: Dr. Jorge Llanos",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          330.0480000000001,
+          612,
+          388.0530000000001
+        ],
+        "ids": [
+          "aux-345"
+        ]
+      },
+      {
+        "start": "11:00",
+        "end": "11:20",
+        "text": "¿La IA reemplazará a los radiólogos? 1 Dr. Héctor Henríquez",
+        "levels": [
+          1
+        ],
+        "bbox": [
+          21.0166,
+          390.0530000000001,
+          612,
+          424.0560000000001
+        ],
+        "ids": [
+          "e357"
+        ]
+      },
+      {
+        "start": "11:20",
+        "end": "11:40",
+        "text": "Competencias para el radiólogo del futuro. 1 Dr. Carlos Corredor",
+        "levels": [
+          1
+        ],
+        "bbox": [
+          21.0166,
+          426.0560000000001,
+          612,
+          460.0590000000001
+        ],
+        "ids": [
+          "e363"
+        ]
+      },
+      {
+        "start": "11:40",
+        "end": "12:40",
+        "text": "Presentación de trabajos científicos. Modera Dr. Juan Pablo Cruz",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          462.0590000000001,
+          612,
+          496.26000000000005
+        ],
+        "ids": [
+          "e369"
+        ]
+      },
+      {
+        "start": "12:40",
+        "end": "13:30",
+        "text": "PREMIACIÓN & CEREMONIA DE CLAUSURA EN SALÓN 2, VITACURA",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          498.26000000000005,
+          612,
+          593.26
+        ],
+        "ids": [
+          "e382"
+        ]
+      }
+    ],
+    "kind": "agenda"
+  },
+  {
+    "page": 49,
+    "rowCount": 13,
+    "mappedRows": 13,
+    "rows": [
+      {
+        "start": "08:30",
+        "end": "08:50",
+        "text": "Enfermedades difusas tiroideas. 2 Dr. Carlos González",
+        "levels": [
+          2
+        ],
+        "bbox": [
+          21.0166,
+          174.03499999999997,
+          612,
+          208.038
+        ],
+        "ids": [
+          "e317"
+        ]
+      },
+      {
+        "start": "08:50",
+        "end": "09:10",
+        "text": "Vigilancia activa de carcinoma papilar de tiroides. 2 Dr. Carlos González",
+        "levels": [
+          2
+        ],
+        "bbox": [
+          21.0166,
+          210.038,
+          612,
+          244.04100000000005
+        ],
+        "ids": [
+          "e323"
+        ]
+      },
+      {
+        "start": "09:10",
+        "end": "09:30",
+        "text": "Marcadores de extensión extratiroidea en neoplasia de tiroides. 2 Dra. Javiera Mardones",
+        "levels": [
+          2
+        ],
+        "bbox": [
+          21.0166,
+          246.04100000000005,
+          612,
+          280.0440000000001
+        ],
+        "ids": [
+          "e329"
+        ]
+      },
+      {
+        "start": "09:30",
+        "end": "09:50",
+        "text": "Errores en el informe radiológico con enfoque ecográfico. 1 Dr. Carlos González",
+        "levels": [
+          1
+        ],
+        "bbox": [
+          21.0166,
+          282.0440000000001,
+          612,
+          316.0470000000001
+        ],
+        "ids": [
+          "e335"
+        ]
+      },
+      {
+        "start": "09:50",
+        "end": "10:10",
+        "text": "Complicaciones de la patología litiásica vesicular. 2 Dr. Rolando Cocio",
+        "levels": [
+          2
+        ],
+        "bbox": [
+          21.0166,
+          318.0470000000001,
+          612,
+          352.05000000000007
+        ],
+        "ids": [
+          "e340"
+        ]
+      },
+      {
+        "start": "10:10",
+        "end": "10:30",
+        "text": "Preguntas.",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          354.05000000000007,
+          612,
+          376.0520000000001
+        ],
+        "ids": [
+          "aux-351"
+        ]
+      },
+      {
+        "start": "10:30",
+        "end": "11:00",
+        "text": "Coffee Break Módulo Abdomen-pelvis y misceláneo Modera: Dr. Marcelo Sabando",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          378.0520000000001,
+          612,
+          436.0570000000001
+        ],
+        "ids": [
+          "aux-352"
+        ]
+      },
+      {
+        "start": "11:00",
+        "end": "11:20",
+        "text": "Tips en el enfrentamiento de la ecografía de urgencias en Abdomen y Pelvis, parte I. 2 Dr. Juan Salvador Casas",
+        "levels": [
+          2
+        ],
+        "bbox": [
+          21.0166,
+          438.0570000000001,
+          612,
+          484.0610000000001
+        ],
+        "ids": [
+          "e358"
+        ]
+      },
+      {
+        "start": "11:20",
+        "end": "11:40",
+        "text": "Tips en el enfrentamiento de la ecografía de urgencias en Abdomen y Pelvis, parte II. 2 Dr. Álvaro Sanhueza",
+        "levels": [
+          2
+        ],
+        "bbox": [
+          21.0166,
+          486.0610000000001,
+          612,
+          532.065
+        ],
+        "ids": [
+          "e364"
+        ]
+      },
+      {
+        "start": "11:40",
+        "end": "12:00",
+        "text": "Ecografía abdominal de urgencia, señales de alerta. 2 Dr. Sebastián Aguirre",
+        "levels": [
+          2
+        ],
+        "bbox": [
+          21.0166,
+          534.065,
+          612,
+          568.0680000000001
+        ],
+        "ids": [
+          "e370"
+        ]
+      },
+      {
+        "start": "12:00",
+        "end": "12:20",
+        "text": "Ecografía de tórax en paciente pediátrico. 2 Dra. Isabel Fuentealba",
+        "levels": [
+          2
+        ],
+        "bbox": [
+          21.0166,
+          570.0680000000001,
+          612,
+          604.0710000000001
+        ],
+        "ids": [
+          "e375"
+        ]
+      },
+      {
+        "start": "12:20",
+        "end": "12:40",
+        "text": "Ecografía Doppler color en reacciones granulomatosas a rellenos cosméticos. 3 Dra. Ximena Wortsman",
+        "levels": [
+          3
+        ],
+        "bbox": [
+          21.0166,
+          606.0710000000001,
+          612,
+          640.272
+        ],
+        "ids": [
+          "e378"
+        ]
+      },
+      {
+        "start": "12:40",
+        "end": "13:30",
+        "text": "PREMIACIÓN & CEREMONIA DE CLAUSURA EN SALÓN 2, VITACURA",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          642.272,
+          612,
+          737.272
+        ],
+        "ids": [
+          "e382"
+        ]
+      }
+    ],
+    "kind": "agenda"
+  },
+  {
+    "page": 50,
+    "rowCount": 7,
+    "mappedRows": 7,
+    "rows": [
+      {
+        "start": "14:30",
+        "end": "14:50",
+        "text": "Actualización BI-RADS 2026. TM Jacqueline Osorio",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          174.03499999999997,
+          612,
+          208.038
+        ],
+        "ids": [
+          "e385"
+        ]
+      },
+      {
+        "start": "14:50",
+        "end": "15:10",
+        "text": "Biopsia bajo Mamografía Contrastada. TM Sofía Chávez",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          210.038,
+          612,
+          244.04100000000005
+        ],
+        "ids": [
+          "e386"
+        ]
+      },
+      {
+        "start": "15:10",
+        "end": "15:30",
+        "text": "¿Qué tan preciso es el BI-RADS? Concordancia entre mamografía y biopsia. Una revisión reciente (2024-2025). TM Susana Burgos",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          246.04100000000005,
+          612,
+          292.04500000000013
+        ],
+        "ids": [
+          "e387"
+        ]
+      },
+      {
+        "start": "15:30",
+        "end": "15:50",
+        "text": "Coffee Break Módulo Radiología diagnóstica e intraoperatoria Modera:",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          294.04500000000013,
+          612,
+          352.0500000000001
+        ],
+        "ids": [
+          "aux-388"
+        ]
+      },
+      {
+        "start": "15:50",
+        "end": "16:10",
+        "text": "Tecnología, precisión y alivio: El rol del Tecnólogo Médico en las nuevas terapias del dolor. TM Nathaly Marchant",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          354.0500000000001,
+          612,
+          400.05400000000014
+        ],
+        "ids": [
+          "e389"
+        ]
+      },
+      {
+        "start": "16:10",
+        "end": "16:30",
+        "text": "Enterocolitis necrotizante neonatal: Integración imagenológica en el diagnóstico clínico. TM Andrés Cabezas",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          402.05400000000014,
+          612,
+          448.05800000000016
+        ],
+        "ids": [
+          "e390"
+        ]
+      },
+      {
+        "start": "16:30",
+        "end": "16:50",
+        "text": "Cirugías pediátricas frecuentes bajo Arco en C: Calidad de imagen y optimización de dosis. TM María José Prokes PREMIACIÓN & CEREMONIA DE CLAUSURA EN SALÓN 2, VITACURA",
+        "levels": [],
+        "bbox": [
+          21.0166,
+          450.05800000000016,
+          612,
+          545.0580000000002
+        ],
+        "ids": [
+          "e391"
+        ]
+      }
+    ],
+    "kind": "agenda"
+  },
+  {
+    "page": 51,
+    "rowCount": 0,
+    "mappedRows": 0,
+    "rows": [],
+    "kind": "información sin agenda horaria"
+  }
+]

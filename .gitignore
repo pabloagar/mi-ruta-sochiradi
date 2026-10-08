@@ -1,0 +1,5 @@
+.sites-runtime/
+node_modules/
+test-results/
+*.log
+data/pdf-text.json

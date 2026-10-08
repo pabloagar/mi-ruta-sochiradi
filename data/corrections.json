@@ -1,0 +1,151 @@
+[
+  {
+    "id": "e59",
+    "before": {
+      "title": "BI-RADS en pacientes con cáncer de mama."
+    },
+    "after": {
+      "title": "BI-RADS 3 en pacientes con cáncer de mama."
+    },
+    "reason": "Página 30: el 3 es parte del título y no solo un distintivo de nivel.",
+    "page": 30
+  },
+  {
+    "id": "aux-110",
+    "before": {
+      "title": "Coffee Break Adquisiciones, Licitaciones y Rol del Ministerio"
+    },
+    "after": {
+      "title": "Coffee Break"
+    },
+    "reason": "Página 21: el encabezado del bloque siguiente no forma parte de la pausa.",
+    "page": 21
+  },
+  {
+    "id": "e297",
+    "before": {
+      "title": "Bloque Hands-On II Empresas Auspiciadoras"
+    },
+    "after": {
+      "title": "Bloque Hands-On II"
+    },
+    "reason": "Página 41: Empresas Auspiciadoras es un encabezado separado.",
+    "page": 41
+  },
+  {
+    "id": "e391",
+    "before": {
+      "speaker": "TM María José Prokes PREMIACIÓN & CEREMONIA DE CLAUSURA EN SALÓN 2, VITACURA"
+    },
+    "after": {
+      "speaker": "TM María José Prokes"
+    },
+    "reason": "Página 50: retirar el texto de clausura ajeno al nombre de la participante.",
+    "page": 50
+  },
+  {
+    "id": "e256",
+    "before": {
+      "title": "Encuentro de Residentes",
+      "speaker": "Detalle de charlas no especificado en el programa",
+      "start": "14:30",
+      "end": "18:30",
+      "note": "El programa general lo ubica el viernes PM, pero no incluye desglose de charlas."
+    },
+    "after": {
+      "title": "Encuentro Residentes",
+      "speaker": null,
+      "start": null,
+      "end": null,
+      "note": "El cuadro general (p. 4) lo sitúa el viernes por la tarde, en Salón 1 · Escultura. No informa horas de inicio/fin ni desglose; se retiró el intervalo 14:30–18:30 supuesto en el HTML original."
+    },
+    "reason": "El PDF solo señala viernes PM; no hay respaldo para horas exactas.",
+    "page": 4
+  },
+  {
+    "id": "e334",
+    "before": {
+      "title": "Presentación de trabajos científicos. Modera"
+    },
+    "after": {
+      "title": "Presentación de trabajos científicos.",
+      "speakerRole": "moderator"
+    },
+    "reason": "Página 48: Modera indica el rol de Juan Pablo Cruz, no forma parte del título.",
+    "page": 48
+  },
+  {
+    "id": "e369",
+    "before": {
+      "title": "Presentación de trabajos científicos. Modera"
+    },
+    "after": {
+      "title": "Presentación de trabajos científicos.",
+      "speakerRole": "moderator"
+    },
+    "reason": "Página 48: Modera indica el rol de Juan Pablo Cruz, no forma parte del título.",
+    "page": 48
+  },
+  {
+    "id": "e169",
+    "before": {
+      "roomId": "r-6cf68ce714",
+      "blockId": "m-jueves-8-sal-n-2-vitacura-evento-general-clausura"
+    },
+    "after": {
+      "roomId": "r-e652940808",
+      "blockId": "m-jueves-8-sal-n-7-polo-veterinarios-innovaci-n"
+    },
+    "reason": "Página 29: premiación de pósters de Veterinarios, en Salón 7 · Polo; no es clausura general en Vitacura.",
+    "page": 29
+  },
+  {
+    "id": "e8",
+    "before": {
+      "note": null
+    },
+    "after": {
+      "note": "Discrepancia en el PDF: la versión española (p. 16) indica esta charla y Dr. Felipe Reyes; la versión inglesa (p. 15), a la misma hora, indica «Cancer trials in Chile» y Dr. Christian Caglevic. Se conserva la versión española usada en tu HTML. Confirmar con la organización.",
+      "sourceVariants": [
+        {
+          "page": 15,
+          "title": "Cancer trials in Chile.",
+          "speaker": "Dr. Christian Caglevic"
+        }
+      ]
+    },
+    "reason": "Las versiones inglesa y española discrepan; se conserva explícitamente la discrepancia.",
+    "page": 16
+  },
+  {
+    "reason": "Plano de planta alta (p. 6): ICIS ocupa Salón 8 · Parque y SLARP precongreso ocupa Salón 7 · Polo. Se unificaron las salas conservando los IDs de actividades."
+  },
+  {
+    "id": "e73",
+    "mergedInto": "e74",
+    "reason": "Misma ceremonia y horario; las repeticiones en páginas de otras salas son referencias al evento común."
+  },
+  {
+    "id": "e75",
+    "mergedInto": "e74",
+    "reason": "Misma ceremonia y horario; las repeticiones en páginas de otras salas son referencias al evento común."
+  },
+  {
+    "id": "e381",
+    "mergedInto": "e382",
+    "reason": "Misma ceremonia y horario; las repeticiones en páginas de otras salas son referencias al evento común."
+  },
+  {
+    "id": "e383",
+    "mergedInto": "e382",
+    "reason": "Misma ceremonia y horario; las repeticiones en páginas de otras salas son referencias al evento común."
+  },
+  {
+    "page": 19,
+    "reason": "Se separaron los bloques publicados: Precongreso SLARP · Presentación de Casos Clínicos I / Precongreso SLARP · Presentación de Casos Clínicos II."
+  },
+  {
+    "page": 50,
+    "reason": "Se separaron los bloques publicados: Curso TM · Imagenología Mamaria. Actualización, certeza diagnóstica y contraste. / Curso TM · Radiología diagnóstica e intraoperatoria."
+  }
+]

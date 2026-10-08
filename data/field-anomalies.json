@@ -1,0 +1,194 @@
+[
+  {
+    "page": 23,
+    "id": "e119",
+    "fields": [
+      "title"
+    ],
+    "title": "Cuando las venas eligen un camino diferente: Evaluación mediante imágenes del retorno venoso anómalo en niños.",
+    "speaker": "Dra. Eloa Santos",
+    "levelsHtml": [
+      3
+    ],
+    "levelsPdf": [
+      3
+    ],
+    "row": "Cuando las venas eligen un camino diferente: Evaluación mediante 3 imágenes del retorno venoso anómalo en niños. Dra. Eloa Santos"
+  },
+  {
+    "page": 24,
+    "id": "e84",
+    "fields": [
+      "levels"
+    ],
+    "title": "Simposio Dedalus.",
+    "speaker": "Dr. Francisco Avendaño",
+    "levelsHtml": [],
+    "levelsPdf": [
+      3
+    ],
+    "row": "Simposio Dedalus. Dr. Francisco Avendaño 3"
+  },
+  {
+    "page": 24,
+    "id": "e95",
+    "fields": [
+      "levels"
+    ],
+    "title": "Radiomics and AI in liver imaging.",
+    "speaker": "Dr. Bachir Taouli",
+    "levelsHtml": [
+      3
+    ],
+    "levelsPdf": [],
+    "row": "Radiomics and AI in liver imaging. Dr. Bachir Taouli"
+  },
+  {
+    "page": 25,
+    "id": "e166",
+    "fields": [
+      "title"
+    ],
+    "title": "Lesiones targetoides hepáticas en RM: Hallazgos clave para un enfoque práctico.",
+    "speaker": "Dr. Ignacio Maldonado",
+    "levelsHtml": [
+      2
+    ],
+    "levelsPdf": [
+      2
+    ],
+    "row": "Lesiones targetoides hepáticas en RM: 2 Hallazgos clave para un enfoque práctico. Dr. Ignacio Maldonado"
+  },
+  {
+    "page": 30,
+    "id": "e59",
+    "fields": [
+      "title"
+    ],
+    "title": "BI-RADS en pacientes con cáncer de mama.",
+    "speaker": "Dra. Paula de Camargo Moraes",
+    "levelsHtml": [
+      1,
+      2,
+      3
+    ],
+    "levelsPdf": [
+      1,
+      2,
+      3
+    ],
+    "row": "BI-RADS 3 en pacientes con cáncer de mama. 1 2 3 Dra. Paula de Camargo Moraes"
+  },
+  {
+    "page": 30,
+    "id": "e93",
+    "fields": [
+      "title"
+    ],
+    "title": "Papel de la Inteligencia Artificial aplicada a mamografía en cribado y en la práctica clínica.",
+    "speaker": "Dr. Luis Pina",
+    "levelsHtml": [
+      2,
+      3
+    ],
+    "levelsPdf": [
+      2,
+      3
+    ],
+    "row": "Papel de la Inteligencia Artificial aplicada a mamografía 2 3 en cribado y en la práctica clínica. Dr. Luis Pina"
+  },
+  {
+    "page": 36,
+    "id": "e265",
+    "fields": [
+      "levels"
+    ],
+    "title": "Hallazgos radiológicos en osteonecrosis mandibular.",
+    "speaker": "Dr. Manuel Pérez",
+    "levelsHtml": [
+      3
+    ],
+    "levelsPdf": [
+      2,
+      3
+    ],
+    "row": "Hallazgos radiológicos en osteonecrosis mandibular. 3 Dr. Manuel Pérez 2"
+  },
+  {
+    "page": 36,
+    "id": "e275",
+    "fields": [
+      "levels"
+    ],
+    "title": "Lesiones tumorales de las órbitas.",
+    "speaker": "Dr. Sergio Correa",
+    "levelsHtml": [
+      2
+    ],
+    "levelsPdf": [
+      3
+    ],
+    "row": "Lesiones tumorales de las órbitas. Dr. Sergio Correa 3"
+  },
+  {
+    "page": 36,
+    "id": "e281",
+    "fields": [
+      "levels"
+    ],
+    "title": "Pitfalls in Head and Neck ncologic Radiology.",
+    "speaker": "Dr. Murilo Bicudo",
+    "levelsHtml": [
+      3
+    ],
+    "levelsPdf": [],
+    "row": "Pitfalls in Head and Neck ncologic Radiology. Dr. Murilo Bicudo"
+  },
+  {
+    "page": 36,
+    "id": "e295",
+    "fields": [
+      "levels"
+    ],
+    "title": "Cáncer de tiroides: imagenología más allá del TI-RADS.",
+    "speaker": "Dr. Luis Canales",
+    "levelsHtml": [
+      1
+    ],
+    "levelsPdf": [
+      1,
+      2
+    ],
+    "row": "Cáncer de tiroides: imagenología más allá del TI-RADS. 1 Dr. Luis Canales 2"
+  },
+  {
+    "page": 36,
+    "id": "e307",
+    "fields": [
+      "levels"
+    ],
+    "title": "Casos interactivos en urgencias de cabeza y cuello.",
+    "speaker": "Dr. Manuel Pérez",
+    "levelsHtml": [
+      2
+    ],
+    "levelsPdf": [],
+    "row": "Casos interactivos en urgencias de cabeza y cuello. Dr. Manuel Pérez"
+  },
+  {
+    "page": 42,
+    "id": "e231",
+    "fields": [
+      "title"
+    ],
+    "title": "Optimización de estudios de tórax mediante filtros de plata y machine learning.",
+    "speaker": "TM Ignacio Silva Tobar",
+    "levelsHtml": [
+      3
+    ],
+    "levelsPdf": [
+      3
+    ],
+    "row": "Optimización de estudios de tórax mediante 3 filtros de plata y machine learning. TM Ignacio Silva Tobar"
+  }
+]
