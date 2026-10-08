@@ -18,3 +18,6 @@ body[data-view=program] #toolbar{top:56px;display:flex;flex-direction:column}.da
 @media(max-width:767px){.desktop-grid{display:none!important}.time-section{display:block}.day-level-row{gap:0}.now-chips button{padding:0 14px}}
 @media(min-width:768px){.desktop-grid{display:block}.dense-card{border:1px solid var(--line);border-radius:6px}.dense-section{max-width:1000px;margin:auto}.dense-section h2{height:auto;min-height:34px}.dense-talk{min-height:60px}}
 @media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important}}
+
+/* Named locations in Ahora; retain compact rows and touch targets. */
+.dense-talk.with-location{grid-template-columns:72px minmax(0,1fr) 18px 44px;gap:4px}.with-location .dense-room{display:flex;flex-direction:column;align-items:flex-start;text-align:left;padding-left:3px;gap:2px;min-width:0}.with-location .dense-room b{font:600 13px/16px Barlow,sans-serif}.with-location .dense-room small{font:500 11px/14px Barlow,sans-serif;overflow-wrap:anywhere}
