@@ -92,3 +92,8 @@ Se conservó el contenido de la base; se contrastaron títulos, participantes, h
 La página 15 repite en inglés la agenda ICIS; no se duplica en la app. Las ceremonias referidas desde varias salas se vinculan al evento de Vitacura. Los cuadros de resumen y planos no se cuentan como conferencias adicionales. Los 66 bloques originales se ajustaron a 67 bloques tras dividir dos agrupaciones y eliminar un grupo de clausura erróneo.
 
 Archivos auditables: data/coverage.json (cada fila y región PDF), data/corrections.json (antes/después), dist/agenda.json (datos de la app), data/source/ (originales).
+
+
+## Revisión adicional de participantes
+
+Revisión adicional 8 de octubre: se separaron ocho nombres de participantes que habían quedado pegados a títulos (páginas 20, 21, 28 y 47). Los IDs, horarios y textos originales se conservan. Salón 4: Asamblea y Ética el viernes (p. 37), Enfermería el sábado (p. 47).

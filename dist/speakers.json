@@ -1,0 +1,1750 @@
+{
+  "source": "https://api.conf.app/speaker?conf_id=eq.7431e40b-9663-4424-8112-fa0c3c1e6f20&order=name&select=*%2Cspeaker_category%28id%2Clabel%2Ccolor%2Corder%29%2Csessions%3Asession_speaker%28session%28id%2Cname%2Cfrom%2Cto%29%29%2Cresources%28linkId%3Aid%2Cfile%28id%2Ctitle%2Cicon%2Cstorage_url%2Cdescription%29%29",
+  "retrieved": "2026-10-08",
+  "profiles": [
+    {
+      "id": "04f7cda5-69db-45c8-b4e6-ee7f9af5ac48",
+      "name": "Alberto Alonso",
+      "position": "Conferencista Nacional",
+      "bioExcerpt": "Global Sales Manager Idonia",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/42663eb5-ad7f-436a-8247-98c6cea2151f.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "1dc21be6-c827-4e6a-ad5a-00c79a35cf20",
+      "name": "Dra. Alejandra Bedoya",
+      "position": "Conferencista Internacional\nCanadá",
+      "bioExcerpt": "Staff Pediatric Body & Musculoskeletal Radiologist, The Hospital for Sick Children (SickKids), Toronto | Assistant Professor, Department of Medical Imaging, University of Toronto |…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/35012d67-603b-4bc9-8049-ff565bec1a68.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "084171c5-176b-4cfd-b82c-7ccdcc327794",
+      "name": "Dra. Andrea Doria",
+      "position": "Conferencista Internacional\nCanadá",
+      "bioExcerpt": "Médico Radiólogo Pediátrico | Residencias en Pediatría y Radiología, Universidade de São Paulo (USP) | Fellowship en Radiología Pediátrica, The Hospital for Sick Children…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/ad7b365e-965a-4774-80c2-5cba6ed7b3f6.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "f1124d14-2581-43f4-b05a-345b2f3b3f87",
+      "name": "Dra. Bernardita Aguirre",
+      "position": "Conferencista",
+      "bioExcerpt": "Médica radióloga especialista en imágenes mamarias. Directora de la célula de mamografía de Salud Digital del Ministerio de Salud.",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/337be972-371d-4ce0-b633-2ffc305117b1.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "14ea555e-c2f7-404d-a0ff-79a67b4bad34",
+      "name": "Dra. Carolina Barriga",
+      "position": "Conferencista",
+      "bioExcerpt": "",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/416577c7-4d49-434a-b837-12c8ee786e8a.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "516bb922-96f0-4741-b290-950a45b20b42",
+      "name": "Dra. Catalina Rodriguez",
+      "position": "Conferencista",
+      "bioExcerpt": "Radióloga intervencionista con experiencia en Chile desde 2017 y fellowship en RI en la Universidad de Calgary, Canadá, con amplia experiencia en radioembolización (TARE).…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/78f063a8-fc36-49e6-aaa2-aa636c9d12d7.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "9b3aeafe-a134-4c8d-b0d6-5b4c5ad5c3b0",
+      "name": "Dra. Claudia Lazarte",
+      "position": "Conferencista Internacional\nPerú",
+      "bioExcerpt": "Instituto Nacional de Salud del Niño San Borja, México Children's Hospital of Eastern Ontario - Canadá",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/b5d21ee1-4ad6-44ab-b9c0-dcea91ade462.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "cb463e0a-2780-48ce-953e-a345a52a41c0",
+      "name": "Dra. Daniela Barahona",
+      "position": "Conferencista",
+      "bioExcerpt": "Radióloga de la Pontificia Universidad Católica de Chile Subespecialista en cuerpo, Clínica Alemana-UDD Estadía de perfeccionamiento en PET-CT en Duke University Medical Center en…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/0fb53893-4011-47e6-b959-5694b568087d.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "6a415c21-df00-46d7-8a0b-88ebb909700b",
+      "name": "Dra. Daniela Gutiérrez",
+      "position": "Conferencista",
+      "bioExcerpt": "Especialista en Anatomía Patológica",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/9da0035d-0a99-444b-8c96-1b6a0d0b530e.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "adce4200-0912-4db5-8ca4-338371189f2b",
+      "name": "Dr. Adolfo Aliaga",
+      "position": "Conferencista",
+      "bioExcerpt": "Médico Cirujano Universidad de Concepción. Radiología Universidad de Chile. Neuro-Radiología. Clínica Alemana - Universidad del Desarrollo Jefe Depto Radiología. Clínica Alemana Temuco. Neuro-Radiólogo Hospital…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/3a78675c-d363-4821-b7ff-0013113fe4be.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "534e3243-2c7f-4942-a973-279e005c1685",
+      "name": "Dr. Adrián Negreros",
+      "position": "Conferencista Internacional\nMéxico",
+      "bioExcerpt": "Jefe de Radiología e Imagen, Hospital Regional ISSSTE Monterrey, México.",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/97becc3c-137e-4b62-8384-4913afe6c2f6.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "0fd67430-4867-40b7-b2e1-56161e1b3fcf",
+      "name": "Dra. Elka Miller",
+      "position": "Conferencista Internacional",
+      "bioExcerpt": "Profesora en la Universidad de Toronto y neurorradióloga pediátrica en The Hospital for Sick Children (SickKids), Toronto, Canadá. Fue Presidenta de la Sociedad Canadiense…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/c0e2c414-2fc9-487e-8381-2cfe450586f9.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "1f6e2f18-aac0-4811-bfea-a8f68f0b9544",
+      "name": "Dra. Eloa Santos",
+      "position": "Conferencista Internacional\nBrasil",
+      "bioExcerpt": "Radióloga Pediátrica | Especialista en Imagen Pediátrica y Fetal | Médica del Hospital Infantil Sabará, São Paulo | Docente y conferencista en Radiología Pediátrica…",
+      "photo": "https://storage.googleapis.com/confapp-assets/neutral-avatar.png",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "b2e56a9d-c2fe-4b3e-8a31-930182bdb6ea",
+      "name": "Dra. Feliza Restrepo",
+      "position": "Conferencista Internacional\nColombia",
+      "bioExcerpt": "La doctora Restrepo es médica egresada de la Universidad Ponti cia Bolivariana en 1999 y especialista en radiología de la Universidad CES en 2003.…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/de587482-cc9e-46eb-b84a-290921bc62ab.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "c97c966a-b069-41bf-b5e9-f81b4fca7066",
+      "name": "Dra. Fernanda Blaskovic",
+      "position": "Conferencista",
+      "bioExcerpt": "",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/6022361d-de53-4a71-986f-0395ed61b294.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "d691522e-496d-4a2b-9831-791eefb4588c",
+      "name": "Dra. Fernanda Del Campo",
+      "position": "Conferencista Internacional\nBrasil",
+      "bioExcerpt": "Radiologo pediatra de la Facultad de Medicina de São José do Rio Preto (FAMERP). Doctora en Ciencias de la Salud con especialización en Radiología…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/70e5360b-5836-49c2-a04d-fd41fe35edf2.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "63e54aa9-1734-429e-99c4-f5d330e5e2dd",
+      "name": "Dra. Florencia De Barbieri",
+      "position": "Conferencista",
+      "bioExcerpt": "Fellowship en Radiología Pediátrica de la Pontificia Universidad Católica. Jefe de Programa de Especialización en Radiologia Pediátrica en la Pontificia Universidad Católica de Chile.",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/bf58cda5-cf5a-49b2-bba2-ca17ab3bc675.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "b9f44bd8-3ded-4e58-b45e-6299f77b5970",
+      "name": "Dra. Francisca Barahona",
+      "position": "Conferencista",
+      "bioExcerpt": "Oncóloga especialista en radioterapia.",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/26a48f18-99a8-41dc-a258-ccfa39f804e4.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "f4009bb9-cb71-40a0-9599-0110b5263187",
+      "name": "Dra. Francisca Crispi",
+      "position": "Conferencista",
+      "bioExcerpt": "Médica Universidad de Chile, Presidenta del Colegio Médico de Santiago. MSc Health, Population and Society, London School of Economics and Political Science. Académica de…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/45f11c2e-6579-4471-8793-c350f9b943cb.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "9285d0a8-e49a-46fd-b7d5-6efc824f49ef",
+      "name": "Dra. Francisca Furnaro",
+      "position": "Conferencista",
+      "bioExcerpt": "",
+      "photo": "https://storage.googleapis.com/confapp-assets/neutral-avatar.png",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "2d92d3bd-fc9b-4f85-8683-cb93e74f9085",
+      "name": "Dra. Ignacia Vacarezza",
+      "position": "Conferencista",
+      "bioExcerpt": "Médico Cirujano por la Universidad de los Andes. Imagenología otorgado por la Universidad de Santiago de Chile.",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/67bd6515-7ab6-4e1e-89f4-c17319068d48.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "5abbf565-876a-4c9c-8c45-cdaf345bdbcf",
+      "name": "Dra. Isabel Fuentealba",
+      "position": "Conferencista",
+      "bioExcerpt": "",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/b531841d-37da-456d-a363-b32883b71fcf.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "76afece6-b825-4e6f-a1f3-98ccabfacff7",
+      "name": "Dra. Javiera Araya",
+      "position": "Conferencista",
+      "bioExcerpt": "Médico y especialista en imagenologia Universidad de Chile. Fellowship de tórax y cuerpo en Pontificia Universidad Católica de Chile. Actualmente médico radiólogo y docente…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/7c427794-3140-4c6f-9fc9-49d7748fb153.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "95781934-6d7b-42b6-994f-0024b9b2bd6e",
+      "name": "Dra. Javiera Mardones",
+      "position": "Conferencista",
+      "bioExcerpt": "",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/8d68ebc2-9287-4475-96c5-6bd0e6fcf2c8.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "804a210d-fce8-499c-9acc-5adf5ed82e49",
+      "name": "Dra. Joanna Kasznia-Brown",
+      "position": "Conferencista Internacional \nInglaterra",
+      "bioExcerpt": "Consultora sénior en la Universidad de Bristol, Reino Unido. Su trabajo abarca la imagenología pediátrica y oncológica, con especial interés en la resonancia magnética…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/d325a1ac-1a17-4069-be7d-fd5cafb617da.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "1747969b-b23a-4200-b451-e3e5de99915d",
+      "name": "Dra. Judith Almanza",
+      "position": "Conferencista Internacional\nMéxico",
+      "bioExcerpt": "Radióloga Pediátrica en RM Hospital Infantil de México Federico Gómez | Médico Evaluador en Centro de Evaluación Clínica Salud Digna.",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/66cd86ba-58f4-4b0b-a451-8db9a8e1a018.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "b033be1d-7f78-4217-bd39-5baa990b401f",
+      "name": "Dra. Juliana Lostra",
+      "position": "Conferencista Internacional\nArgentina",
+      "bioExcerpt": "Radióloga Pediátrica | Médica del Servicio de Diagnóstico por Imágenes, Hospital de Pediatría J.P. Garrahan, Buenos Aires | Docente y referente en Imagenología Pediátrica…",
+      "photo": "https://storage.googleapis.com/confapp-assets/neutral-avatar.png",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "671e2824-d69d-4d15-a2fd-fc74a7f66a4f",
+      "name": "Dra. Lavinia Wesley",
+      "position": "Conferencista Internacional\nPanamá",
+      "bioExcerpt": "Radióloga Pediátrica | Especialista en Radiología Pediátrica, Panamá | Médico del Servicio de Radiología del Complejo Hospitalario Dr. Arnulfo Arias Madrid, Caja de Seguro…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/c27016d8-0854-4a68-9366-3417a2eda7bb.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "4fb26037-4a5f-4444-abc4-7992ac319953",
+      "name": "Dr. Alberto Vargas",
+      "position": "Conferencista Internacional\nEstados Unidos",
+      "bioExcerpt": "Catedrático y vicedirector de Radiología en NYU, con amplia trayectoria en el Memorial Sloan Kettering Cancer Center, donde lideró imagenología corporal. Experto en imagenología…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/beded8b3-bf0c-4d51-a6c2-a76654119767.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "6055d7ca-179f-4d52-8115-401803ab276f",
+      "name": "Dra. Leticia  Gadea",
+      "position": "Conferencista Internacional\nUruguay",
+      "bioExcerpt": "Radióloga Pediátrica | Profesora Adjunta de Radiología, Udelar | Coordinadora de Docencia en Imagenología Pediátrica, Centro Hospitalario Pereira Rossell Montevideo Uruguay",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/4077b672-b1f1-4a3a-8645-0b00f31cb64e.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "b2865010-c28f-4865-8eb2-3aad6ba0b645",
+      "name": "Dra. Leticia Schaefer- AbuHana",
+      "position": "Conferencista Internacional Estados Unidos",
+      "bioExcerpt": "",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/be961afc-8ea4-49ac-8a6f-b68954ca9d56.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "49642c14-25d4-4cac-b477-1bc510c40f59",
+      "name": "Dra. Liliana Arias",
+      "position": "Conferencista Internacional",
+      "bioExcerpt": "Médica radióloga experta en imágenes de tórax. Departamento de radiología, Hospital Universitario San Ignacio. Profesora de radiología, Pontificia Universidad Javeriana. Miembro del Comité Científico…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/9514599d-de13-491e-b7aa-aa5e1ca956bf.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "1811f38a-bf77-4616-8857-ef80bfc53e43",
+      "name": "Dra. Lina Cadavid",
+      "position": "Conferencista Internacional\nColombia",
+      "bioExcerpt": "Hospital, Pablo tobón Uribe – Imedi . Medellín Colombia. Docente de posgrado de Radiología de la universidad CES. Miembro del comité científico de la…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/a018d776-b4b4-4335-bc98-8606b55de181.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "aaf3aa79-9482-4cbd-a4d5-6b27b25ed365",
+      "name": "Dra. Loreto Vergara",
+      "position": "Conferencista",
+      "bioExcerpt": "Presidente Comité de Ética SOCHRADI.",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/9667d512-fbff-48f9-ad36-d69b4457d1c1.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "a91c338b-6ce5-4f3b-bbe5-044439caef6d",
+      "name": "Dr. Álvaro Salas",
+      "position": "Conferencista",
+      "bioExcerpt": "Neurorradiologo, Universidad de Chile. Médico, Universidad de Chile",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/5462bb2d-1c3d-4279-a16b-34038324d9ea.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "fe1e21bd-6147-4e67-9e02-ba3e1fd04730",
+      "name": "Dr. Álvaro Sanhueza",
+      "position": "Conferencista",
+      "bioExcerpt": "Médico Cirujano por la Universidad de Chile. Especialista en Radiología por la Universidad de Chile. Profesor Asistente Universidad de Chile. Radiólogo de Abdomen y…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/76a25ccd-9a88-4e00-9311-8a75faf2cb26.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "e832fc7e-92e8-457a-b50c-25188fbb59ce",
+      "name": "Dra. Marcela Gallegos",
+      "position": "Conferencista",
+      "bioExcerpt": "",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/ad137e75-e3fd-4e2c-b039-31ee7ca59077.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "5f76835e-a59b-459d-a60b-237f3f40131e",
+      "name": "Dra. Marcela Jacard",
+      "position": "Conferencista",
+      "bioExcerpt": "Médico cirujano egresada de la Universidad de Chile, especialista en radiología de la misma casa de estudios. Subespecialización en radiología mamaria, Corporación Parc Taulí…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/06a90282-68b5-4d09-9a6e-ea2c9bf5a066.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "a5a18154-47f6-462b-a6f1-5950874be734",
+      "name": "Dra. María Antonietta Bali",
+      "position": "Conferencista Internacional\nItalia",
+      "bioExcerpt": "Profesora asociada en Università Cattolica (Roma) y jefa de imagenología hepatobiliar y gastrointestinal. Con experiencia en centros de referencia en Europa, es líder activa…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/b0265681-0342-4cf6-9b9a-0f1feec8227b.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "35e61d9e-49ed-4ab0-9f63-a37cf9f69427",
+      "name": "Dra. María Cecilia Ferrario",
+      "position": "Conferencista Internacional\nArgentina",
+      "bioExcerpt": "Médica radióloga especialista en imágenes torácicas y vasculares. Docente de grado y posgrado en Universidad Austral, Argentina. Coordinadora del área de Radiología torácica en…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/9f97a48a-3194-4e74-b20c-2421c0a9f67a.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "8dabd5b9-9ad1-4a8c-be82-399eb5b22866",
+      "name": "Dra. María Clara Anoni",
+      "position": "Conferencista Internacional\nArgentina",
+      "bioExcerpt": "Especialista en Pediatria. Médica especialista en Radiología Pediatrica y subespecialista en Radiologia musculoesquelética . Hospital de Pediatria J P Garrahan. Miembro del comité directivo…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/cd1597f7-2c89-4025-bca0-559d7f824775.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "c3bda335-83f6-4e16-b946-a504a8be4f19",
+      "name": "Dra. María José Diez",
+      "position": "Conferencista",
+      "bioExcerpt": "",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/309dab13-3222-4153-a267-a413a5cd7015.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "c20b14bb-a3be-4605-a79a-9a835e6f8296",
+      "name": "Dra. M. Carolina Castagnaro",
+      "position": "Conferencista Internacional \nArgentina",
+      "bioExcerpt": "Médica Especialista en Diagnóstico por imágenes en Pediatría. Planta permanente staff del Instituto de Maternidad y Ginecología “Nuestra Señora de las Mercedes”. Sistema Provincial…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/0f2e14fe-639e-4c62-9062-6d0acf87664e.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "b552bfe7-20f3-4681-b3ec-ceeb61b96d8b",
+      "name": "Dra. Mónica Epelman",
+      "position": "Conferencista Internacional\nUSA",
+      "bioExcerpt": "Vice Chair of Radiology, Nemours Children’s Hospital | Professor of Radiology, University of Central Florida (UCF) | Assistant Editor, Pediatric Radiology | Fellowship en…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/b2a5bf76-856e-46ad-a6ca-e1be3f8d4bb2.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "8d3b88f0-1476-4bce-9d3f-238b100b5251",
+      "name": "Dra. Mónica Galeano",
+      "position": "Conferencista Internacional\nArgentina",
+      "bioExcerpt": "Radióloga, Hospital Garrahan y Sanatorios de la Trinidad San Isidro y Ramos Mejía Hospital de Pediatría Prof. Dr. Juan P. Garrahan Universidad de Buenos…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/b6973f67-96bc-492d-99d5-0559441a2b45.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "a7c83591-0a8a-4b2b-8dd1-24effa7c077e",
+      "name": "Dra. Natalia Jara",
+      "position": "Conferencista",
+      "bioExcerpt": "Profesora adjunta de la especialidad de radioterapia oncológica, Universidad de Chile. Investigadora National Cancer Institute, USA Miembro del Comité de Sarcomas SWOG (Southwest Oncology…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/6fc6c32a-9e45-4174-98c1-bac5bebabd65.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "925b3d9e-6567-4cd4-8469-89288b4c8b6e",
+      "name": "Dr. Andrés García-Bayce",
+      "position": "Conferencista Internacional \nUruguay",
+      "bioExcerpt": "Presidente de SLARP Past President - World Federation of Pediatric Imaging (WFPI) Jefe de Departamento de Imagenología Centro Hospitalario Pereira Rossell Montevideo - Uruguay",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/4985a042-abe2-4049-97aa-a8b1c793cb68.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "c8a0cad5-ec93-4a50-b7db-f2cbfa02fea6",
+      "name": "Dr. Andrés Rojas",
+      "position": "Conferencista",
+      "bioExcerpt": "Fellowship de Abdomen y Pelvis en el Servicio de Imagenología del Hospital Clínico de la Universidad de Chile. Jefe Unidad de Imagenología Hospital Clínico…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/156ecb09-ae07-4e57-8e96-f7a680363528.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "97561217-4dad-4e30-91aa-c69371a11038",
+      "name": "Dr. Andrés Vicentela",
+      "position": "Conferencista",
+      "bioExcerpt": "Fellow imágenes Mamarias Clínica Alemana.",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/9e9c6d46-90af-4d6b-a21d-a318716f29bf.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "5a208634-791b-49cb-b8f0-0611f9a0045d",
+      "name": "Dr. Andrés Yoma",
+      "position": "Conferencista",
+      "bioExcerpt": "Radiólogo de la Pontificia Universidad Católica de Chile y especialista en imágenes Toraco-abdominales de la misma institución, actualmente Radiólogo del Hospital Sotero del Rio…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/00d952df-14ae-461c-99d6-1f847a719d5c.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "ab0fb424-d37c-4b41-8783-5077bf719dd6",
+      "name": "Dr. Andrew Trout",
+      "position": "Conferencista Internacional\nUSA",
+      "bioExcerpt": "Jefe de Radiología del Departamento de Radiología e Imagenología Médica del Hospital Infantil de Cincinnati Cuenta con certificación de la junta en Radiología Diagnóstica…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/589d181f-b6c6-4bc1-bc6f-c1e509bc74e4.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "83d6baee-9de0-4d4e-bad9-eb54854f0e31",
+      "name": "Dr. Aníbal Espinoza G.",
+      "position": "",
+      "bioExcerpt": "Radiólogo Pediátra. Socio Honorario",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/e359f259-2a3e-4220-855d-12c37045b398.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "399635e6-86b9-420b-bc42-703543694edc",
+      "name": "Dr. Antonio Luna",
+      "position": "Conferencista Internacional, España",
+      "bioExcerpt": "KOL de United.",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/3c74cb68-f5bc-4490-9531-298ef8184170.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "be2ac08f-da66-4810-9c3d-db44bc19828d",
+      "name": "Dra. Patricia Arancibia",
+      "position": "Conferencista",
+      "bioExcerpt": "Radióloga Imágenes Mamarias Universidad de Chile Hospital Clínico Universidad de Chile – Hospital Digital.",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/829df879-3169-45a4-8872-5ed66c1143e5.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "68db79e9-f8f0-443a-af55-5ae6401ed79e",
+      "name": "Dra. Patricia Bitar",
+      "position": "Conferencista",
+      "bioExcerpt": "Estudio de pregrado en Universidad de Chile, Área Norte, 1989-abril 1996. Licenciatura en Medicina. Estudio de postgrado en Universidad Católica de Chile, 1999-2002. Especialidad…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/9e715864-c798-4724-a5c6-c5f3130a969f.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "85fec96f-6d13-4fcd-9e4d-0eac6ee702f3",
+      "name": "Dra. Paula de Camargo",
+      "position": "Conferencista Internacional\nBrasil",
+      "bioExcerpt": "Radióloga especializada en imagenología mamaria en los grupos DASA y Alliar; Colaboradora en INRAD – USP; Miembro del comité de mamografía del CBR (Colegio…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/4c097882-05c5-441c-b49e-449bc3dc85bc.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "0a0acb84-5b8b-4369-9169-20371d2a9b21",
+      "name": "Dra. Paula Jiménez",
+      "position": "Conferencista",
+      "bioExcerpt": "Médico Radiólogo especializada en imágenes mamarias, titulada en la Universidad de Chile y formada como especialista en la Universidad de Santiago, con perfeccionamiento posterior…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/dedb8877-8f95-4302-8a77-e35f4cb54aea.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "f37eeb50-2b64-49bb-9ffd-75825f13f8b9",
+      "name": "Dra. Penny Yen Lee",
+      "position": "Conferencista",
+      "bioExcerpt": "Destacada médica fisiatra (especialista en Medicina Física y Rehabilitación), altamente reconocida por su especialización en oncología. Se desempeña como fisiatra en el Instituto Nacional…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/17efc810-2e8a-47bf-8e2e-c72f915c245d.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "c0c87b91-13bd-40c8-b56e-353b5e0c9e82",
+      "name": "Dra. Renata Nogueira",
+      "position": "Conferencista Internacional\nBrasil",
+      "bioExcerpt": "Máster en Salud Materno-Infantil por la UFF Trabaja en: Clínica Alta Excelência Diagnóstico, Hospital Municipal Alcides Carneiro. Profesora de la Facultad de Medicina de…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/4cd9e831-d390-40e9-9633-3792a09268fb.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "c48e1157-89c6-4264-a3d3-710bb97cef0c",
+      "name": "Dra. Sheila Berlin",
+      "position": "Conferencista Internacional\nEstados Unidos",
+      "bioExcerpt": "Profesora asociada y subdirectora del Departamento de Radiología, Directora de Calidad y Seguridad, Directora de Tomografía Computarizada Pediátrica del Hospital Infantil Rainbow Babies and…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/2cafdd28-b3cf-4cf6-a49f-589e88957c26.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "2a6fa51f-43fe-4f90-bf11-56a833e69383",
+      "name": "Dra. Silvina Zabala",
+      "position": "Conferencista Internacional\nUruguay",
+      "bioExcerpt": "Uruguay Radióloga Pediátrica | Asistente de Imagenología, Centro Hospitalario Pereira Rossell – Universidad de la República, Montevideo | Integrante de la Unidad de Planificación…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/b26baa36-dd01-4670-9d0e-531dba038cda.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "0eaf9c9f-af54-4d62-bf8e-a67827eba37e",
+      "name": "Dra. Solange Chia Fan",
+      "position": "",
+      "bioExcerpt": "",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/09944e1c-dfc2-42e3-b368-3dc81986da5d.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "b0058ab7-a8a0-4e80-818f-2082d24acb95",
+      "name": "Dra. Tamara Kreindel",
+      "position": "Conferencista Internacional\nBrasil",
+      "bioExcerpt": "Radióloga Pediátrica | Assistant Professor of Radiology, University of Chicago | Pediatric Radiologist, UChicago Medicine | Ex Jefa de Radiología Pediátrica, Hospital Italiano de…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/943d48b5-70fc-4962-b112-e91f355060eb.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "8b6042f5-ac8e-452e-a852-19b9306392d5",
+      "name": "Dra. Tatiana Fazecas",
+      "position": "Conferencista Internacional\nBrasil",
+      "bioExcerpt": "Jefe del servicio de Imagen del Hospital Municipal Jesús- RJ. Coordinadora de Radiología Pediátrica de CBR y SPR. Miembro del Comité Directivo de la…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/09ebfba8-c9d1-4269-afd6-00a546a48d2a.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "2cb7f963-852f-4e09-8786-68d5d55681e3",
+      "name": "Dra. Teresa Victoria",
+      "position": "Conferencista Internacional\nEspaña",
+      "bioExcerpt": "Chief, Division of Pediatric Imaging, Massachusetts General Hospital (MGH) | Associate Professor of Radiology, Harvard Medical School | Pediatric Neuroradiologist | Formación en Radiología…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/f9867fd9-4f1f-494d-990d-bcb5c52db113.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "80d7f52b-7fbe-47c5-a9d2-e9fc863ecfa7",
+      "name": "Dra. Verónica González",
+      "position": "Conferencista",
+      "bioExcerpt": "Médico radiólogo Pontificia Universidad Católica de Chile Fellowship imágenes mamarias Universidad de los Andes/ Clínica Santa María. Médico staff Clínica Santa María/ Hospital Dr.…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/62596a42-7565-4aae-b50b-3b245a4c67ed.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "3714323c-a96a-4963-b048-a5b192ed0e71",
+      "name": "Dra. Ximena Wortsman",
+      "position": "Conferencista",
+      "bioExcerpt": "Radióloga, Profesor Adjunto de Departamentos de Dermatología Universidad de Chile y Pontificia Universidad Católica de Chile en Santiago. Profesor Asociado en Departamento de Dermatología,…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/dc430425-b569-4d1e-ae5c-9c429c5f9c32.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "24172ce5-5005-4ac7-ad08-18139ca28d6b",
+      "name": "Dra. Yasna Sapunar",
+      "position": "Conferencista",
+      "bioExcerpt": "Médico Radiólogo Universidad de Chile Estadía perfeccionamiento en resonancia Músculo-Esquelético Hospital Vall de Hebrón, España Medico staff Radiología Músculo-Esquelético Clínica Meds.",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/6a800244-4f86-4740-b6e4-17c4ff9b13c1.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "8592ee2b-1b0d-4ce6-849f-c851e6ff725a",
+      "name": "Dra. Yoshino (Ruth) Sameshima",
+      "position": "Conferencista Internacional\nBrasil",
+      "bioExcerpt": "Radióloga pediátrica destacada con sede en São Paulo, Brasil. Se desempeña como Jefa de Radiología Pediátrica en el Hospital Israelita Albert Einstein y es…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/81b10d6d-622b-4acd-b245-d79f289e7c93.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "d8caedc8-48ce-4c31-83f6-f28f5c38fda1",
+      "name": "Dr. Bachir Taouli",
+      "position": "Conferencista Internacional\nEstados Unidos",
+      "bioExcerpt": "Especialista en resonancia magnética corporal e imagenología oncológica. Profesor en Icahn Mount Sinai (Nueva York), director de RM corporal y vicepresidente de investigación traslacional.…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/a49c1037-f7c7-4609-a635-55b8fb0611bd.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "9b4d7fe7-a65d-4bab-a3b5-ee78954ea86f",
+      "name": "Dr. Benjamín Pereira",
+      "position": "Conferencista",
+      "bioExcerpt": "Médico Radiólogo con subespecialidad en Radiología Intervencional, formado en el Hospital Clínico de la Universidad de Chile. Certificado por el European Board of Interventional…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/027e9cc8-6f77-4bd9-96f3-6971486b6f85.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "ada0fa0a-ebe3-4f82-8876-7e58767c2cf8",
+      "name": "Dr. Brian Gonzales",
+      "position": "CEO & Chief Scientist Officer, Micro-X",
+      "bioExcerpt": "",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/fa7426b5-6a53-45a1-85ed-8603896c6713.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "d1eba6ed-5b95-4ba0-a1ed-60458d4b0c8c",
+      "name": "Dr. Camilo Jaimes",
+      "position": "Conferencista Internacional\nUSA",
+      "bioExcerpt": "Radiólogo Pediátrico | Faculty, Department of Radiology, Boston Children’s Hospital – Harvard Medical School | Especialista en Neuroimagen Pediátrica y Resonancia Magnética | Investigador…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/4682c54e-e86a-4409-a1da-ebb12f923cf4.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "3ff90014-96d0-487f-b545-06acabd177f1",
+      "name": "Dr. Carlos Corredor",
+      "position": "Conferencista",
+      "bioExcerpt": "Médico radiólogo experto en músculo-esquelético. Jefe del departamento de radiología, Hospital Universitario San Ignacio. Profesor de radiología, Pontificia Universidad Javeriana. Miembro del Comité Científico…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/a4d2e06b-6ec8-463e-9d87-c6b319fa3310.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "0765bc19-1c4c-4f43-a7f8-26af3d77ba20",
+      "name": "Dr. Carlos González",
+      "position": "Conferencista",
+      "bioExcerpt": "Médico radiólogo. Departamento de radiología, Hospital Manuel Uribe Ángel. Profesor y co-director del posgrado en radiología, Universidad Pontificia Bolivariana, Medellín, Colombia.",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/1cf1be6a-73fd-4f30-a635-41844443f824.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "e77262f6-1956-4786-bcd5-29809b098fbf",
+      "name": "Dr. Carlos Riquelme",
+      "position": "Conferencista",
+      "bioExcerpt": "Médico cirujano de la Universidad de Concepción y especialista en radiología de la Pontificia Universidad Católica de Chile, Magíster en Administración en Salud. Destacada…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/8d5ac62b-68ee-4f80-b87f-783a7a841c69.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "e85d8c26-ad51-4ddc-8165-64364d15a661",
+      "name": "Dr. Carlos Robles",
+      "position": "Conferencista",
+      "bioExcerpt": "Neurorradiólogo, Universidad de Chile Neurorradiólogo Pediátrico, Universidad de Toronto Profesor Asociado, Universidad de Chile",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/6d56d560-6040-4d5e-9fd5-bff935a6d563.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "339d6157-0b4c-402c-a9c0-d4909b9c8ba5",
+      "name": "Dr. Carlos Ugas",
+      "position": "Conferencista Internacional\nPerú",
+      "bioExcerpt": "Radiólogo Pediátrico especialista en imágenes cardiotorácicas. Jefe departamento apoyo diagnóstico y de investigación - innovación INNSB, Lima, Perú. Parte de equipo editorial revista Pediatric…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/f8223a37-c0fd-4106-aae9-8e1f458b45d5.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "74992845-0395-46ca-acc9-294eb48ce50e",
+      "name": "Dr. Cristian Allard",
+      "position": "Conferencista Nacional",
+      "bioExcerpt": "Clinical Marketing Leader, GE",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/86dc6d6c-5dd6-4cc7-8ab4-d9e687e582c9.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "6bef8eb9-645e-416e-a36f-7ca34a8b6361",
+      "name": "Dr. Cristián Garcia",
+      "position": "",
+      "bioExcerpt": "Médico Cirujano por la Universidad de Chile. Imagenología por CONACEM. Profesor Titular, depto. de Radiología. Facultad de Medicina, Pontificia Universidad Católica de Chile.",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/80ee6db7-1eae-426b-8ef7-ee306d6acfae.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "365c4e3a-53e5-463a-b4e8-50e722deb541",
+      "name": "Dr. Cristián Matus",
+      "position": "Conferencista",
+      "bioExcerpt": "Neurólogo y neurorradiólogo, con amplia experiencia en el diagnóstico y manejo de enfermedades del sistema nervioso.",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/8cb1489b-cc4c-47fa-9b02-ce2cadb9eb39.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "fe8abc63-e0a3-44f7-a8fb-1a85a6aba3ea",
+      "name": "Dr. Cristián Rebolledo",
+      "position": "Conferencista",
+      "bioExcerpt": "Médico Salubrista egresado de la Universidad de Chile el año 2007. Interés en temas de salud pública en general, específicamente en el área de…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/3e0e568e-4dbf-40cd-a52d-80897cc73c03.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "1f5065d7-0e7a-4fe1-973a-acff09710a11",
+      "name": "Dr. Cristián Varela",
+      "position": "Conferencista",
+      "bioExcerpt": "Radiólogo Unidad Cuerpo, Departamento de Imágenes, Clínica Alemana, Profesor de Radiología de la Facultad de Medicina, Universidad de los Andes, Universidad Mayor, Santiago de…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/72cf1d79-2324-43b2-95b2-2150c370c046.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "daeeb4b4-4f61-44a0-8be2-c96a7db7e538",
+      "name": "Dr. Daniel Hasson",
+      "position": "Conferencista",
+      "bioExcerpt": "Medicina Universidad de Chile. Radiología y neurorradiología CAS-UDD. Clínica Alemana Valdivia - Clínica Alemana Santiago",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/1fffe065-6bd6-4d5c-b941-fb88c5ca4ba6.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "252067b1-9362-4f7c-9f16-4c83a5fd0243",
+      "name": "Dr. Daniel Rios",
+      "position": "Conferencista",
+      "bioExcerpt": "Médico Radiólogo Hospital Clínico Universidad de Chile. Subespecialista en Imágenes Músculo- Esqueléticas, Universidad de Chile",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/eb99c3e1-b7d7-4cce-b63f-347352f14517.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "db9a590a-83a8-4bb7-8be3-108282904113",
+      "name": "Dr. Daniel Saez",
+      "position": "Conferencista\nMod. Veterinaria",
+      "bioExcerpt": "Prof. MSc. MV , Médico veterinario de la Universidad de Chile y Magíster en Medicina y Clínica de Pequeños Animales. Cuenta con formación en…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/972fb625-0e8c-471e-afcb-3d185b2fe781.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "c24730c5-28ab-4628-b0ca-858d3cd81920",
+      "name": "Dr. Darío Teplisky",
+      "position": "Conferencista Internacional\nArgentina",
+      "bioExcerpt": "Radiólogo Intervencionista Pediátrico | Médico de Planta del Hospital de Pediatría J.P. Garrahan y Sanatorio Mater Dei | Coordinador del Grupo Interdisciplinario de Anomalías…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/d673f204-9a27-4e22-991b-3cc9c2408cb4.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "5a53d0c2-5b06-47a3-9840-c66a73982793",
+      "name": "Dr. David Clemo",
+      "position": "Conferencista",
+      "bioExcerpt": "",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/44ab47ad-e564-4812-a36a-aa481f6f3cc9.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "47f715e8-8673-43cb-b691-180803210090",
+      "name": "Dr. David Herquiñigo R.",
+      "position": "Conferencista",
+      "bioExcerpt": "Médico Radiólogo de la Universidad de Chile, Radiólogo Cuerpo Clínica INDISA y coordinador del Programa de Formación en Radiología de la Universidad Andrés Bello.",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/16a638d0-bc57-4a14-b674-fa9072095bcb.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "29b5056a-9fd7-43e9-9531-92eab1ac8d6e",
+      "name": "Dr. David Ladrón De Guevara",
+      "position": "Conferencista",
+      "bioExcerpt": "Especialidad de Medicina Nuclear y de Radiologúa de la Universidad Chile. Subespecialidad PET/CT en Hospital Johns Hopkins. Profesor U. Chile y U. Diego Portales.…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/13f15d14-603f-4d37-b5de-b35ce8a5fe08.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "2de01d09-4adb-4491-b228-477cb0c91121",
+      "name": "Dr. Diego Ramirez",
+      "position": "Conferencista",
+      "bioExcerpt": "",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/6047da5f-38d0-4ac4-a901-7ef00b2117b2.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "92446a2e-44c3-4acb-8e73-bed7b353acd0",
+      "name": "Dr. Dimitri Parra",
+      "position": "Conferencista Internacional\nCanadá",
+      "bioExcerpt": "Radiólogo Pediátrico Intervencional | Professor of Radiology, University of Toronto | Pediatric Interventional Radiologist, The Hospital for Sick Children (SickKids), Toronto | Especialista en…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/413e3bc2-83ed-4296-bb4d-d41110161c07.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "29da9111-2d9f-4205-9631-b7554d7dbe44",
+      "name": "Dr. Eduardo Bravo",
+      "position": "Conferencista",
+      "bioExcerpt": "Médico Radiólogo y Radiólogo intervencionista, formado en la Universidad de Chile. Profesor Adjunto, Departamento de Radiología, Facultad de Medicina de la Universidad de Chile.…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/9052a13f-fed1-4e50-a5eb-02c55de999bb.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "42b93215-99f5-4b9b-b27c-fbf8a5086457",
+      "name": "Dr. Emilio Inarejos",
+      "position": "Conferencista Internacional\nEspaña",
+      "bioExcerpt": "Médico radiólogo general en el Hospital Vall d’Hebron entre 2006 y 2010, y posteriormente completó su especialización en radiología pediátrica en el SickKids Hospital…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/6f0a801b-d82f-475d-adda-81eed0996fa4.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "d321a191-1d45-4705-9315-9803303cb66b",
+      "name": "Dr. Esteban Dardanelli",
+      "position": "Conferencista Internacional\nArgentina",
+      "bioExcerpt": "Médico especialista en diagnóstico por imágenes en pediatría. Jefe del servicio de ecografía, departamento de diagnóstico y tratamiento por imágenes del Hospital Juan P.…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/f8924514-6d27-41ea-8c5e-0c44760642be.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "a4a3395c-c5da-4b12-b295-6e2d7157029d",
+      "name": "Dr. Felipe Díaz Soler",
+      "position": "Conferencista\nMod. Veterinaria",
+      "bioExcerpt": "MV, PhD, médico veterinario y Doctor en Ciencias Silvoagropecuarias y Veterinarias de la Universidad de Chile. Se dedica a la nefrología y urología de…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/c4bcf6e4-886b-4b51-a637-04aaaa06c58c.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "9b89b293-890d-4935-af8b-368527723f20",
+      "name": "Dr. Felipe Lillo",
+      "position": "Conferencista\nMod. Veterinaria",
+      "bioExcerpt": "Médico veterinario de la Universidad Santo Tomás, candidato a Doctor en Medicina Veterinaria por la Universidad Andrés Bello. Su trabajo se centra en cirugía…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/87a1d097-0c83-4b19-a87a-420319f0cc9b.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "0d5a7759-f150-4f62-9f4f-3dc8c6f59f3b",
+      "name": "Dr. Felipe Sánchez",
+      "position": "Conferencista",
+      "bioExcerpt": "Fellowship de Radiología Cardiotorácica en la Universidad de Toronto, en Sunnybrook Health Sciences Centre y University Health Network, Canadá.",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/875ab575-edba-4c51-9ec4-cb7b07bfca47.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "0c4bdcd0-aec3-43f9-b304-30acd40bf3a1",
+      "name": "Dr. Fernando Carreño",
+      "position": "Conferencista",
+      "bioExcerpt": "Radiología. Neurorradiología, Universidad de Chile Neurorradiología CAS-UDD PET Cerebral Hospital Universitari de Bellvitge, Barcelona Neurorradiología. Clínica Alemana de Santiago. Hospital San Juan De Dios",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/083d294d-7017-48b6-adcb-c65aca1b04b3.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "05cb9b13-0f14-4a8f-97b5-1d7640deda8c",
+      "name": "Dr. Fernando González",
+      "position": "Conferencista",
+      "bioExcerpt": "",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/3201e410-a40b-4e96-832d-d12b5a6194dd.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "eb119df6-6bea-4dc4-95ff-c53e665f6c61",
+      "name": "Dr. Francisco Albarracin A.",
+      "position": "",
+      "bioExcerpt": "",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/cd1185d2-cb27-4085-b810-4436064a2cc4.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "40f8879a-9135-463b-8251-6c86c01fcd64",
+      "name": "Dr. Francisco Avendaño",
+      "position": "Conferncista",
+      "bioExcerpt": "",
+      "photo": "https://storage.googleapis.com/confapp-assets/neutral-avatar.png",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "32621dbe-e46c-4a54-9df2-56b94c92feb8",
+      "name": "Dr. Francisco Cruz Olivos",
+      "position": "Conferencista",
+      "bioExcerpt": "Maestro de la Radiología 2022. El Dr. Francisco Cruz es médico cirujano, con especialidad en Radiología de la Pontificia Universidad Católica. Fellowship en Radiología…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/cd18c00a-4483-41ee-a932-8f0df86a6aca.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "fa39e035-87f0-48a3-9bd2-9a35ac785dc5",
+      "name": "Dr. Francisco Garrido",
+      "position": "Conferencista",
+      "bioExcerpt": "Médico Cirujano por la Universidad Austral de Chile. Especialista en Radiología y Magíster en Educación Médica, por la Pontificia Universidad Católica de Chile. Profesor…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/e8aa2466-ad51-4e14-8f9b-b0f2fb8119c0.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "840e7e41-e8bd-40b6-b765-617ea8581d91",
+      "name": "Dr. Francisco Sepúlveda",
+      "position": "Conferencista",
+      "bioExcerpt": "Neurorradiólogo Clínica Alemana de Santiago.",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/57a6d996-b985-4db3-81d5-5eb5bdcf18e8.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "61d98ab1-9454-4951-94fd-fd036e454a77",
+      "name": "Dr. Freddy Escobar",
+      "position": "Conferencista",
+      "bioExcerpt": "Médico Radiólogo Musculoesqueletista en Clínica Las Condes",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/c665e671-3af0-4b9a-8017-84ec18ca345f.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "2b93c494-a913-499f-a491-6066c025ac9a",
+      "name": "Dr. Freddy Jalil",
+      "position": "Conferencista",
+      "bioExcerpt": "Médico Radiólogo Intervencionista en Hospital Barros Luco Trudeau",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/ed967752-3042-4d9d-add0-90c3f8ddfdc2.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "6f0c1392-5f20-42a4-8e93-9958c0100fb9",
+      "name": "Dr. George Taylor",
+      "position": "Conferencista Internacional\nUSA",
+      "bioExcerpt": "Radiólogo Pediátrico | Attending Radiologist, Children’s Hospital of Philadelphia (CHOP) | John A. Kirkpatrick Professor of Radiology (Emeritus), Harvard Medical School | Ex Director…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/b1fe2cf5-0ec5-4b32-bb68-514637a14294.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "7f735a0f-0995-4a36-a215-9f20530d91d6",
+      "name": "Dr. Gian Paolo Zamboni",
+      "position": "Conferencista",
+      "bioExcerpt": "Jefe Angiografia Hosp. de Urgencias Asistencia Pública | Radiologo Intervencional Clínica Alemana Stgo.",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/feadffc9-da1a-4c4c-b625-0fa8c502ea41.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "f9384588-9a6b-4fbe-bf80-04649ae35310",
+      "name": "Dr. Gigin Lin",
+      "position": "Conferencista Internacional\nTaiwán",
+      "bioExcerpt": "Dr. Gigin Lin Médico-científico especializado en imagenología oncológica, resonancia magnética avanzada e IA aplicada al diagnóstico de precisión. Profesor en Chang Gung (Taiwán) y…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/44788deb-1fb2-484a-80e0-f82d8b4e3e61.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "975dc690-b869-4eff-bf0c-d3297f554594",
+      "name": "Dr. Gonzalo Cárdenas",
+      "position": "Conferencista",
+      "bioExcerpt": "Sub-especialista en Imágenes de abdomen y pelvis. Jefe de Unidad de Vinculo con el medio y extensión, Departamento de Radiología. Hospital Clínico de la…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/babb1614-2184-4101-9686-a188be08b926.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "db43dd5a-548b-4486-9d79-e427f1efefba",
+      "name": "Dr. Gonzalo Carrasco",
+      "position": "Conferencista",
+      "bioExcerpt": "Patólogo con amplia experiencia en hígado, tracto gastrointestinal y ginecología, con trayectoria demostrada en el sector hospitalario y sanitario. Experto en investigación, bioinformática, educación…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/58cbec61-c958-4fa8-9a8f-1ee6c11b2a20.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "77645bde-429c-4dc0-9544-4ac9e35518c1",
+      "name": "Dr. Gonzalo Kehr Khr",
+      "position": "Conferencista",
+      "bioExcerpt": "Médico cirujano Universidad Mayor Temuco. Médico Radiólogo de Universidad de Valparaíso. Fellow en imágenes de Tórax abdomen y pelvis Clínica las Condes- U. de…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/f8ae2723-d176-4073-8bcb-de4a9762ee6c.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "69d372e8-2603-4646-8c7d-dbe23cdfe3cb",
+      "name": "Dr. Gonzalo Miranda",
+      "position": "Conferencista",
+      "bioExcerpt": "",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/b7d86632-8eb0-4636-8d54-bdcd8e64d11a.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "5165af82-ac3c-41a2-9798-1da21b29cced",
+      "name": "Dr. Gonzalo Serrano",
+      "position": "Conferencista",
+      "bioExcerpt": "Estudios de Medicina. Universidad Finis Terrae. 2003-2009.Radiología. Universidad del Desarrollo / Clínica Alemana Santiago. 2010-2013. Fellow Radiología Musculoesquelética. Universidad del Desarrollo / Clínica Alemana…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/678ff383-ba1d-459a-8e75-85613322bb7e.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "09ac6cb9-cfef-4571-a4ee-4457d688b65e",
+      "name": "Dr. Guido González",
+      "position": "Conferencista",
+      "bioExcerpt": "⁠Radiólogo de la U. De Chile Neurorradiólogo de Clínica Alemana de Santiago Actualmente es parte del staff del: ⁠⁠Hospital San Juan de Dios Hospital…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/78c331cd-6c7e-460e-be09-cb5c17e8f6b7.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "84fae281-36bf-411f-aaf7-aed2bbf10d7b",
+      "name": "Dr. Gustavo Muñiz",
+      "position": "Conferencista Internacional\nUruguay",
+      "bioExcerpt": "Vicepresidente de la Sociedad de Radiología e Imagenología del Uruguay Profesor del Colegio Interamericano de Radiología Profesor de Imagenología de la UDE (Universidad de…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/4c58cc45-7138-4b2b-9ba6-0857dd1c34eb.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "caf508fc-76ce-4107-8c8a-9ed08047a655",
+      "name": "Dr. Hansel Otero",
+      "position": "Conferencista Internacional\nUSA",
+      "bioExcerpt": "Radiólogo Pediátrico | Vice Chair of Clinical Research y Director de Educación Internacional en Radiología Pediátrica, Children’s Hospital of Philadelphia (CHOP) | Associate Professor…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/d74cd0ea-8112-4cd1-869a-6c8ef02559e1.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "92b37139-001b-43ab-b371-2f980ba01e24",
+      "name": "Dr. Héctor Henríquez",
+      "position": "Conferencista",
+      "bioExcerpt": "Médico Cirujano Pontificia Universidad Católica de Chile. Radiólogo y Fellowship en imágenes tóraco-abdominales de la Pontificia Universidad Católica de Chile. Magíster en Data Science…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/3738f8b5-71fd-44ce-af52-6b079fef9887.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "a63b165b-8fbf-4557-a098-22df85389a28",
+      "name": "Dr. Héctor Sotomayor",
+      "position": "Conferencista",
+      "bioExcerpt": "",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/a5ea0f61-2628-4825-af7c-339703847ee3.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "eca08aa3-a19a-4d98-b870-c78ad6264cf6",
+      "name": "Dr. Henrique Lederman",
+      "position": "Conferencista Internacional\nBrasil",
+      "bioExcerpt": "Actualmente es Profesor Emérito de la Facultad de Medicina Paulista, Director del Centro de Diagnóstico por Imágenes del GRAACC - Instituto de Oncología Pediátrica…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/0d785887-cf33-460c-8e90-eeb3d6ca8384.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "9719cbdf-8b9c-4aaa-9e86-1231cca10917",
+      "name": "Dr. Ignacio Maldonado",
+      "position": "Conferencista",
+      "bioExcerpt": "Médico Cirujano por la Universidad de Santiago de Chile. Especialista en Imagenología por la Universidad de Chile. Subespecialidad Abdomen y Pelvis, Universidad de Los…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/08ff41f4-21a7-40c3-85a3-4ff936b18a46.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "d18b6434-6553-4ef2-9e69-2588d0900403",
+      "name": "Dr. Iván Pérez Hernández",
+      "position": "Conferencista",
+      "bioExcerpt": "Médico Internista - Magister en Bioética Director Centro de Bioética, Facultad de Medicina UC",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/e13e4e40-14a1-4157-a5cf-632a100265c9.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "29b666c1-5d1f-4b86-be54-0f47770ae2e0",
+      "name": "Dr. Jesús Urbina",
+      "position": "Conferencista",
+      "bioExcerpt": "Radiólogo Cardiotorácico en Complejo Asistencial Dr. Sótero del Río, Clínica BUPA Santiago y MEDS La DehesaJefe Unidad de Cuerpo, Clínica BUPA Santiago Formación: Cardiothoracic…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/bccf28b6-b5e3-418d-8159-d65abd79c455.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "f64df914-c2d1-4fcf-8507-69627a30f4fa",
+      "name": "Dr. Joaquín Hevia",
+      "position": "Conferencista",
+      "bioExcerpt": "Médico formado en la Universidad del Desarrollo. Radiólogo Pontificia Universidad Católica de Chile, misma institución donde posteriormente cursó un Fellowship de 2 años en…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/59854b3d-fe04-4956-8fe8-4c39b828e627.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "30da1a28-a7d7-43dd-81fa-90ee644a10ee",
+      "name": "Dr. Joel Fuentes",
+      "position": "Conferencista",
+      "bioExcerpt": "Radiólogo - Universidad Católica Fellowship en Radiología de tórax, abdomen y pelvis - Clínica Las Condes Radiólogo Hospital Dr. Sótero del Río y Clínica…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/7fdd9a37-fe45-4d83-a4d3-e87fab12f625.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "cc8eaa7a-2314-4f7e-985b-be064ed950f6",
+      "name": "Dr. Jorge Contardo",
+      "position": "Conferencista",
+      "bioExcerpt": "Médico Radiólogo, Universidad de Chile. Subespecialista en Imágenes de Abdomen y Pelvis, Universidad de Chile. Hospital Clínico de la Universidad de Chile y Hospital…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/a1e4a446-9875-4594-b907-32a3a9f4ea0a.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "50057d6e-a93e-4cd9-98ec-66a8f8a1b00b",
+      "name": "Dr. Jorge Delgado",
+      "position": "Conferencista Internacional\nEstados Unidos",
+      "bioExcerpt": "Radiólogo pediátrico en el Departamento de Radiología del Hospital Infantil de Filadelfia, especializado en la División de Imagenología Corporal, Sección de Músculo Esquelético. Además,…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/bdddfaf1-08a8-429d-b3d4-28124412122e.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "629837a6-06d1-4cb0-95c1-a20d8e9c43d3",
+      "name": "Dr. Jorge Díaz",
+      "position": "Conferencista",
+      "bioExcerpt": "Musculoesquelética del H. Clínico de la U. de Chile y Clínica Alemana Stgo.",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/4fca4b26-f360-42f9-ba9d-675528fb2dc1.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "d95b3638-d319-4ba7-b33f-1485f43b3879",
+      "name": "Dr. Jorge Llanos",
+      "position": "Conferencista",
+      "bioExcerpt": "Médico Cirujano de la P. Universidad Católica. Especialidad en Radiologia en la P. Universidad Católica. Formación en Radiologia Musculoesquelética en la P. Universidad Católica.…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/b05023b0-e34b-48ec-9e28-4d23afdbef1e.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "59afc14e-7b98-41f4-9141-6f6f9748aaeb",
+      "name": "Dr. José Domingo Arce V.",
+      "position": "",
+      "bioExcerpt": "",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/db6f8240-a23b-434d-aa52-b90a76f6d463.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "722e1a55-889d-4e7c-b171-9c69af51c45b",
+      "name": "Dr. José Lipsich",
+      "position": "Conferencista Internacional\nArgentina",
+      "bioExcerpt": "Coordinador de Diagnóstico por Imágenes del Hospital Pediatrico \"\"Dr. Juan P. Garrahan\"\" de Buenos Aires, Argentina. Ejerce en el Hospital Italiano de Buenos Aires…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/f9e3ac42-99d6-47c6-8ede-9c0eb467c8e3.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "9ff05c96-8788-43e4-a877-6691e9d444a4",
+      "name": "Dr. Jovan Lovrenski",
+      "position": "Conferencista Internacional\nSerbia",
+      "bioExcerpt": "Jefe del Servicio de Diagnóstico y Asuntos Médicos Conjuntos del Instituto de Salud Infantil y Adolescente de Vojvodina, Novi Sad, Serbia. Catedrático de Radiología…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/79f9faf0-04a9-4169-a4e7-2968581ce9c6.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "b49b85c7-bc6e-4d30-adab-4d009b1a8b2e",
+      "name": "Dr. Juan Carlos Spina",
+      "position": "Conferencista Internacional\nArgentina",
+      "bioExcerpt": "\"Especialista en Diagnóstico por Imágenes. Médico de planta del servicio de radiología del Hospital Italiano de Buenos Aires, jefe de la sección de Imágenes…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/75baffd3-0869-439f-bffd-60d1bc4f787c.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "cfe24add-46d5-407f-a90e-5ffa522dedb9",
+      "name": "Dr. Juan Ignacio Errázuriz",
+      "position": "Conferencista",
+      "bioExcerpt": "",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/36b21768-ebfe-4b31-8e0d-fbcd85608418.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "f06307e0-8050-45c4-bb6b-aac2c58090fe",
+      "name": "Dr. Juan Pablo Cruz",
+      "position": "Conferencista",
+      "bioExcerpt": "Radiólogo, Pontificia Universidad Católica de Chile, Neurorradiólogo, Universidad de Toronto, Canadá. Profesor Asistente, Departamento de Radiología, Pontificia Universidad Católica de Chile.",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/cee24df4-08f8-46fb-8769-58ac88d44934.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "acf68bad-f901-442b-b722-346c0a4c012c",
+      "name": "Dr. Juan Salvador Casas",
+      "position": "Conferencista",
+      "bioExcerpt": "Unidad de abdomen y pelvis. Hospital clínico Universidad de Chile. Profesor asistente programa radiología Universidad de Chile. Departamento ultrasonido. Clínica Alemana.",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/b2ff0b94-baca-4ea0-beb3-725973d2338a.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "29426c3e-0626-4b4b-be5b-bf496ab96885",
+      "name": "Dr. Leonardo Espíndola",
+      "position": "Conferencista",
+      "bioExcerpt": "",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/d1ce96dc-3b76-43b2-ac33-210e519d1881.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "2dcd886e-7e73-469b-9ca0-d67f5d3ee077",
+      "name": "Dr. Luis Canales",
+      "position": "Conferencista",
+      "bioExcerpt": "Radiólogo, Universidad de Concepción. Neurorradiólogo, Universidad de Chile Médico Neurorradiólogo en Hospital Regional de Ñuble y Clínica Andes Salud Chillán Profesor de Imagenología y…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/415f2b7f-173b-4305-bc2a-51e6d257b33d.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "1c12ab1f-92a1-4f91-9f64-92fe9467d52e",
+      "name": "Dr. Luis Muse",
+      "position": "Conferencista",
+      "bioExcerpt": "Medico Radiólogo. Formación de pre y post grado, en la Pontificia Universidad Católica de Chile. Diplomado en Administración y gestión en salud, Universidad de…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/282510da-da35-42d2-ac99-afc5f76e24cd.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "309c6d5d-8ddd-4728-b69c-22b6efcd4eee",
+      "name": "Dr. Luis  Pina",
+      "position": "Conferencista Internacional\nEspaña",
+      "bioExcerpt": "Consultor del Departamento de Radiología de la Clínica Universidad de Navarra.Licenciado en Medicina por la Universidad de Navarra (1990). Especialista en Radiodiagnóstico por el…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/d96bd3ea-125c-4512-a7b5-45d4ecdbbecb.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "aa5ec4b4-95e3-498f-9999-6588ec0f609d",
+      "name": "Dr. Manuel Pérez",
+      "position": "Conferencista Internacional\nArgentina",
+      "bioExcerpt": "Jefe de Sección Investigación No Patrocinada Médico de Planta Neuroimágenes Servicio de Diagnóstico por Imágenes Hospital Italiano, Buenos Aires, Argentina",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/a0cc5c77-da46-4593-8d07-db85550e8bfe.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "6112175b-1271-4764-926f-9b8618c6a666",
+      "name": "Dr. Marcelo Araújo",
+      "position": "Conferencista Internacional\nBrasil",
+      "bioExcerpt": "Radiólogo y médico especialista en medicina nuclear. Director médico de Imagenolo",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/635dcbb5-0c35-47e9-9716-787a402821c9.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "1c571118-3ace-400f-9912-e5d6dbcb2a0c",
+      "name": "Dr. Marcelo Castro",
+      "position": "Director Congreso",
+      "bioExcerpt": "Médico Radiólogo de la Universidad de Chile, jefe del Departamento de Radiología de Clínica INDISA y director del Programa de Formación en Radiología de…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/fb81929e-1965-4dbf-9a54-72d66650b385.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "121272d7-1e30-48fc-a84b-fcaa3261611f",
+      "name": "Dr. Marcelo López",
+      "position": "Conferencista",
+      "bioExcerpt": "Neurorradiólogo. Hospital Clínico Universidad de Chile. Hospital San José. Instituto Nacional del Cáncer.",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/7a99e9b7-1d19-4281-a15e-d9c279604a9e.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "25da1f47-c705-48fa-be00-f796cdbba664",
+      "name": "Dr. Marcelo Strauss",
+      "position": "Conferencista Internacional",
+      "bioExcerpt": "",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/eef9ee67-d61a-458f-aacc-5660bd520524.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "a613dc9a-7a2d-4d1d-ad62-d204c9d08969",
+      "name": "Dr. Marcos Ganga",
+      "position": "Conferencista",
+      "bioExcerpt": "Staff del equipo de columna y Director de programa de formación en columna de la Universidad de Chile.",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/2ff650c5-57ce-4ba9-a21d-8a29938b9ffa.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "0a5d1b39-bac5-42a7-b582-073db13ff7ac",
+      "name": "Dr. Marcos Tapia",
+      "position": "Conferencista",
+      "bioExcerpt": "Médico Cirujano por la Universidad de Chile. Imagenología por la Universidad de Chile. Subespecialidad Radiólogo Intervencionista, Hospital Clínico Universidad de Chile. Jefe Unidad de…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/a189e3be-b429-4997-a84d-6378ad3778dd.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "16c76d8b-c33e-4f8e-bdbc-ec3564f8152f",
+      "name": "Dr. Mario Chirinos",
+      "position": "Conferencista Internacional\nPerú",
+      "bioExcerpt": "Radiólogo del Instituto Nacional de Salud del Niño San Borja, Perú. Miembro del comité directivo y de docencia de la Sociedad latinoamericana de Radiólogía…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/e6b38776-2fa3-4b95-9338-97c8ce968b41.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "93487dbe-2580-447c-831b-9bc4db7181c5",
+      "name": "Dr. Mario Montano",
+      "position": "Conferencista Internacional\nBolivia",
+      "bioExcerpt": "Presidente electo de la Sociedad Latinoamericana de Radiología Pediátrica.",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/fbfd5719-1395-45b6-8199-66807b6ad704.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "0b86004a-13bd-41aa-a159-051f278927de",
+      "name": "Dr. Mario Mora",
+      "position": "Conferencista",
+      "bioExcerpt": "Radiólogo músculo esquelético Staff clínica Alemana de Santiago. Fellow músculo esquelético Universidad del desarrollo-Clínica Alemana. Especialidad Radiología Universidad de Chile. Pregrado Universidad de Concepción.",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/a7e80405-50b9-45c3-b507-e67e75af4217.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "460c08c5-9a0b-4775-8868-0116505b0edb",
+      "name": "Dr. Mario Pelizzari",
+      "position": "Conferencista Internacional\nArgentina",
+      "bioExcerpt": "Instituto Oulton. Jefe de servicio departamento de Imagenología Pediátrica y Materno fetal. Jefe de servicio departamento de Imágenes Dermatológicas y Dermoestéticas. Clínica Universitaria Reina…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/73b466a0-6406-46c0-86e1-a72b1a481e4c.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "f843ce9f-aebc-4c2f-a439-fac8b799e860",
+      "name": "Dr. Michael Gee",
+      "position": "Conferencista Internacional\nUSA",
+      "bioExcerpt": "Subdirector de Radiología, Hospital General de Massachusetts Profesor de Radiología, Facultad de Medicina de Harvard Director de Investigación Integrada en Radiología, Partners HealthCare, Mass…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/f28bc0d6-eead-49df-bec7-a8173ecff89e.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "9b65122d-1a42-47b2-b689-b4e040ed08a3",
+      "name": "Dr. Miguel Ángel Pinochet",
+      "position": "Conferencista",
+      "bioExcerpt": "Profesor Adjunto de Radiología Facultad de Medicina Universidad del Desarrollo Santiago, Chile. Staff Servicio Imágenes Mamarias Clínica Alemana Santiago de Chile. Profesor del Colegio…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/8c614cac-bcf7-4e30-a74a-f7a8e360376d.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "1e4ca4d8-97a1-4c39-9d64-2b11dba419b6",
+      "name": "Dr. Miguel Valdés",
+      "position": "Conferencista",
+      "bioExcerpt": "Fellow en Radiología Músculo-esquelética, Universidad de los Andes/Clínica Santa María. Radiólogo Staff de Clínica Santa María y del Hospital Clínico de la Universidad de…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/e3225ac2-e909-4448-807f-b4bc80465feb.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "d64e8518-40c1-4fc4-b698-183c36d600c2",
+      "name": "Dr. Murilo Bicudo",
+      "position": "Conferencista Internacional\nBrasil",
+      "bioExcerpt": "Radiólogo especialista en cabeza y cuello en DASA São Paulo y Hospital Oncológico ICESP. Doctorado en radiómica por tomografía computarizada aplicada al cáncer de…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/adba8b90-9aee-4a75-82e3-a3e43a522d83.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "028331c6-5434-4b31-a5fe-6548d3112e3a",
+      "name": "Dr. Nicolás Zugbe",
+      "position": "Conferencista",
+      "bioExcerpt": "Médico Cirujano Universidad de Chile Radiología Universidad de los Andes Radiología Intervencionista Universidad de Chile Formé la unidad de radiología intervencionista periférica del Hospital…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/79bde64e-699a-43fe-aff3-bf6974f86473.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "0eed8d2f-d22d-4410-bdc1-e8df648e35d1",
+      "name": "Dr. Oscar Navarro",
+      "position": "Conferencista Internacional\nCanadá",
+      "bioExcerpt": "\"Radiólogo de planta en la División General del Departamento de Diagnóstico por Imagen del Hospital para Niños Enfermos (SickKids) desde 2001. Director del Programa…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/27be4a66-7961-4ce1-8a48-2bb3c318a05e.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "bda09b49-b4e3-475c-b552-f372924bcfab",
+      "name": "Dr. Pablo Gomez",
+      "position": "Conferencista Internacional\nEspaña\nMod. Veterinaria",
+      "bioExcerpt": "MV, PhD, médico veterinario y Doctor de la Universidad de Zaragoza. Su trayectoria combina investigación, docencia y práctica clínica en ecografía, medicina interna, cardiología…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/c9397428-74f8-4407-b667-f5a6e245fe3e.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "6eca824b-d867-4eab-8a88-b2601ea60076",
+      "name": "Dr. Paulo Moraes Agnollito",
+      "position": "Conferencista Internacional\nBrasil",
+      "bioExcerpt": "",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/2a1a0ef9-e3d7-41f1-a5b9-53a2f8bbe833.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "2041523c-fe4b-4d0a-b751-ac3cfb9589c5",
+      "name": "Dr. Pedro Albuquerque",
+      "position": "Conferencista Internacional\nCanadá",
+      "bioExcerpt": "Destacado radiólogo pediatra con más de 25 años de trayectoria internacional. Actualmente ejerce en el prestigioso UH Rainbow Babies & Children's Hospital y como…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/c234d958-f2ab-4b19-ab15-37640ee4c0ff.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "492aa774-880d-4016-be7b-34a6c1d9c88d",
+      "name": "Dr. Pedro Daltro",
+      "position": "Conferencista Internaciona\nBrasil",
+      "bioExcerpt": "Radiólogo, miembro titular del Colegio Brasileño de Radiología. Doctor en Radiología por la UFRJ (Universidad Federal de Río de Janeiro). Director Médico de Clínica…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/581466ff-bc0d-481a-8031-7e24f477c350.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "c6996641-ce5b-4078-b2ef-5e71772b630d",
+      "name": "Dr. Philippe Petit",
+      "position": "Conferencista Internacional\nFrancia",
+      "bioExcerpt": "Especialista en Radiología pediátrica y jefe del servicio de Imagerie Pédiatrique et Prénatale en el Hôpital de la Timone de Marsella (Francia).",
+      "photo": "https://storage.googleapis.com/confapp-assets/neutral-avatar.png",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "e83d91cb-70ec-4421-b1ff-c5603b66e56b",
+      "name": "Dr. Rajesh Krishnamurthy",
+      "position": "Conferencista Internacion\nUSA",
+      "bioExcerpt": "Radiólogo Pediátrico | William E. Shiels II Endowed Chair in Radiology y Director, Pediatric Advanced Imaging Resource (PAIR), Nationwide Children’s Hospital | Professor of…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/28a6938c-6a7f-45cd-ad58-18ac3588cf7f.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "147d4c4e-b982-4a96-ba43-62c54469a065",
+      "name": "Dr. Ranliang Hu",
+      "position": "Conferencista Internacional\nEstados Unidos",
+      "bioExcerpt": "El Dr. Ranliang Hu es profesor asociado de Radiología y Ciencias de la Imagen en la Facultad de Medicina de la Universidad de Emory…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/4cffdfdb-51a4-41c4-a418-bbaf22a774b7.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "aedf375a-3e4b-4e8e-b497-c7d1f19784dc",
+      "name": "Dr. Regis França",
+      "position": "Conferencista Internacional\nBrasil",
+      "bioExcerpt": "Especialista en Radiología e Imagenología Diagnóstica del Colegio Brasileño de Radiología (CBR).",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/180c36dd-415d-4718-8ad4-ab9386167260.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "dc7a85bd-737e-4701-a125-8a5b0251128b",
+      "name": "Dr. Renato Alarcón",
+      "position": "Conferencista",
+      "bioExcerpt": "Radiólogo de Imagenes Toraco-Abdominales en Red de Salud UC CHRISTUS.",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/203b7331-1c33-4fa3-a09e-52063aeed2f3.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "00a04626-423c-4113-9009-f21f99b69ec2",
+      "name": "Dr. René Riquelme",
+      "position": "Conferencista",
+      "bioExcerpt": "",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/9b8e7a0c-0cd2-4dd8-bcc6-9f8255c0c415.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "5b06ffef-15e9-4d72-b42a-fa56d6613b9e",
+      "name": "Dr. Ricardo Faingold",
+      "position": "Conferencista Internacional\nCanadá",
+      "bioExcerpt": "Radiólogo del Departamento de Diagnóstico por Imágenes del Hospital para Niños Enfermos (SickKids)",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/e769159a-d9c9-46e5-9f45-2cc23cec4e93.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "4b697069-0348-4fe8-bf8c-a98c48e6d444",
+      "name": "Dr. Ricardo Pérez",
+      "position": "Conferencista Internacional\nArgentina",
+      "bioExcerpt": "Médico especialista en Radiología Pediatrica. Jefe de Servicio imágenes, Hospital Infantil Municipal. Médico de Planta, Instituto Oulton, Clínica del Sol e Instituto Roentgen. Córdoba,…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/0812ff70-13f5-457e-8d73-ee405de32d82.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "2e95eb8a-55ff-4f40-8a24-71b8cccf5ba8",
+      "name": "Dr. Ricardo Wenger",
+      "position": "Presidente Sochradi",
+      "bioExcerpt": "Medico Radiólogo Universidad de Chile. Especialidad Neurorradiología diagnostica UDD – Clínica Alemana de Santiago. Radiologo Hospital Base Valdivia. Jefe Unidad Imagenologia Clínica Costanera Valdivia.",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/7a2cf5a8-b580-436c-b804-ff39d5d7a4d5.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "c7ab166d-1cee-4596-a47e-6fba32d37ca5",
+      "name": "Dr. Rodrigo Araya",
+      "position": "Conferencista",
+      "bioExcerpt": "Subespecialidad neurorradiología UDD- Clínica Alemana. Neurorradiología Hospital Coquimbo y Red Salud Clínica Elqui y Vitacura. Mentee radiología CyC de ESHNR. Docente radiología UCN-USACH.",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/ba84b644-ee01-4e3e-9a41-03d9e3f44117.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "79acb454-8ac0-4b40-8906-7915a61c175d",
+      "name": "Dr. Rodrigo Herrmann",
+      "position": "Conferencista",
+      "bioExcerpt": "Médico-radiólogo Centro de la Mama Clínica Meds. Médico-radiólogo Célula de Mama Hospital Digital.",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/63ba7bcd-498c-4b67-8f53-1d676f999cf5.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "04bb08f8-9563-43a6-bbb1-b3bb2191f0ec",
+      "name": "Dr. Rolando Cocio",
+      "position": "Conferencista",
+      "bioExcerpt": "Radiólogo Universidad de Chile. Magister en Salud Pública UNAB. Radiólogo Clínica Alemana y Hospital San Juan de Dios. Profesor asistente adjunto Universidad del Desarrollo.",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/9289595b-542e-4be6-902c-2fabbd27ef7b.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "e253f162-4cf2-446a-994f-c3ed0d861702",
+      "name": "Dr. Rubén Silva",
+      "position": "Conferencista",
+      "bioExcerpt": "Medicina, radiología y sub-especialidad de Radiología Musculoesquelética en la Pontificia Universidad Católica. Actualmente trabaja en la Unidad de Radiología Musculoesquelética de Clínica Las Condes,…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/e29429f5-baff-42cd-a97d-67acd98c6d3a.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "b1a14564-ff55-4aa0-9154-ddb646ace67d",
+      "name": "Dr. Samuel Espinoza",
+      "position": "Conferencista Internacional\nMéxico",
+      "bioExcerpt": "Profesor de la Especialidad de Radiología e Imagen y del área de imagen en el programa de Subespecialidad de Neonatología y Cirugía Pediátrica del…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/0413be70-adb5-4464-8c83-35d72fcc64f0.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "0f3ec829-c379-421a-9e1f-d5f0cbd4f276",
+      "name": "Dr. Sebastián Aguirre",
+      "position": "Conferencista",
+      "bioExcerpt": "Médico cirujano Universidad de Chile Médico radiólogo de Universidad Andrés Bello Radiólogo unidad de cuerpo clínica INDISA Miembro comité académico programa formación especialista Radiología…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/9bd58e14-e2cc-4965-8cf8-3dc995d1842b.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "485ed947-09ab-4d95-94fc-6ed4767ac116",
+      "name": "Dr. Sebastián Bravo",
+      "position": "Conferencista",
+      "bioExcerpt": "Radiólogo Neurorradiólogo. Magíster en Epidemiología. Instructor Adjunto Depto. de Radiología, Pontificia Universidad Católica de Chile.",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/694ffda4-a24f-48c3-8ba3-2d98b5d5efc7.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "d4210122-4eb7-4db6-a3f8-cb7e2054b5ac",
+      "name": "Dr. Sergio Correa",
+      "position": "Conferencista",
+      "bioExcerpt": "",
+      "photo": "https://storage.googleapis.com/confapp-assets/neutral-avatar.png",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "625541d4-e416-4b8f-b065-0209abf8212c",
+      "name": "Dr. Telmo Fernandes",
+      "position": "Conferencista Internacional\nPortugal\nMod. Veterinaria",
+      "bioExcerpt": "Médico Veterinario, Universidad Vasco da Gama, Portugal. Fundador de INSIDEVET y cofundador del Centro de Imagenología y Cardiologia Veterinaria do Porto. Más de 15…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/53c29493-4f7f-440f-927f-d94fe6feba2c.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "70ef13a4-7b42-49bd-a0f4-2c232b63262a",
+      "name": "Dr. Thorsten Bley",
+      "position": "Conferencista Internacional Alemania",
+      "bioExcerpt": "Radiólogo – Alemania",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/7a130523-62e8-46d4-98c2-7afeea8e2897.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "4df54411-8d8f-4651-88fd-b3c119ae8c09",
+      "name": "Dr. Tomás Cermenati",
+      "position": "Conferencista",
+      "bioExcerpt": "Médico Cirujano Universidad de Chile Radiología Hospital Clínico Universidad de Chile. Subespecialidad de Radiología intervencionista Hospital Clínico Universidad de Chile Radiólogo profesor adjunto Hospital…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/1ab334b3-7d0d-419d-ae8a-2ac23f33ecd8.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "cbd5d7ab-ac3d-4fae-a122-90fcd5df185a",
+      "name": "Dr. Victor Ho Fung",
+      "position": "Conferencista Internacional\nUSA",
+      "bioExcerpt": "Director asociado de traumatología del Servicio de Radiología - Traumatología y radiólogo adjunto en el Departamento de Radiología del Hospital Infantil de Filadelfia, además…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/31ef5ea0-3072-4067-8e8f-c607f80b0388.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "8b1b3c64-728f-4993-82d1-5460d636e01e",
+      "name": "Dr. Walter Ziegler",
+      "position": "Conferencista",
+      "bioExcerpt": "",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/de4d6cfd-dcd0-4158-83e9-13202b1ebb1f.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "7dc20615-797f-4840-b684-46f3ecb64451",
+      "name": "Dr. Ximena Stecher",
+      "position": "Conferencista",
+      "bioExcerpt": "Universidad Católica de Chile, Neurorradiología: UDD Neurorradiología infantil: Stanford, California, EEUU Clínica Alemana de Santiago. Hospital Padre Hurtado. Hospital Barros Luco Trudeau",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/723e1c08-a635-4959-b1e8-f80bd6ad1cec.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "5d7681cf-17bf-4403-9f42-fa69c814f2a8",
+      "name": "Enf Camila Rivera",
+      "position": "Conferencista",
+      "bioExcerpt": "Salud UC CHRISTUS",
+      "photo": "https://storage.googleapis.com/confapp-assets/neutral-avatar.png",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "08c5e151-6b84-4f9a-b5fb-94e96e3c5940",
+      "name": "Enf. Fernanda Sandoval",
+      "position": "Conferencista",
+      "bioExcerpt": "",
+      "photo": "https://storage.googleapis.com/confapp-assets/neutral-avatar.png",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "c3f92854-2a6b-49fb-a0cf-f2bdb95b4f82",
+      "name": "Enf. Heidi Wundderlich",
+      "position": "Conferencista",
+      "bioExcerpt": "Enfermera del Hospital Puerto Montt",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/28d478bd-89b0-4439-8a15-9da15ce52965.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "901d92fa-db9a-48b0-bbf0-9a22b74aa635",
+      "name": "Enf. Laura Galaz",
+      "position": "Conferencista",
+      "bioExcerpt": "Enfermera Angiografía Hospital Urgencia Asistencia Pública (HUAP)",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/746b3fb6-f17f-4a70-b009-7f696dd030b8.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "c2e1ec56-cb59-41ab-a157-ce0b0b14cfc9",
+      "name": "Enf. Mónica González",
+      "position": "Conferencista\nModulo enfermería",
+      "bioExcerpt": "",
+      "photo": "https://storage.googleapis.com/confapp-assets/neutral-avatar.png",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "74f7fec9-6ef1-4906-8ebc-e9db99c563d9",
+      "name": "Enf. Natalia Pincheira",
+      "position": "Conferencista",
+      "bioExcerpt": "Enfermera servicio de imagenología de Hospital El Calmen, Dr. Luis Valentín Ferrada",
+      "photo": "https://storage.googleapis.com/confapp-assets/neutral-avatar.png",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "9378f692-9590-420f-b989-2d0e0f072dd8",
+      "name": "Enf Rocío Contreras",
+      "position": "Conferencista",
+      "bioExcerpt": "Salud UC CHRISTUS",
+      "photo": "https://storage.googleapis.com/confapp-assets/neutral-avatar.png",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "13b4020c-0949-476c-9cb7-a895c6e3026f",
+      "name": "Enf. Sofia Infante",
+      "position": "Conferencista",
+      "bioExcerpt": "Enfermera Angiografía Hospital Urgencia Asistencia Pública (HUAP)",
+      "photo": "https://storage.googleapis.com/confapp-assets/neutral-avatar.png",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "27a22100-cc95-4146-a53a-fc2b3767cf05",
+      "name": "Erick Marchant",
+      "position": "Conferencista",
+      "bioExcerpt": "Ingeniero Civil Biomédico, U. de Valparaíso. Magister (C) Gestión y Políticas Públicas, Universidad de Chile. Diplomado en Arquitectura Hospitalaria, Universidad de Chile. Especialista en…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/d5857fbb-9489-487a-9b15-2474082e52d0.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "6d8ef157-efb4-4a51-b4dc-0ff96686f2ac",
+      "name": "Ing. Geimar Bermeo",
+      "position": "",
+      "bioExcerpt": "Ingeniero biomédico de Colombia. Product Manager de CT (Tomografía Computarizada) en Siemens Healthineers.",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/cdb19617-95d6-49de-b1b6-a076adea80fa.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "38d4b762-56c2-47cf-8b11-e58295077f2c",
+      "name": "Juan Guevara",
+      "position": "Conferencista",
+      "bioExcerpt": "Lider de Diagnóstico por Imágenes de Philips Chile",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/f2ba6496-1709-48cc-b42b-258bc232234a.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "e345d8f1-a921-468e-98ae-c173d4d5df70",
+      "name": "Klgo. Ignacio Villagrán Gutiérrez",
+      "position": "Conferencista",
+      "bioExcerpt": "Kinesiólogo, Magíster en Innovación, Doctor en Ciencias de la Ingeniería Profesor del área musculoesquelética e investigador en el área de innovación y tecnologías en…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/033c277a-fcf8-4654-b44c-702925cb0fa1.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "61341efa-1b54-42e4-a664-622d1108d341",
+      "name": "TM.  Andrés Cabezas",
+      "position": "Conferencista Curso TM",
+      "bioExcerpt": "\"Andrés Cabezas Cabrera es Tecnólogo Médico en Imagenología, Licenciado en Física Médica, doble magíster en educación y Doctor en Educación. Ha desarrollado una trayectoria…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/0902dba7-0ec7-4ac8-b024-c7c052fb98ac.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "848aaeea-f7ba-4cfb-8a21-70ae9863600e",
+      "name": "TM.  Andrés Oval",
+      "position": "Conferencista",
+      "bioExcerpt": "Tecnólogo Médico y profesional del Servicio de Salud Magallanes, con experiencia en gestión asistencial, proyectos estratégicos e innovación en salud. Su trabajo se ha…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/bc768a33-f74a-444b-af9d-b40fb9ac0846.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "88f4e265-4164-4bab-b52b-a4d1b9853ef9",
+      "name": "TM. Cristián Olivares",
+      "position": "Conferencista Curso TM",
+      "bioExcerpt": "Tecnólogo Médico Resonancia Magnética. Docente de pregrado, Universidad Diego Portales",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/68e2871b-854e-4cd9-9a79-944848691e1e.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "08acb5c4-db73-4f72-a807-a77bfa139255",
+      "name": "TM.  Daniel Olave",
+      "position": "Conferencista Curso TM",
+      "bioExcerpt": "Tecnólogo Médico mención Radiología y Física Médica con Magíster en Docencia para la Ed. Superior, egresado el año 2017 de la U. Diego Portales…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/73fd9fe2-86ae-4dd6-9ed9-1e1391789781.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "bc7800a3-869f-499f-9a72-363a829a7764",
+      "name": "TM.  Daniel Pizarro",
+      "position": "Conferencista Curso TM",
+      "bioExcerpt": "Doctorando en Enseñanza y Aprendizaje para la Educación Superior. Magister en Educación Superior e Investigación Aplicada. Diplomados de Docencia Universitaria; Tomografía computada; resonancia magnética;…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/b964bf13-5a10-4557-9e4b-53c8af8afe9c.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "f4874112-236c-4e32-a1de-809329531f54",
+      "name": "TM.  David Puyo",
+      "position": "Conferencista Curso TM",
+      "bioExcerpt": "Tecnólogo Médico, Jefe del Servicio de Imagenología del Hospital de Talagante, con más de 14 años de experiencia y Diplomado en Tomografía Computada. Magíster…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/2e3a82c4-1368-452b-95df-ec2621a81a4f.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "ca3abc81-9c24-49c0-b20c-bd55f05f70c5",
+      "name": "TM Fabián Sepúlveda Muñoz",
+      "position": "Conferencista Curso TM",
+      "bioExcerpt": "Tecnólogo Médico en Imagenología y Física Médica por la Universidad Santo Tomás. Actualmente se desempeña como Tecnólogo Médico Coordinador en el Hospital San Juan…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/f5519a25-e04e-4a05-a7ca-7ed309a89886.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "06a881fa-8806-42c8-9166-3bba53c016fd",
+      "name": "TM. Gabriel Gómez",
+      "position": "Conferencista Curso TM",
+      "bioExcerpt": "Tecnólogo Médico con experiencia en los ámbitos clínico y docente. Se desempeña como académico en la Universidad de Chile y en la Universidad Diego…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/549f6873-da39-4d0c-a82b-e6f8dbc3828e.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "d804be48-fe6d-4f9d-a91b-25021d860454",
+      "name": "TM Ignacio Silva Tobar",
+      "position": "Conferencista",
+      "bioExcerpt": "Tecnólogo Médico Tomografía Computada en Clínica Alemana de Santiago",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/54cf2059-df7d-4118-8550-5f96fbb2da7d.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "1fd910a9-111a-454c-9e34-e9f6d28b76ee",
+      "name": "TM.  Jacqueline Osorio",
+      "position": "Conferencista Curso TM",
+      "bioExcerpt": "Tecnólogo Médico y docente, con experiencia clínica y formativa en el área de la imagenología, especialmente en imágenes mamarias y ecografía.",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/aea36445-0c6a-448b-82fb-08d92b0ee3a9.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "3f3bf0bb-5018-48ff-886b-25a4c9524dc2",
+      "name": "TM. Karinna Araya",
+      "position": "Conferencista Curso TM",
+      "bioExcerpt": "Tecnólogo médico en imagenología y física médica en Hospital San José",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/44c80d06-380c-4d4d-bcca-edc34ce38c41.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "b5c63b61-e244-4a53-8096-6d92f2424c61",
+      "name": "TM.  Lorena Jara",
+      "position": "Conferencista Curso TM",
+      "bioExcerpt": "Tecnólogo Médico con especialidad en imagenología y física médica – Universidad Andrés bello, Diplomado en Tomografía Computada- Universidad de chile-Diplomado en Docencia Universitaria -…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/36740cf9-8dec-44bc-bda2-a5839c80e45c.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "41f780f5-7ced-467d-b3dc-502618e90db5",
+      "name": "TM.  María José Prokes",
+      "position": "Conferencista Curso TM",
+      "bioExcerpt": "Docente de Radiodiagnóstico I y II de la UNAB - UDP.",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/3bd193de-0ac0-4954-8361-ec9b20f263a8.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "b1b537af-3d28-4d76-af80-e2dfae0777d7",
+      "name": "TM Mauricio Farías",
+      "position": "Conferencista",
+      "bioExcerpt": "",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/45d59c6c-a284-4023-8da9-1197f5249024.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "2ab478da-23d3-4542-a320-3902840d0f83",
+      "name": "TM Nathalia Sepúlveda Podestá",
+      "position": "Conferencista Curso TM",
+      "bioExcerpt": "Tecnóloga Médica con mención en imagenología egresada de la Universidad de Chile el año 2018. Con diplomas en Física médica, Docencia e Informática Médica.…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/ec67d521-7448-41a7-9cf9-c1af45679e04.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "e5db93b5-7c3e-4dfc-b693-d1c96a44dba6",
+      "name": "TM.  Nathaly Marchant",
+      "position": "Conferencista Curso TM",
+      "bioExcerpt": "Tecnólogo Médico en Imagenología y Física Médica",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/fac27274-b8d8-4058-87fb-0012d911e116.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "c5755269-7e46-4944-978c-1e4c08fe8edc",
+      "name": "TM.  Renato Pizarro",
+      "position": "Conferencista Curso TM",
+      "bioExcerpt": "Académico universitario de pregrado y postgrado en Tecnología Médica con sólida trayectoria en la formación académica y clínica en las áreas Resonancia Magnética y…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/d2f44487-82c6-41f8-9170-ed021a16812f.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "616d7881-2272-4f38-bf6e-47d2dd5c52fc",
+      "name": "TM.  Sandra Araya Leal",
+      "position": "Conferencista Curso TM",
+      "bioExcerpt": "Profesora Asistente de la Facultad de Medicina de la Universidad de Chile, Tecnóloga Médica en Radiología y Física Médica; y Magíster en Educación Universitaria.…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/b8195bb5-a76f-451c-84e7-803af32d593b.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "e740a0b4-2d41-4256-bd19-0d97d3a279f0",
+      "name": "TM. Sofia Chavez",
+      "position": "Conferencista Curso TM",
+      "bioExcerpt": "",
+      "photo": "https://storage.googleapis.com/confapp-assets/neutral-avatar.png",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "75827e9c-f5e0-423d-93ba-b50f7e0e6938",
+      "name": "TM. Susana Burgos",
+      "position": "Conferencista Curso TM",
+      "bioExcerpt": "Jefa gestión técnica y administrativa del Servicio de Imagenología del Hospital San Carlos, Hospital Benicio Arzola.",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/8ca7de14-2ec1-4281-859a-1048352b6884.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    },
+    {
+      "id": "dfabc01e-a756-432a-959c-40f0562ed676",
+      "name": "Ughette De Girolamo",
+      "position": "",
+      "bioExcerpt": "Doctor en Historia del Arte, con amplia experiencia en Docencia. Ha orientado su labor a la enseñanza y a la difusión de la Historia…",
+      "photo": "https://storage.googleapis.com/confapp-assets/uploads/11a4b3c4-ef1b-4a3a-b4f0-e5af7cbab0e8.webp",
+      "source": "https://events.conf.app/event/7431e40b-9663-4424-8112-fa0c3c1e6f20/speakers"
+    }
+  ]
+}

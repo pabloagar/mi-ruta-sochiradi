@@ -147,5 +147,109 @@
   {
     "page": 50,
     "reason": "Se separaron los bloques publicados: Curso TM · Imagenología Mamaria. Actualización, certeza diagnóstica y contraste. / Curso TM · Radiología diagnóstica e intraoperatoria."
+  },
+  {
+    "id": "e61",
+    "page": 20,
+    "before": {
+      "title": "Orquestación de IA: Transformando el diagnóstico por imagen, Idionia. Alberto Alonso",
+      "speaker": null
+    },
+    "after": {
+      "title": "Orquestación de IA: Transformando el diagnóstico por imagen, Idionia.",
+      "speaker": "Alberto Alonso"
+    },
+    "reason": "Se separa el participante del título tras revisión visual de la página 20 del PDF; se conserva el texto original."
+  },
+  {
+    "id": "e321",
+    "page": 47,
+    "before": {
+      "title": "La calidad y seguridad de la atención imagenológica con enfoque en acreditación institucional del HGGB. Fernanda Sandoval",
+      "speaker": null
+    },
+    "after": {
+      "title": "La calidad y seguridad de la atención imagenológica con enfoque en acreditación institucional del HGGB.",
+      "speaker": "Fernanda Sandoval"
+    },
+    "reason": "Se separa el participante del título tras revisión visual de la página 47 del PDF; se conserva el texto original."
+  },
+  {
+    "id": "e339",
+    "page": 47,
+    "before": {
+      "title": "Marcación preoperatoria de nódulos pulmonares guiada por TAC en Hospital de Puerto Montt. Heidi Wundderlich",
+      "speaker": null
+    },
+    "after": {
+      "title": "Marcación preoperatoria de nódulos pulmonares guiada por TAC en Hospital de Puerto Montt.",
+      "speaker": "Heidi Wundderlich"
+    },
+    "reason": "Se separa el participante del título tras revisión visual de la página 47 del PDF; se conserva el texto original."
+  },
+  {
+    "id": "e356",
+    "page": 47,
+    "before": {
+      "title": "Extravasación de medio de contraste endovenoso en TAC y su correlación con variables clínicas y técnicas de accesos vasculares. Natalia Pincheira",
+      "speaker": null
+    },
+    "after": {
+      "title": "Extravasación de medio de contraste endovenoso en TAC y su correlación con variables clínicas y técnicas de accesos vasculares.",
+      "speaker": "Natalia Pincheira"
+    },
+    "reason": "Se separa el participante del título tras revisión visual de la página 47 del PDF; se conserva el texto original."
+  },
+  {
+    "id": "e315",
+    "page": 47,
+    "before": {
+      "title": "Modelo de gestión del pabellón de angiografía: Profesionalizando el cuidado. Mónica González y Sofía Infante",
+      "speaker": null
+    },
+    "after": {
+      "title": "Modelo de gestión del pabellón de angiografía: Profesionalizando el cuidado.",
+      "speaker": "Mónica González y Sofía Infante"
+    },
+    "reason": "Se separa el participante del título tras revisión visual de la página 47 del PDF; se conserva el texto original."
+  },
+  {
+    "id": "e141",
+    "page": 21,
+    "before": {
+      "title": "Compras públicas y adquisición de equipos radiológicos: Experiencia desde el Ministerio. Erick Marchant",
+      "speaker": null
+    },
+    "after": {
+      "title": "Compras públicas y adquisición de equipos radiológicos: Experiencia desde el Ministerio.",
+      "speaker": "Erick Marchant"
+    },
+    "reason": "Se separa el participante del título tras revisión visual de la página 21 del PDF; se conserva el texto original."
+  },
+  {
+    "id": "e147",
+    "page": 21,
+    "before": {
+      "title": "Perspectiva institucional: rol de DIGERA en el registro y distribución de equipos. Mauricio Farías",
+      "speaker": null
+    },
+    "after": {
+      "title": "Perspectiva institucional: rol de DIGERA en el registro y distribución de equipos.",
+      "speaker": "Mauricio Farías"
+    },
+    "reason": "Se separa el participante del título tras revisión visual de la página 21 del PDF; se conserva el texto original."
+  },
+  {
+    "id": "e92",
+    "page": 28,
+    "before": {
+      "title": "Simposio Philips Imágenes Veterinarias por resonancia magnética de alto campo. Juan Guevara, Líder de Diagnóstico por Imágenes de Philips Chile",
+      "speaker": null
+    },
+    "after": {
+      "title": "Simposio Philips Imágenes Veterinarias por resonancia magnética de alto campo.",
+      "speaker": "Juan Guevara"
+    },
+    "reason": "Se separa el participante del título tras revisión visual de la página 28 del PDF; se conserva el texto original."
   }
 ]

@@ -10,6 +10,13 @@ Instrucciones persistentes para Codex para desarrollar una agenda móvil/PWA del
 - Primera versión sin cuentas ni servidor de usuarios: agenda estática versionada y ruta guardada en el dispositivo. No añadir pagos, chat, recomendaciones por IA ni notificaciones push al alcance inicial.
 - No presentar el proyecto como aplicación oficial de SOCHRADI sin confirmación de esa condición.
 
+## Ajustes de uso móvil vigentes
+
+- Por horario es una lista por hora real de inicio, con ponentes visibles. La grilla queda como Tabla en pantallas anchas. Cabecera compacta en Programa y Mi Ruta.
+- Sin círculo ni guion cuando falta nivel; explicarlo en el detalle. Pausas compactas y Pausa café como traducción visual, sin alterar texto original.
+- Ahora fuera de horario muestra Lo próximo, la siguiente elección personal y fin del congreso cuando corresponda. Avisar al crear conflictos sin borrar elecciones.
+- Las fichas de ponentes usan coincidencia de nombre completo normalizado y fuente pública de Conf.app; no asociar identidades por parecido. Fotos externas requieren conexión.
+
 ## Dirección visual vigente
 
 - Aplicar la dirección Tablero del ZIP aportado: consultar docs/design-tablero.md. Los datos de ejemplo y el plano ficticio no son fuentes del programa. Conservar la jerarquía de reglas, sus exclusiones y la trazabilidad.

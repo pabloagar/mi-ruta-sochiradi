@@ -3,12 +3,12 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "description": "Continuación de CChR_2026_ruta_robusta.html como PWA sin dependencias de ejecución",
+  "description": "ContinuaciÃ³n de CChR_2026_ruta_robusta.html como PWA sin dependencias de ejecuciÃ³n",
   "scripts": {
     "dev": "node scripts/serve.mjs",
-    "test": "node --test tests/domain.test.mjs tests/timeline.test.mjs",
+    "test": "node --test tests/domain.test.mjs tests/timeline.test.mjs tests/experience.test.mjs",
     "validate": "node scripts/validate.mjs",
-    "check": "node --check dist/app.js && node --check dist/domain.js && node --check dist/sw.js && node --check dist/timeline.js",
+    "check": "node --check dist/app.js && node --check dist/domain.js && node --check dist/sw.js && node --check dist/timeline.js && node --check dist/experience.js",
     "build": "node scripts/validate.mjs"
   }
 }

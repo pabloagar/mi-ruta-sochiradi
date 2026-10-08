@@ -23,3 +23,10 @@
 - Se probó un ciclo real de service worker desde el código v1 al nuevo Tablero en un origen local estable: aviso de actualización, activación voluntaria, ruta conservada, caché vieja eliminada y recarga offline correcta.
 - Pruebas nuevas: unión de intervalos, opciones que caben en un hueco, ausencia de promesas de tiempo libre con horarios desconocidos, exclusión solo de solapamientos directos y grilla de duraciones variables.
 
+
+
+## Actualización compacta
+
+23 pruebas de dominio aprobadas. Prueba de navegador en Edge Chromium con viewport móvil y zona Asia/Tokyo: primera actividad comienza antes de 300 px (aprox. 220 px a 375 de ancho), lista por hora, ausencia de guiones de nivel, Pausa café, aviso inmediato al crear conflicto, perfil de Taouli con foto pública y sus ocho actividades (incluidas sesiones compartidas), Salón 4 viernes/sábado, Lo próximo a las 22:28, final de congreso, En curso y minutos restantes. Tres pestañas comprobadas a 320/375/390/430/1024 px y con texto 200%, sin desbordamiento de página. Ruta conservada tras recarga offline. Safari/iPhone real sigue pendiente.
+
+Fuente de perfiles: página de conferencistas enlazada por congresochilenoradiologia.cl/programa/, consultada 8 de octubre; 218 perfiles públicos, correspondencia exacta de nombre normalizado, sin importar horarios de Conf.app ni reemplazar el PDF. Descripciones como extractos de hasta 24 palabras, enlace a ficha completa; no se inventan bios ausentes.

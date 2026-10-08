@@ -6,7 +6,7 @@ Agenda PWA en español que continúa el HTML aportado por el usuario. Ahora, Pro
 
 Requiere Node.js moderno. Sin dependencias de ejecución ni instalación: `npm run dev`. Abrir http://127.0.0.1:4173. No abrir index.html directamente como archivo: módulos y PWA requieren un servidor.
 
-`npm test` ejecuta 18 pruebas de dominio. `npm run check` revisa sintaxis JavaScript. `npm run validate` verifica datos y archivos necesarios. `npm run build` valida la distribución estática existente en dist; no transpila.
+`npm test` ejecuta 23 pruebas de dominio. `npm run check` revisa sintaxis JavaScript. `npm run validate` verifica datos y archivos necesarios. `npm run build` valida la distribución estática existente en dist; no transpila.
 
 ## Fuentes
 
@@ -38,3 +38,8 @@ En cada cambio de distribución, incrementar VERSION en dist/sw.js. La nueva cac
 
 Ver `docs/verification.md` para pruebas ejecutadas y pendientes. La emulación no sustituye la comprobación en Safari/iPhone y Chrome/Android físicos.
 
+
+
+## Actualización compacta
+
+Por horario ahora muestra una lista móvil; Tabla queda para escritorio. Ahora presenta Lo próximo fuera de horario. Las fichas de conferencistas incluyen otras actividades del programa y, con nombre completo coincidente, foto y extracto breve de su descripción pública en Conf.app. speakers.json conserva procedencia y fecha de consulta. Las fotos se cargan desde su URL original y requieren conexión; la agenda y textos funcionan offline. Ocho participantes se separaron de títulos tras revisión visual del PDF; scripts/refine-participants.mjs reproduce las correcciones y es invocado al final de reconcile.mjs.
