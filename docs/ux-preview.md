@@ -81,3 +81,7 @@ No publicar esta revisión sin una nueva instrucción del usuario.
 ## Autorización posterior de publicación
 
 El usuario aprobó aplicar todos los cambios y solicitó el nombre Mi ruta Sochiradi, junto con acceso Mapa en el encabezado. Se prepara la publicación de esta revisión con los dos planos originales, manteniendo el checkpoint v8 y el aviso de app no oficial. La restricción anterior de vista previa correspondía a la fase de revisión y queda sustituida por esta autorización.
+
+## Ajuste posterior: Por salón y leyenda visible
+
+Por petición del usuario, entrar en Programa vuelve a abrir Por salón; si se estaba en otra vista se vuelve al comienzo. Atrás conserva su recuperación de contexto. La preferencia anterior de vista deja de aplicarse, sin tocar el almacenamiento de la ruta. Ahora muestra una leyenda compacta: 1 Básico, 2 Intermedio, 3 Avanzado y sin número: nivel no informado o no aplicable. Las definiciones proceden de la fuente oficial ya enlazada en información.
