@@ -12,7 +12,7 @@ Etiqueta Git `checkpoint-antes-ux-v8` y archivo independiente `Checkpoint_Congre
 - Buscar desde cualquier sección lleva al programa. La sala que se estaba explorando no limita una búsqueda: el filtro explícito de sala es independiente. El ámbito indica el día o todo el congreso. Se muestran resultados globales, filtros activos y acción de limpieza.
 - Mi Ruta conserva su cálculo de conflictos y huecos, pero representa los huecos como filas, sin escala proporcional. Continúan disponibles opciones para cada intervalo, selección, Quedarme, deshacer y restablecimiento confirmado.
 - Programa abre inicialmente Por horario. La preferencia se recuerda en una clave separada; al cambiar entre secciones se conservan vista, filtros, salón, bloques abiertos y posición. La tabla de escritorio se sustituye por la lista cuando la ventana pasa a móvil.
-- El reloj muestra la hora real de Santiago. La consulta temporal tiene una banda explícita que permanece al cambiar de sección, con Volver al presente.
+- El encabezado compacto muestra Mi Ruta CChR, sin reloj ni fecha redundantes. El cálculo de Ahora sigue usando la hora real de Santiago. La consulta temporal tiene una banda explícita que permanece al cambiar de sección, con Volver al presente.
 - Títulos y ponentes ya no se recortan. Las filas se ajustan al texto; el intervalo individual es visible. A 320 px se redistribuye la sala sobre el título para disponer de más anchura.
 - Se añadieron historial interno, regreso desde ficha y perfiles, cierre con Escape, devolución de foco, asociación del diálogo con su título y foco visible. La selección sigue teniendo área táctil de 44 × 44 px.
 - Las acciones colectivas expresan cuántas actividades abarcan. Las excepciones individuales se conservan.

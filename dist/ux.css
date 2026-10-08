@@ -17,3 +17,6 @@ dialog{max-width:min(700px,calc(100% - 20px));max-height:90dvh;padding:16px}dial
 @media(max-width:359px){.dense-talk.with-location{grid-template-columns:minmax(0,1fr) 20px 44px}.with-location .dense-room{grid-column:1/-1;flex-direction:row;flex-wrap:wrap;align-items:baseline;gap:5px}.with-location .dense-room small:before{content:'· '}.dense-talk.with-location .dense-text{grid-column:1}.block-rows .salon-talk{grid-template-columns:minmax(0,1fr) 20px 44px}.salon-talk .salon-time{grid-column:1/-1;display:flex;gap:8px;align-items:baseline}.salon-talk .dense-text{grid-column:1}}
 
 .bottomnav button[data-tab=now]{flex:1}.bottomnav button[data-tab=program]{flex:1.35}.bottomnav button[data-tab=route]{flex:1.15}
+
+/* Compact app identity replaces the redundant device clock. */
+body .topbar,body:not([data-view=now]) .topbar{min-height:48px;padding:0 12px;border-bottom-width:2px;gap:4px}.topbar #appName{font:600 1rem/1.25 Barlow,sans-serif;color:#fff;letter-spacing:0}.topbar .live-brand{min-width:0}.topbar .iconbtn{height:44px;min-height:44px}.topbar{--header-height:48px}
