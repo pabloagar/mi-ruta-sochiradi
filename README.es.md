@@ -6,11 +6,16 @@
 
 Agenda y mapa no oficiales del Congreso Chileno de Radiología 2026. Aplicación web pensada para explorar las actividades desde el teléfono, elegir qué ver y detectar superposiciones de horario.
 
-[Abrir la aplicación](https://mi-ruta-sochiradi.pablo-aguirre-araya.workers.dev/) · [Ver el repositorio](https://github.com/pabloagar/mi-ruta-sochiradi)
+[Abrir la aplicación](https://mi-ruta-sochiradi.pablo-aguirre-araya.workers.dev/)
 
-<img src="assets/mobile.png" alt="Programa de Mi ruta SOCHIRADI en una pantalla móvil" width="320">
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/screenshots/programa-mobile.webp">
+  <img src="assets/screenshots/programa-desktop.webp" alt="Programa de Mi ruta SOCHIRADI por salón, con horarios, selección de actividades y navegación" width="100%">
+</picture>
 
-*Captura del navegador a tamaño móvil; no sustituye una prueba en un teléfono físico.*
+App publicada, 22 de octubre de 2026. Vista Programa abierta con la navegación normal; sin alterar el reloj ni los datos de la agenda. [Móvil (390 × 844, escala 2)](assets/screenshots/programa-mobile.webp) · [Procedencia de las capturas](assets/screenshots/README.md).
+
+**Estado:** app independiente publicada; congreso finalizado. Las capturas muestran consulta del programa, no un evento en curso.
 
 ## El problema
 
@@ -36,7 +41,13 @@ Cloudflare Web Analytics mostró los siguientes valores para el **9 y 10 de octu
 | País registrado | 100 % Chile |
 | Día de mayor actividad de los dos medidos | 9 de octubre: 100 visitas y 800 páginas vistas |
 
-Los valores históricos pueden estar sujetos a muestreo. Las visitas no equivalen a personas únicas, y las páginas vistas incluyen cambios de vista dentro de la app. Estas cifras muestran actividad registrada durante el evento; no permiten calcular cuántos asistentes distintos la utilizaron ni cuánto tiempo ahorraron. [Metodología de Cloudflare](https://developers.cloudflare.com/web-analytics/faq/).
+undefined Las visitas no equivalen a personas únicas, y las páginas vistas incluyen cambios de vista dentro de la app. Estas cifras muestran actividad registrada durante el evento; no permiten calcular cuántos asistentes distintos la utilizaron ni cuánto tiempo ahorraron. [Metodología de Cloudflare](https://developers.cloudflare.com/web-analytics/faq/).
+
+## Evidencia inspeccionable
+
+- [Auditoría del programa](docs/data-audit.md): cobertura, fuentes y discrepancias.
+- [Verificación de la aplicación](docs/verification.md): comprobaciones documentadas y limitaciones.
+- [Capturas reales y parámetros](assets/screenshots/README.md): sesión nueva, sin rutas personales preexistentes.
 
 ## Mi aporte
 
