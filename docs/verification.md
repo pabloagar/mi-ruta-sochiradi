@@ -25,6 +25,17 @@
 
 
 
+## Preview aislada de Cloudflare — 22 de octubre de 2026
+
+- Build de preview `84512c52-25b0-4512-8d8b-326a0e90577e` aprobado para el commit `88179f9`, mediante Wrangler 4.152.0.
+- URL comprobada en Chrome de escritorio: https://docs-portfolio-refresh-2026-10-mi-ruta-sochiradi.pablo-aguirre-araya.workers.dev/
+- El programa carga. Se agregaron las cuatro actividades del módulo Hands-On, se comprobó que Mi Ruta conserva las cuatro al recargar y se retiró la selección de prueba por los controles normales.
+- La sección Mapa abre su contenedor; esta comprobación no certifica toda la interacción del mapa ni repite una validación clínica o de datos del congreso.
+- El validador local confirmó 387 actividades, 67 bloques y 412 filas de fuente vinculadas. Las 33 pruebas y siete comprobaciones de sintaxis ya estaban aprobadas; no se cambió el código funcional.
+- La rama `main` conserva `fc88ac11a43d698343fcbfa6fa58347317742723`. Las huellas SHA-256 del HTML, app.js, agenda.json, styles.css y sw.js publicados en producción coinciden antes y después.
+- Se mantuvo el comando de producción y la fecha de compatibilidad 2026-10-09. La configuración Wrangler autodetectable existe solo en esta rama de revisión, sin fusionar a main. Ver [configuración de previews](preview-configuration.md).
+- No se realizaron pruebas en teléfonos físicos ni una prueba offline del origen de preview durante esta comprobación.
+
 ## Actualización compacta
 
 23 pruebas de dominio aprobadas. Prueba de navegador en Edge Chromium con viewport móvil y zona Asia/Tokyo: primera actividad comienza antes de 300 px (aprox. 220 px a 375 de ancho), lista por hora, ausencia de guiones de nivel, Pausa café, aviso inmediato al crear conflicto, perfil de Taouli con foto pública y sus ocho actividades (incluidas sesiones compartidas), Salón 4 viernes/sábado, Lo próximo a las 22:28, final de congreso, En curso y minutos restantes. Tres pestañas comprobadas a 320/375/390/430/1024 px y con texto 200%, sin desbordamiento de página. Ruta conservada tras recarga offline. Safari/iPhone real sigue pendiente.
