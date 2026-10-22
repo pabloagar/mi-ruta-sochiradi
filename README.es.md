@@ -1,60 +1,44 @@
 # Mi ruta SOCHIRADI
 
-[English](README.md) · **Español**
+[Read in English](README.md) · **Español**
 
-**Tu programa del congreso, convertido en una ruta personal.**
+**Del programa del congreso a un itinerario personal.**
 
-Agenda y mapa no oficiales del Congreso Chileno de Radiología 2026. Aplicación web pensada para explorar las actividades desde el teléfono, elegir qué ver y detectar superposiciones de horario.
+Agenda móvil no oficial para el Congreso Chileno de Radiología 2026: comparar sesiones simultáneas, elegir actividades y reconocer conflictos de horario desde el teléfono.
 
-[Abrir la aplicación](https://mi-ruta-sochiradi.pablo-aguirre-araya.workers.dev/) · [Ver el repositorio](https://github.com/pabloagar/mi-ruta-sochiradi)
+[Explorar el programa](https://mi-ruta-sochiradi.pablo-aguirre-araya.workers.dev/) · [Fuentes y auditoría de datos](docs/data-audit.md)
 
-<img src="assets/mobile.png" alt="Programa de Mi ruta SOCHIRADI en una pantalla móvil" width="320">
+**Desplegada y utilizada durante el evento.** El congreso terminó; su programa sigue disponible como referencia.
 
-*Captura del navegador a tamaño móvil; no sustituye una prueba en un teléfono físico.*
+<img src="assets/mobile-agenda.webp" alt="Programa móvil del congreso con dos charlas seleccionadas del módulo de inteligencia artificial" width="300">
 
-## El problema
+*Captura móvil real, 390 × 844 píxeles CSS. Dos selecciones de ejemplo; interfaz en español.*
 
-Un congreso con actividades simultáneas exige comparar horarios, salones y temas para decidir a qué asistir. El proyecto transforma el programa en una experiencia de consulta y selección que conserva una ruta personal durante el evento.
+## De elegir a asistir
 
-## Qué permite hacer
+- Explorar por horario o salón, con búsqueda y filtros.
+- Elegir charlas, bloques o salas, conservando excepciones individuales.
+- Consultar un itinerario cronológico, solapamientos y cambios de sala.
+- Revisar el plano del recinto y los detalles de las charlas.
+- Guardar elecciones localmente y consultar la agenda en caché sin conexión tras una primera carga correcta.
 
-- Explorar el programa por horario o salón, con filtros y búsqueda.
-- Elegir actividades y bloques para construir una ruta propia.
-- Detectar conflictos entre actividades seleccionadas.
-- Consultar el mapa y los detalles de las charlas.
-- Conservar las elecciones en el navegador y consultar la agenda sin conexión después de la carga inicial.
+<img src="assets/mobile-itinerary.webp" alt="Itinerario personal con las dos charlas seleccionadas, horarios y enlaces al salón" width="300">
 
-## Uso registrado durante el congreso
+## Evidencia histórica de uso
 
-Cloudflare Web Analytics mostró los siguientes valores para el **9 y 10 de octubre de 2026**, en horario de Chile continental (GMT−3), con el filtro de bots activado:
+Cloudflare Web Analytics registró aproximadamente **140 visitas y 1.200 páginas vistas el 9–10 de octubre de 2026**, en horario de Chile continental (GMT−3), con filtrado de bots activado.
 
-| Indicador | Valor aproximado |
+| Medida histórica | Valor aproximado |
 | --- | --- |
-| Visitas | 140 |
-| Páginas vistas | 1.200 |
-| Dispositivo registrado | 100 % móvil |
-| País registrado | 100 % Chile |
-| Día de mayor actividad de los dos medidos | 9 de octubre: 100 visitas y 800 páginas vistas |
+| 9 de octubre | 100 visitas · 800 páginas vistas |
+| 10 de octubre | 40 visitas · 400 páginas vistas |
+| Dispositivo / país informado | 100% móvil / 100% Chile |
 
-Los valores históricos pueden estar sujetos a muestreo. Las visitas no equivalen a personas únicas, y las páginas vistas incluyen cambios de vista dentro de la app. Estas cifras muestran actividad registrada durante el evento; no permiten calcular cuántos asistentes distintos la utilizaron ni cuánto tiempo ahorraron. [Metodología de Cloudflare](https://developers.cloudflare.com/web-analytics/faq/).
+Las cifras históricas pueden ser muestreadas. Las visitas **no equivalen a personas únicas**; las páginas vistas incluyen navegación interna. Evidencian actividad registrada, no cantidad de asistentes distintos ni ahorro de tiempo medido. [Notas de medición](https://developers.cloudflare.com/web-analytics/faq/).
 
-## Mi aporte
+## Ejecutar y revisar
 
-**Dr. Pablo Aguirre Araya, médico general de zona en Arica.** Definición de la necesidad, decisiones de experiencia de uso, preparación y revisión del programa, y desarrollo iterativo con apoyo de IA.
-
-## Tecnología y estado
-
-HTML, CSS y módulos JavaScript; aplicación web instalable con almacenamiento local y caché para consulta sin conexión. Publicada en Cloudflare Workers.
-
-El congreso finalizó; el programa y la ruta guardada siguen disponibles para consulta. La app es un proyecto independiente, no una aplicación oficial de SOCHIRADI.
-
-## Límites
-
-Las elecciones se guardan por navegador y dominio, sin cuentas ni sincronización entre dispositivos. La primera carga requiere conexión. El PDF del programa y las imágenes externas pueden requerir conexión adicional. Las fuentes y materiales del congreso conservan su procedencia y derechos correspondientes.
-
-## Desarrollo local
-
-Requiere Node.js moderno, sin dependencias de ejecución.
+HTML, CSS y módulos JavaScript; almacenamiento local, caché sin conexión y alojamiento en Cloudflare Workers. Sin dependencias de ejecución. Con una versión moderna de Node.js:
 
 ```sh
 npm run dev
@@ -64,6 +48,12 @@ npm run validate
 npm run build
 ```
 
-El servidor local abre en `http://127.0.0.1:4173`. La distribución estática está en `dist/`. El repositorio existente conserva documentación adicional de fuentes, conciliación del programa, pruebas y publicación.
+El servidor de desarrollo usa el puerto 4173; los archivos estáticos están en `dist/`. [Verificación](docs/verification.md) conserva los controles técnicos existentes. Esta actualización de presentación solo cambia documentación y capturas.
 
-[Contacto](mailto:pablo.aguirre.araya@gmail.com)
+## Alcance y aporte
+
+Proyecto independiente, no una app oficial de SOCHIRADI. Las selecciones pertenecen a cada navegador y dominio, sin cuentas ni sincronización; la primera carga y los materiales externos requieren conexión. Se conserva la procedencia y los derechos de las fuentes.
+
+Definí la necesidad y la experiencia móvil, preparé y revisé los datos del programa y desarrollé iterativamente con asistencia de IA. **Pablo Aguirre Araya, médico en Chile.**
+
+[Abrir la app](https://mi-ruta-sochiradi.pablo-aguirre-araya.workers.dev/) · [Contacto](mailto:pablo.aguirre.araya@gmail.com) · [Detalles de las capturas](docs/screenshots.md)

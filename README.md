@@ -2,59 +2,43 @@
 
 **English** · [Leer en español](README.es.md)
 
-**A conference program you can turn into your own itinerary.**
+**From a conference program to a personal itinerary.**
 
-An unofficial mobile web agenda and venue map for the 2026 Chilean Radiology Congress. Built to help attendees explore simultaneous sessions, choose activities and spot scheduling conflicts from their phones.
+An unofficial mobile agenda for the 2026 Chilean Radiology Congress: compare simultaneous sessions, choose activities and see scheduling conflicts from your phone.
 
-[Open the app](https://mi-ruta-sochiradi.pablo-aguirre-araya.workers.dev/) · [View the repository](https://github.com/pabloagar/mi-ruta-sochiradi)
+[Explore the program](https://mi-ruta-sochiradi.pablo-aguirre-araya.workers.dev/) · [Sources and data audit](docs/data-audit.md)
 
-<img src="assets/mobile.png" alt="Mi ruta SOCHIRADI conference program displayed in a mobile browser viewport" width="320">
+**Deployed and used during the event.** The conference has ended; its program remains available for reference.
 
-*Mobile browser capture. The app interface is in Spanish.*
+<img src="assets/mobile-agenda.webp" alt="Mobile congress program with two talks selected in the artificial intelligence session" width="300">
 
-## The problem
+*Real mobile capture, 390 × 844 CSS pixels. Two example selections; Spanish interface.*
 
-A conference with simultaneous sessions requires comparing times, rooms and topics to decide what to attend. This project turns the program into an interactive agenda that keeps a personal itinerary throughout the event.
+## From choosing to attending
 
-## What it does
+- Browse by time or room, with search and filters.
+- Choose talks, blocks or rooms, while keeping individual exceptions.
+- See a chronological itinerary, overlaps and room changes.
+- Explore the venue map and talk details.
+- Keep selections locally; consult the cached agenda offline after a first successful load.
 
-- Browse the program by time or room, with search and filters.
-- Select activities and session blocks to build a personal itinerary.
-- Identify overlapping activities.
-- View the venue map and talk details.
-- Keep selections in the browser and consult the cached agenda offline after the initial load.
+<img src="assets/mobile-itinerary.webp" alt="Personal itinerary showing the two selected talks, times and room links" width="300">
 
-## Recorded use during the conference
+## Historical usage evidence
 
-Cloudflare Web Analytics showed the following figures for **October 9–10, 2026**, in mainland Chile time (GMT−3), with bot filtering enabled:
+Cloudflare Web Analytics recorded approximately **140 visits and 1,200 page views on October 9–10, 2026**, in mainland Chile time (GMT−3), with bot filtering enabled.
 
-| Metric | Approximate result |
+| Historical measure | Approximate value |
 | --- | --- |
-| Visits | 140 |
-| Page views | 1,200 |
-| Recorded device type | 100% mobile |
-| Recorded country | 100% Chile |
-| Busiest of the two measured days | October 9: 100 visits and 800 page views |
+| October 9 | 100 visits · 800 page views |
+| October 10 | 40 visits · 400 page views |
+| Reported device / country | 100% mobile / 100% Chile |
 
-Historical figures may be sampled. Visits are not unique people, and page views include navigation within the app. These figures show recorded activity during the event; they do not establish how many distinct attendees used the app or how much time it saved. [Cloudflare methodology](https://developers.cloudflare.com/web-analytics/faq/).
+These historical figures may be sampled. Visits are **not unique people**; page views include navigation inside the app. They show recorded use, not distinct attendee counts or measured time savings. [Measurement notes](https://developers.cloudflare.com/web-analytics/faq/).
 
-## My contribution
+## Build and inspect
 
-**Dr. Pablo Aguirre Araya, physician in Chile's MGZ public service program, Arica.** Problem definition, user experience decisions, preparation and review of the program data, and iterative development with AI assistance.
-
-## Technology and status
-
-HTML, CSS and JavaScript modules; an installable web app with local storage and offline caching. Deployed on Cloudflare Workers.
-
-The conference has ended; the program and saved itinerary remain available for reference. This is an independent project, not an official SOCHIRADI application.
-
-## Limitations
-
-Selections are stored per browser and domain, without accounts or cross-device synchronization. The first load requires connectivity. The program PDF and external images may need a separate online connection. Conference source materials retain their respective provenance and rights.
-
-## Local development
-
-Requires a modern Node.js version, with no runtime dependencies.
+HTML, CSS and JavaScript modules; local storage, offline caching and Cloudflare Workers hosting. No runtime dependencies. With a modern Node.js version:
 
 ```sh
 npm run dev
@@ -64,6 +48,12 @@ npm run validate
 npm run build
 ```
 
-The local server runs at `http://127.0.0.1:4173`. Static distribution files are in `dist/`. The existing repository contains additional documentation on sources, program reconciliation, checks and deployment.
+The development server uses port 4173; static files are in `dist/`. See [verification](docs/verification.md) for the existing technical checks. This presentation update changes documentation and screenshots only.
 
-[Contact](mailto:pablo.aguirre.araya@gmail.com)
+## Scope and contribution
+
+An independent project, not an official SOCHIRADI app. Selections belong to each browser and domain, without accounts or synchronization; the first load and external materials require connectivity. Source materials retain their provenance and rights.
+
+I defined the need and mobile experience, prepared and reviewed the program data, and developed iteratively with AI assistance. **Pablo Aguirre Araya, physician in Chile.**
+
+[Open the app](https://mi-ruta-sochiradi.pablo-aguirre-araya.workers.dev/) · [Contact](mailto:pablo.aguirre.araya@gmail.com) · [Capture details](docs/screenshots.md)
