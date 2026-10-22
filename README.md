@@ -6,11 +6,16 @@
 
 An unofficial mobile web agenda and venue map for the 2026 Chilean Radiology Congress. Built to help attendees explore simultaneous sessions, choose activities and spot scheduling conflicts from their phones.
 
-[Open the app](https://mi-ruta-sochiradi.pablo-aguirre-araya.workers.dev/) · [View the repository](https://github.com/pabloagar/mi-ruta-sochiradi)
+[Open the app](https://mi-ruta-sochiradi.pablo-aguirre-araya.workers.dev/)
 
-<img src="assets/mobile.png" alt="Mi ruta SOCHIRADI conference program displayed in a mobile browser viewport" width="320">
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/screenshots/programa-mobile.webp">
+  <img src="assets/screenshots/programa-desktop.webp" alt="Mi ruta SOCHIRADI program by room, with session times, selection controls and navigation" width="100%">
+</picture>
 
-*Mobile browser capture. The app interface is in Spanish.*
+Published app, October 22, 2026. Program view reached through normal navigation; no clock or agenda data was changed. [Mobile (390 × 844, 2×)](assets/screenshots/programa-mobile.webp) · [Capture provenance](assets/screenshots/README.md).
+
+**Status:** independent published app; the conference has ended. Screenshots show program browsing, not a live event.
 
 ## The problem
 
@@ -36,7 +41,13 @@ Cloudflare Web Analytics showed the following figures for **October 9–10, 2026
 | Recorded country | 100% Chile |
 | Busiest of the two measured days | October 9: 100 visits and 800 page views |
 
-Historical figures may be sampled. Visits are not unique people, and page views include navigation within the app. These figures show recorded activity during the event; they do not establish how many distinct attendees used the app or how much time it saved. [Cloudflare methodology](https://developers.cloudflare.com/web-analytics/faq/).
+These figures were reported from the Cloudflare dashboard in the project documentation; the repository does not include a public dashboard capture or export for independent auditing. Historical figures may be sampled. Visits are not unique people, and page views include navigation within the app. These figures show recorded activity during the event; they do not establish how many distinct attendees used the app or how much time it saved. [Cloudflare methodology](https://developers.cloudflare.com/web-analytics/faq/).
+
+## Inspectable evidence
+
+- [Program audit](docs/data-audit.md): coverage, sources and discrepancies.
+- [Application verification](docs/verification.md): documented checks and limitations.
+- [Real screenshots and capture settings](assets/screenshots/README.md): fresh contexts without pre-existing personal itineraries.
 
 ## My contribution
 

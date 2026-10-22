@@ -1,0 +1,46 @@
+{
+  "captureDate": "2026-10-22",
+  "timezone": "America/Santiago",
+  "browser": "Google Chrome (headless, Playwright)",
+  "browserVersion": "155.0.8059.85",
+  "sourceCommit": "fc88ac11a43d698343fcbfa6fa58347317742723",
+  "method": "Fresh contexts. Mobile 390x844 CSS px at deviceScaleFactor 2; desktop 1440x900 at 1. Original viewport screenshots, no crop, no DOM edits, no artificial screens. WebP encoding only; no recoloring or simulated dark mode.",
+  "captures": [
+    {
+      "file": "programa-mobile.webp",
+      "source": "sochiradi_programa-mobile.png",
+      "url": "https://mi-ruta-sochiradi.pablo-aguirre-araya.workers.dev/",
+      "capturedAt": "2026-10-22T11:38:22.336Z",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "scale": 2,
+      "width": 780,
+      "height": 1688,
+      "bytes": 94008,
+      "rawSha256": "fa930964420d7a5fdb2ad5ec6bf38e9d98ea1334c227a3ffb3b2ce8cb6337b5c",
+      "sha256": "6a15bc76ea149787ad52ab2d80135e12033fb7f7e69f152ecfff49b4bacf70f5",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "file": "programa-desktop.webp",
+      "source": "sochiradi_programa-desktop.png",
+      "url": "https://mi-ruta-sochiradi.pablo-aguirre-araya.workers.dev/",
+      "capturedAt": "2026-10-22T11:38:22.336Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "scale": 1,
+      "width": 1440,
+      "height": 900,
+      "bytes": 44218,
+      "rawSha256": "fa8e4974dcf1941abcc33ce38ebf8dca435c4bf5d5701e677370ea854ef5f9b0",
+      "sha256": "2136e86bd9b229b313c621d4ecc6f1afaeed7bf44c101cc80b3ccf32fb00ceed",
+      "status": 200,
+      "errors": []
+    }
+  ]
+}
